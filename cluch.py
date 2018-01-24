@@ -83,9 +83,27 @@ for head in header_item:
         new_url=url+cat_link[links]
 
         print('connecting...............catag '+new_url)
-        new_content=requests.get(new_url)
+        
+        try:
+            fp=open(new_url+'.text','r')
+            new_content=fp.read()
 
-        page_soup=Bs(new_content.text,'html.parser')
+            fp.close()
+        except Exception as e:
+            try:
+                new_content=requests.get(new_url)
+                new_content=new_content.text
+                fp=open(new_url+'.text','w+')
+                fp.write(new_content)
+                fp.close()
+            except Exception as e:
+                print(e)
+
+                
+                
+                    
+
+        page_soup=Bs(new_content,'html.parser')
 
         num_of_row=page_soup.find('li',class_='pager-current').text
         num_of_row=int(num_of_row.split(' ')[-1])
@@ -95,16 +113,34 @@ for head in header_item:
         
         print()
         print()
-        print(linkable)
+        print('linkable '+linkable)
         
         for i in range(num_of_row):
             new_url1=new_url+'?page='+str(i)
             
             print('connecting...............for page '+str(i))
-            page_data=requests.get(new_url1)
-            #print(new_url)
+            lunk=linkable
+            lunk=lunk+'_page'+str(i)+'.text'
+            try:
+                fp=open(lunk,'r')
+                page_data=fp.read()
+                fp.close()
+            except Exception as e:
+                try:
+                    print(new_url1)
+                    page_data=requests.get(new_url1)
+                    if(page_data.status_code==200):
+                        print('page open')
+                        print()
+                        print()
+                        fp=open(lunk,'w+')
+                        fp.write(page_data.text)
+                        print('page written')
+                    
+                except Exception as e1:
+                    print('page error'+str(e1))
             
-            page_1_soup=Bs(page_data.text,'html.parser')
+            page_1_soup=Bs(page_data,'html.parser')
             
 
             page_all_lis=page_1_soup.find_all('li',class_='provider-row')
@@ -115,18 +151,35 @@ for head in header_item:
             for lis in page_all_lis:
                 li_data=lis.find('div',class_='row')
                 try:
+                    company_location_region=li_data.find('span',class_='region').text
+                except Exception as e:
+                    print('company_region not fount ')
+                    company_location_region=''
+                #print('region= '+company_location_region)
+                
+                try:
                     company_id=li_data['data-clutch-nid']
                 except Exception as e:
                     print('company_id not fount ')
                     company_id=''
-                print ('company_id='+company_id)
+                #print ('company_id='+company_id)
+                try:
+                    company_website=li_data.find('li',class_='website-link website-link-a').a['href']
+                except Exception as e:
+                    print('company_website not fount for  '+company_name)
+                    company_website=''
+
                 try:
                     company_name=li_data.find('h3',class_='company-name').text.strip()
                 except Exception as e:
-                    print('company_name not fount ')
-                    company_name=''
+                    ind=re.match(r'http://(www)?(.*)\.',company_website).group()
+                    company_name=ind.replace(r'http://','').replace('www.','').replace('.','')
+                if(company_name==''):
+                    ind=re.match(r'http://(www)?(.*)\.',company_website).group()
+                    company_name=ind.replace(r'http://','').replace('www.','').replace('.','')
+                    
                 
-                print('company_name = '+company_name)
+                #print('company_name = '+company_name)
 
                 try:
                     company_rating=li_data.find('span',class_='rating').text
@@ -135,16 +188,16 @@ for head in header_item:
                     print('company_rating not fount ')
                     company_rating=''
                 
-                print('company_rating='+company_rating)
-
+                #print('company_rating='+company_rating)
+                
                 try:
                     company_review_count=li_data.find('span',class_='reviews-count').a.text.split(' ')[0]
                 
                 except Exception as e:
                     print('company_review not fount ')
-                    company_name=''
+                    company_review_count=''
                 
-                print('company_review='+company_review_count)
+                #print('company_review='+company_review_count)
                 
                 
                 try:
@@ -153,7 +206,7 @@ for head in header_item:
                     print('company_emp not fount ')
                     company_employee=''
                 
-                print('num_employee= '+company_employee)
+                #print('num_employee= '+company_employee)
 
                 
                 
@@ -163,26 +216,16 @@ for head in header_item:
                     print('company_city not fount ')
                     company_location_city=''
                 
-                print('company_location_city= '+company_location_city)
-                
-                
-                try:
-                    company_location_region=li_data.find('span',class_='region').text
-                except Exception as e:
-                    print('company_region not fount ')
-                    company_location_region=''
-                
-                print('region= '+company_location_region)
+                #print('company_location_city= '+company_location_city)
                 
                 
                 
-                try:
-                    company_website=li_data.find('li',class_='website-link website-link-a').a['href']
-                except Exception as e:
-                    print('company_website not fount for  '+company_name)
-                    company_website=''
                 
-                print('company_website= '+company_website)
+                
+                
+                
+                
+                #print('company_website= '+company_website)
                 
                 
                 
@@ -192,23 +235,16 @@ for head in header_item:
                     print('company_contact not fount ')
                     company_contact=''
                 
-                print('company_contact='+company_contact)
+                #print('company_contact='+company_contact)
                 query='insert into clutch_db values("'+company_id+'","'+linkable+'","'+company_name+'","'+company_contact+'","'+company_website+'","'+company_location_city+'","'+company_location_region+'","'+company_employee+'","'+company_rating+'","'+company_review_count+'")'
                 print('inserted company'+ company_name)
                 try:    
                     cur.execute(query)
+                    conn.commit()
                 except Exception as e:
                     print(e)
-            hello=input('enter:')
-            if(hello=='q'):
-                break
-            else:
-                pass
-        flag=input('Enter for next catag and q for exit')
-        if(flag=='q'):
-            break
-        else:
-            pass
+                   
+        
 print()
 print('done')
 flag=('You Want To Commit [Y/N]')
