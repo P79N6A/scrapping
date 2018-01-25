@@ -203,9 +203,9 @@
 <div class="view-content-bordered">
 <div class="row module-filtre__content">
 <div class="col-xs-12 col-md-6 main-tabs-wrapper bordered-right">
-<div class="tabs-info"><span class="count-service-reviews">1021 Firms</span></div>
+<div class="tabs-info"><span class="count-service-reviews">1026 Firms</span></div>
 <ul class="main-tabs nav nav-tabs tabs nav-justified" role="tablist"><li class="active"><a href="/app-developers/cross-platform" class="default active"><span class="icon-check-c"></span><span class="text">Reviews</span></a></li><li class=""><a href="/app-developers/cross-platform/leaders-matrix"><span class="icon-leaders-matrix"></span><span class="text">Leaders Matrix</a></li></ul> </div>
- <div class="exposed-filters">
+<div class="exposed-filters">
 <form action="/app-developers/cross-platform" method="get" id="views-exposed-form-lm-mobile-app-xplatform-directory" accept-charset="UTF-8"><div><div class="col-xs-7 col-md-4 col-lg-3 sortby">
 <div class="clutchreview_rfe"><div class="form-type-select form-item-sort-bef-combine form-item form-group">
 <label class="element-invisible" for="edit-sort-bef-combine">Sort by </label>
@@ -269,7 +269,7 @@ Filter <span class="hidden-xs">Results</span> </a>
 </div>
 <div class="exposed-widget clearfix">
 <label class="element-invisible">Automotive</label>
-<div class="form-type-textfield form-item-field-pp-if-automotive-value form-item form-group">
+ <div class="form-type-textfield form-item-field-pp-if-automotive-value form-item form-group">
 <input class="form-control form-text" type="text" id="edit-field-pp-if-automotive-value" name="field_pp_if_automotive_value" value="" size="30" maxlength="128" />
 </div>
 </div>
@@ -468,7 +468,7 @@ Locations
 <div class="main-tab-content tab-content">
 <div class="tab-pane active" id="">
 <a id="main-content"></a>
-<div class="view view-lm-mobile-app-xplatform view-id-lm_mobile_app_xplatform view-display-id-directory top-companies directory view-dom-id-b9e50779ed7ae10e37a4a042341f1927">
+<div class="view view-lm-mobile-app-xplatform view-id-lm_mobile_app_xplatform view-display-id-directory top-companies directory view-dom-id-13d73bb567d234f87ffa4a7956426173">
 <div class="list-header">
 <div class="row">
 <div class="col-xs-12">
@@ -493,9 +493,9 @@ Locations
 <a href="/profile/table-xi" target="_blank">Table XI</a> </h3>
 <p class="tagline">Custom Apps: Tech Done Right</p>
 <div class="rating-reviews"><span class="rating">4.9</span><div class="reviews-totals-stars"><div class="fivestar-static-item"><div class="form-type-item form-item form-group">
-<div class="fivestar-"><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clearfix"><div class="star star-1 star-odd star-first"><span class="on"></span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on"></span></div><div class="star star-5 star-odd star-last"><span class="bg"></span><span class="on" style="width: 86.842%"></span></div></div></div>
+<div class="fivestar-"><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clearfix"><div class="star star-1 star-odd star-first"><span class="on"></span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on"></span></div><div class="star star-5 star-odd star-last"><span class="bg"></span><span class="on" style="width: 87.5%"></span></div></div></div>
 </div>
-</div></div><span class="reviews-count"><a href="https://clutch.co/profile/table-xi#reviews" target="_blank">19 reviews <span class="icon-angle-right"></span></a></span></div>
+</div></div><span class="reviews-count"><a href="https://clutch.co/profile/table-xi#reviews" target="_blank">20 reviews <span class="icon-angle-right"></span></a></span></div>
 </div>
 </div>
 <div class="row provider-info no-margin">
@@ -507,7 +507,7 @@ Locations
 <div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
 <div class="module-list">
 <div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $75,000+ </div>
-<div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$150 - $199</span> / hr
+ <div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$150 - $199</span> / hr
 </div>
 <div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">10 - 49</span></div>
 <div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
@@ -530,7 +530,7 @@ Locations
 <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
 <span class="sr-only">Previous</span>
 </a>
- <a class="right carousel-control" href="#chart-label-carousel-40017" role="button" data-slide="next" data-toggle="slidernext">
+<a class="right carousel-control" href="#chart-label-carousel-40017" role="button" data-slide="next" data-toggle="slidernext">
 <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
 <span class="sr-only">Next</span>
 </a>
@@ -583,10 +583,10 @@ Locations
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='PkumVdMlA' rel='nofollow'></a><script>var PkumVdMlA = '#m#sales@tablexi.co';
-var PkumVdMlA = PkumVdMlA.split('#');
-document.getElementById('PkumVdMlA').innerHTML = PkumVdMlA[2]+PkumVdMlA[1]+PkumVdMlA[0];
-document.getElementById('PkumVdMlA').href = 'mailto:'+PkumVdMlA[2]+PkumVdMlA[1]+PkumVdMlA[0];
+<i class="icon icon-mail visible-xs-inline"></i><a id='NqVBfvcCu' rel='nofollow'></a><script>var NqVBfvcCu = '#i.com#sales@tablex';
+var NqVBfvcCu = NqVBfvcCu.split('#');
+document.getElementById('NqVBfvcCu').innerHTML = NqVBfvcCu[2]+NqVBfvcCu[1]+NqVBfvcCu[0];
+document.getElementById('NqVBfvcCu').href = 'mailto:'+NqVBfvcCu[2]+NqVBfvcCu[1]+NqVBfvcCu[0];
 </script>
 </div>
 <div class="line"></div>
@@ -628,7 +628,7 @@ document.getElementById('PkumVdMlA').href = 'mailto:'+PkumVdMlA[2]+PkumVdMlA[1]+
 </div>
 <div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">50 - 249</span></div>
 <div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
- <span class="locality">Kolkata,</span>
+<span class="locality">Kolkata,</span>
 </span><span class="location-country">
 <span class="country-name">India</span>
 </span></div>
@@ -700,10 +700,10 @@ document.getElementById('PkumVdMlA').href = 'mailto:'+PkumVdMlA[2]+PkumVdMlA[1]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='pyZqdxMLR' rel='nofollow'></a><script>var pyZqdxMLR = '#ofied.com#business@inn';
-var pyZqdxMLR = pyZqdxMLR.split('#');
-document.getElementById('pyZqdxMLR').innerHTML = pyZqdxMLR[2]+pyZqdxMLR[1]+pyZqdxMLR[0];
-document.getElementById('pyZqdxMLR').href = 'mailto:'+pyZqdxMLR[2]+pyZqdxMLR[1]+pyZqdxMLR[0];
+<i class="icon icon-mail visible-xs-inline"></i><a id='mSlDHOALI' rel='nofollow'></a><script>var mSlDHOALI = 'ed.co#busin#nnofi#m##ess@i';
+var mSlDHOALI = mSlDHOALI.split('#');
+document.getElementById('mSlDHOALI').innerHTML = mSlDHOALI[1]+mSlDHOALI[5]+mSlDHOALI[2]+mSlDHOALI[0]+mSlDHOALI[3]+mSlDHOALI[4];
+document.getElementById('mSlDHOALI').href = 'mailto:'+mSlDHOALI[1]+mSlDHOALI[5]+mSlDHOALI[2]+mSlDHOALI[0]+mSlDHOALI[3]+mSlDHOALI[4];
 </script>
 </div>
 <div class="line"></div>
@@ -777,7 +777,7 @@ document.getElementById('pyZqdxMLR').href = 'mailto:'+pyZqdxMLR[2]+pyZqdxMLR[1]+
 <div class="chart-label hidden-xs"></div>
 <div class="chart-label-carousel visible-xs">
 <div id="chart-label-carousel-381932" class="carousel slide" data-ride="carousel">
- <div class="carousel-inner"></div>
+<div class="carousel-inner"></div>
 <a class="left carousel-control" href="#chart-label-carousel-381932" role="button" data-slide="prev" data-toggle="sliderprev">
 <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
 <span class="sr-only">Previous</span>
@@ -806,7 +806,7 @@ document.getElementById('pyZqdxMLR').href = 'mailto:'+pyZqdxMLR[2]+pyZqdxMLR[1]+
 <i class="icon icon-profile"></i>
 </a>
 </li>
-<li>
+ <li>
 <a href="" class="contact">
 <span class="hidden-xs">Contact</span>
 <i class="icon icon-contact"></i>
@@ -817,10 +817,10 @@ document.getElementById('pyZqdxMLR').href = 'mailto:'+pyZqdxMLR[2]+pyZqdxMLR[1]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='MaHCPgvot' rel='nofollow'></a><script>var MaHCPgvot = 'ost.ag#ency#sales@#';
-var MaHCPgvot = MaHCPgvot.split('#');
-document.getElementById('MaHCPgvot').innerHTML = MaHCPgvot[2]+MaHCPgvot[0]+MaHCPgvot[1]+MaHCPgvot[3];
-document.getElementById('MaHCPgvot').href = 'mailto:'+MaHCPgvot[2]+MaHCPgvot[0]+MaHCPgvot[1]+MaHCPgvot[3];
+<i class="icon icon-mail visible-xs-inline"></i><a id='hcKzZHVjX' rel='nofollow'></a><script>var hcKzZHVjX = 'sales@ost.agenc#y#';
+var hcKzZHVjX = hcKzZHVjX.split('#');
+document.getElementById('hcKzZHVjX').innerHTML = hcKzZHVjX[0]+hcKzZHVjX[1]+hcKzZHVjX[2];
+document.getElementById('hcKzZHVjX').href = 'mailto:'+hcKzZHVjX[0]+hcKzZHVjX[1]+hcKzZHVjX[2];
 </script>
 </div>
 <div class="line"></div>
@@ -841,7 +841,7 @@ document.getElementById('MaHCPgvot').href = 'mailto:'+MaHCPgvot[2]+MaHCPgvot[0]+
 <img property="image" class="img-responsive" data-echo="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/daffodil_logo-02.png?itok=W5jADauQ" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="65" alt="Daffodil Software Logo" /><noscript><img property="image" class="img-responsive" src="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/daffodil_logo-02.png?itok=W5jADauQ" width="65" height="65" alt="Daffodil Software Logo" /></noscript> </a>
 </div>
 <h3 class="company-name">
- <a href="/profile/daffodil-software" target="_blank">Daffodil Software</a> </h3>
+<a href="/profile/daffodil-software" target="_blank">Daffodil Software</a> </h3>
 <p class="tagline">Technology Partner for Custom Web & Mobile Apps</p>
 <div class="rating-reviews"><span class="rating">4.7</span><div class="reviews-totals-stars"><div class="fivestar-static-item"><div class="form-type-item form-item form-group">
 <div class="fivestar-"><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clearfix"><div class="star star-1 star-odd star-first"><span class="on"></span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on"></span></div><div class="star star-5 star-odd star-last"><span class="bg"></span><span class="on" style="width: 74%"></span></div></div></div>
@@ -934,10 +934,10 @@ document.getElementById('MaHCPgvot').href = 'mailto:'+MaHCPgvot[2]+MaHCPgvot[0]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='lAMxwhKLo' rel='nofollow'></a><script>var lAMxwhKLo = 'reach#@daff#w.com##odils';
-var lAMxwhKLo = lAMxwhKLo.split('#');
-document.getElementById('lAMxwhKLo').innerHTML = lAMxwhKLo[0]+lAMxwhKLo[1]+lAMxwhKLo[4]+lAMxwhKLo[2]+lAMxwhKLo[3];
-document.getElementById('lAMxwhKLo').href = 'mailto:'+lAMxwhKLo[0]+lAMxwhKLo[1]+lAMxwhKLo[4]+lAMxwhKLo[2]+lAMxwhKLo[3];
+<i class="icon icon-mail visible-xs-inline"></i><a id='qbiPKXNHj' rel='nofollow'></a><script>var qbiPKXNHj = '#reach@daffodi#lsw.com';
+var qbiPKXNHj = qbiPKXNHj.split('#');
+document.getElementById('qbiPKXNHj').innerHTML = qbiPKXNHj[1]+qbiPKXNHj[2]+qbiPKXNHj[0];
+document.getElementById('qbiPKXNHj').href = 'mailto:'+qbiPKXNHj[1]+qbiPKXNHj[2]+qbiPKXNHj[0];
 </script>
 </div>
 <div class="line"></div>
@@ -999,7 +999,7 @@ document.getElementById('lAMxwhKLo').href = 'mailto:'+lAMxwhKLo[0]+lAMxwhKLo[1]+
 <span class="sr-only">Previous</span>
 </a>
 <a class="right carousel-control" href="#chart-label-carousel-23606" role="button" data-slide="next" data-toggle="slidernext">
-<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+ <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
 <span class="sr-only">Next</span>
 </a>
 </div>
@@ -1051,10 +1051,10 @@ document.getElementById('lAMxwhKLo').href = 'mailto:'+lAMxwhKLo[0]+lAMxwhKLo[1]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='WFVuLiMAP' rel='nofollow'></a><script>var WFVuLiMAP = 'uch.com#tch@arcto##hello+clu';
-var WFVuLiMAP = WFVuLiMAP.split('#');
-document.getElementById('WFVuLiMAP').innerHTML = WFVuLiMAP[3]+WFVuLiMAP[1]+WFVuLiMAP[0]+WFVuLiMAP[2];
-document.getElementById('WFVuLiMAP').href = 'mailto:'+WFVuLiMAP[3]+WFVuLiMAP[1]+WFVuLiMAP[0]+WFVuLiMAP[2];
+<i class="icon icon-mail visible-xs-inline"></i><a id='DHzemibQl' rel='nofollow'></a><script>var DHzemibQl = 'tch@arcto##hello+clu#uch.com';
+var DHzemibQl = DHzemibQl.split('#');
+document.getElementById('DHzemibQl').innerHTML = DHzemibQl[2]+DHzemibQl[0]+DHzemibQl[3]+DHzemibQl[1];
+document.getElementById('DHzemibQl').href = 'mailto:'+DHzemibQl[2]+DHzemibQl[0]+DHzemibQl[3]+DHzemibQl[1];
 </script>
 </div>
 <div class="line"></div>
@@ -1083,7 +1083,7 @@ document.getElementById('WFVuLiMAP').href = 'mailto:'+WFVuLiMAP[3]+WFVuLiMAP[1]+
 </div></div><span class="reviews-count"><a href="https://clutch.co/profile/raizlabs#reviews" target="_blank">10 reviews <span class="icon-angle-right"></span></a></span></div>
 </div>
 </div>
- <div class="row provider-info no-margin">
+<div class="row provider-info no-margin">
 <div class="col-xs-12 col-sm-6 col-md-3 provider-info__description">
 <blockquote class="blockquote-in-module"><p>"They’re not just trying to be on the cutting edge; they’re really trying to be thought leaders and pioneer value."</p>
 </blockquote>
@@ -1099,7 +1099,7 @@ document.getElementById('WFVuLiMAP').href = 'mailto:'+WFVuLiMAP[3]+WFVuLiMAP[1]+
 <span class="locality">Boston,</span>
 <span class="region">MA</span>
 </span><span class="location-country">
-</span></div>
+ </span></div>
 </div>
 </div>
 <div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
@@ -1126,7 +1126,7 @@ document.getElementById('WFVuLiMAP').href = 'mailto:'+WFVuLiMAP[3]+WFVuLiMAP[1]+
 <div class="graph-title second_bar_name">&nbsp;</div>
 <div class="chartAreaWrapper service-focus-graph" id="service-focus-5502-2" data-clutch-toggle="graph" data-clutch-graph-nid="5502" data-clutch-graph-type="sec"></div>
 <div class="chart-label hidden-xs"></div>
- <div class="chart-label-carousel visible-xs">
+<div class="chart-label-carousel visible-xs">
 <div id="chart-label-carousel-55022" class="carousel slide" data-ride="carousel">
 <div class="carousel-inner"></div>
 <a class="left carousel-control" href="#chart-label-carousel-55022" role="button" data-slide="prev" data-toggle="sliderprev">
@@ -1168,10 +1168,10 @@ document.getElementById('WFVuLiMAP').href = 'mailto:'+WFVuLiMAP[3]+WFVuLiMAP[1]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='jYxFtdWLH' rel='nofollow'></a><script>var jYxFtdWLH = 'om##hello@raizlabs.c';
-var jYxFtdWLH = jYxFtdWLH.split('#');
-document.getElementById('jYxFtdWLH').innerHTML = jYxFtdWLH[2]+jYxFtdWLH[0]+jYxFtdWLH[1];
-document.getElementById('jYxFtdWLH').href = 'mailto:'+jYxFtdWLH[2]+jYxFtdWLH[0]+jYxFtdWLH[1];
+<i class="icon icon-mail visible-xs-inline"></i><a id='mPZCinEtT' rel='nofollow'></a><script>var mPZCinEtT = '#hello@raizla#bs.com';
+var mPZCinEtT = mPZCinEtT.split('#');
+document.getElementById('mPZCinEtT').innerHTML = mPZCinEtT[1]+mPZCinEtT[2]+mPZCinEtT[0];
+document.getElementById('mPZCinEtT').href = 'mailto:'+mPZCinEtT[1]+mPZCinEtT[2]+mPZCinEtT[0];
 </script>
 </div>
 <div class="line"></div>
@@ -1241,7 +1241,7 @@ document.getElementById('jYxFtdWLH').href = 'mailto:'+jYxFtdWLH[2]+jYxFtdWLH[0]+
 </div>
 <div class="directory-graph directory-secondary-bar">
 <div class="graph-title second_bar_name">&nbsp;</div>
-<div class="chartAreaWrapper service-focus-graph" id="service-focus-17480-2" data-clutch-toggle="graph" data-clutch-graph-nid="17480" data-clutch-graph-type="sec"></div>
+ <div class="chartAreaWrapper service-focus-graph" id="service-focus-17480-2" data-clutch-toggle="graph" data-clutch-graph-nid="17480" data-clutch-graph-type="sec"></div>
 <div class="chart-label hidden-xs"></div>
 <div class="chart-label-carousel visible-xs">
 <div id="chart-label-carousel-174802" class="carousel slide" data-ride="carousel">
@@ -1285,10 +1285,10 @@ document.getElementById('jYxFtdWLH').href = 'mailto:'+jYxFtdWLH[2]+jYxFtdWLH[0]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='xOLcXREzb' rel='nofollow'></a><script>var xOLcXREzb = '#hello@uruit.#com';
-var xOLcXREzb = xOLcXREzb.split('#');
-document.getElementById('xOLcXREzb').innerHTML = xOLcXREzb[1]+xOLcXREzb[2]+xOLcXREzb[0];
-document.getElementById('xOLcXREzb').href = 'mailto:'+xOLcXREzb[1]+xOLcXREzb[2]+xOLcXREzb[0];
+<i class="icon icon-mail visible-xs-inline"></i><a id='gMapPDxwA' rel='nofollow'></a><script>var gMapPDxwA = '@urui#hello##t.com';
+var gMapPDxwA = gMapPDxwA.split('#');
+document.getElementById('gMapPDxwA').innerHTML = gMapPDxwA[1]+gMapPDxwA[0]+gMapPDxwA[3]+gMapPDxwA[2];
+document.getElementById('gMapPDxwA').href = 'mailto:'+gMapPDxwA[1]+gMapPDxwA[0]+gMapPDxwA[3]+gMapPDxwA[2];
 </script>
 </div>
 <div class="line"></div>
@@ -1341,7 +1341,7 @@ document.getElementById('xOLcXREzb').href = 'mailto:'+xOLcXREzb[1]+xOLcXREzb[2]+
 <div class="directory-graph directory-main-bar">
 <div class="graph-title">Service focus</div>
 <div class="chartAreaWrapper service-focus-graph" id="service-focus-30666" data-clutch-toggle="graph" data-clutch-graph-nid="30666"></div>
-<div class="chart-label hidden-xs"></div>
+ <div class="chart-label hidden-xs"></div>
 <div class="chart-label-carousel visible-xs">
 <div id="chart-label-carousel-30666" class="carousel slide" data-ride="carousel">
 <div class="carousel-inner"></div>
@@ -1402,10 +1402,10 @@ document.getElementById('xOLcXREzb').href = 'mailto:'+xOLcXREzb[1]+xOLcXREzb[2]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='EclFViObu' rel='nofollow'></a><script>var EclFViObu = '#com#hello@promptworks.';
-var EclFViObu = EclFViObu.split('#');
-document.getElementById('EclFViObu').innerHTML = EclFViObu[2]+EclFViObu[1]+EclFViObu[0];
-document.getElementById('EclFViObu').href = 'mailto:'+EclFViObu[2]+EclFViObu[1]+EclFViObu[0];
+<i class="icon icon-mail visible-xs-inline"></i><a id='ARVMecira' rel='nofollow'></a><script>var ARVMecira = '#om#hello@promptworks.c';
+var ARVMecira = ARVMecira.split('#');
+document.getElementById('ARVMecira').innerHTML = ARVMecira[2]+ARVMecira[1]+ARVMecira[0];
+document.getElementById('ARVMecira').href = 'mailto:'+ARVMecira[2]+ARVMecira[1]+ARVMecira[0];
 </script>
 </div>
 <div class="line"></div>
@@ -1445,7 +1445,7 @@ document.getElementById('EclFViObu').href = 'mailto:'+EclFViObu[2]+EclFViObu[1]+
 <div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $10,000+ </div>
 <div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$25 - $49</span> / hr
 </div>
-<div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">50 - 249</span></div>
+ <div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">50 - 249</span></div>
 <div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
 <span class="locality">Sunnyvale,</span>
 <span class="region">CA</span>
@@ -1519,10 +1519,10 @@ document.getElementById('EclFViObu').href = 'mailto:'+EclFViObu[2]+EclFViObu[1]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='ZpTlmGdDY' rel='nofollow'></a><script>var ZpTlmGdDY = 'om#getstarted@intuz.c#';
-var ZpTlmGdDY = ZpTlmGdDY.split('#');
-document.getElementById('ZpTlmGdDY').innerHTML = ZpTlmGdDY[1]+ZpTlmGdDY[0]+ZpTlmGdDY[2];
-document.getElementById('ZpTlmGdDY').href = 'mailto:'+ZpTlmGdDY[1]+ZpTlmGdDY[0]+ZpTlmGdDY[2];
+<i class="icon icon-mail visible-xs-inline"></i><a id='wlIQtnfuP' rel='nofollow'></a><script>var wlIQtnfuP = 'getstarted@in##tuz.com';
+var wlIQtnfuP = wlIQtnfuP.split('#');
+document.getElementById('wlIQtnfuP').innerHTML = wlIQtnfuP[0]+wlIQtnfuP[2]+wlIQtnfuP[1];
+document.getElementById('wlIQtnfuP').href = 'mailto:'+wlIQtnfuP[0]+wlIQtnfuP[2]+wlIQtnfuP[1];
 </script>
 </div>
 <div class="line"></div>
@@ -1560,7 +1560,7 @@ document.getElementById('ZpTlmGdDY').href = 'mailto:'+ZpTlmGdDY[1]+ZpTlmGdDY[0]+
 <div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
 <div class="module-list">
 <div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $10,000+ </div>
- <div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$100 - $149</span> / hr
+<div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$100 - $149</span> / hr
 </div>
 <div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">50 - 249</span></div>
 <div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
@@ -1636,10 +1636,10 @@ document.getElementById('ZpTlmGdDY').href = 'mailto:'+ZpTlmGdDY[1]+ZpTlmGdDY[0]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='DdFCpNuQs' rel='nofollow'></a><script>var DdFCpNuQs = 'go@c##.com#odal';
-var DdFCpNuQs = DdFCpNuQs.split('#');
-document.getElementById('DdFCpNuQs').innerHTML = DdFCpNuQs[0]+DdFCpNuQs[3]+DdFCpNuQs[2]+DdFCpNuQs[1];
-document.getElementById('DdFCpNuQs').href = 'mailto:'+DdFCpNuQs[0]+DdFCpNuQs[3]+DdFCpNuQs[2]+DdFCpNuQs[1];
+<i class="icon icon-mail visible-xs-inline"></i><a id='FCsqUAEkD' rel='nofollow'></a><script>var FCsqUAEkD = '#l.com#go@coda';
+var FCsqUAEkD = FCsqUAEkD.split('#');
+document.getElementById('FCsqUAEkD').innerHTML = FCsqUAEkD[2]+FCsqUAEkD[1]+FCsqUAEkD[0];
+document.getElementById('FCsqUAEkD').href = 'mailto:'+FCsqUAEkD[2]+FCsqUAEkD[1]+FCsqUAEkD[0];
 </script>
 </div>
 <div class="line"></div>
@@ -1753,10 +1753,10 @@ document.getElementById('DdFCpNuQs').href = 'mailto:'+DdFCpNuQs[0]+DdFCpNuQs[3]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='tvUXECDTG' rel='nofollow'></a><script>var tvUXECDTG = 'com##info@scbw.';
-var tvUXECDTG = tvUXECDTG.split('#');
-document.getElementById('tvUXECDTG').innerHTML = tvUXECDTG[2]+tvUXECDTG[0]+tvUXECDTG[1];
-document.getElementById('tvUXECDTG').href = 'mailto:'+tvUXECDTG[2]+tvUXECDTG[0]+tvUXECDTG[1];
+<i class="icon icon-mail visible-xs-inline"></i><a id='EJbCIpRWo' rel='nofollow'></a><script>var EJbCIpRWo = 'info@scbw##.com';
+var EJbCIpRWo = EJbCIpRWo.split('#');
+document.getElementById('EJbCIpRWo').innerHTML = EJbCIpRWo[0]+EJbCIpRWo[2]+EJbCIpRWo[1];
+document.getElementById('EJbCIpRWo').href = 'mailto:'+EJbCIpRWo[0]+EJbCIpRWo[2]+EJbCIpRWo[1];
 </script>
 </div>
 <div class="line"></div>
@@ -1867,13 +1867,13 @@ document.getElementById('tvUXECDTG').href = 'mailto:'+tvUXECDTG[2]+tvUXECDTG[0]+
 <div class="contact-dropdown hide">
 <div class="contact-dropdown-header">
 <a href="#!" class="btn-close-contact pull-right"><i class="icon icon-close"></i></a>
- <div class="dropdown-title">CONTACT</div>
+<div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='GloAUxdjn' rel='nofollow'></a><script>var GloAUxdjn = 'info@macad##amian.com';
-var GloAUxdjn = GloAUxdjn.split('#');
-document.getElementById('GloAUxdjn').innerHTML = GloAUxdjn[0]+GloAUxdjn[2]+GloAUxdjn[1];
-document.getElementById('GloAUxdjn').href = 'mailto:'+GloAUxdjn[0]+GloAUxdjn[2]+GloAUxdjn[1];
+<i class="icon icon-mail visible-xs-inline"></i><a id='AjoZVwcgB' rel='nofollow'></a><script>var AjoZVwcgB = '#info@macadamian.com';
+var AjoZVwcgB = AjoZVwcgB.split('#');
+document.getElementById('AjoZVwcgB').innerHTML = AjoZVwcgB[1]+AjoZVwcgB[0];
+document.getElementById('AjoZVwcgB').href = 'mailto:'+AjoZVwcgB[1]+AjoZVwcgB[0];
 </script>
 </div>
 <div class="line"></div>
@@ -1904,7 +1904,7 @@ document.getElementById('GloAUxdjn').href = 'mailto:'+GloAUxdjn[0]+GloAUxdjn[2]+
 </div>
 <div class="row provider-info no-margin">
 <div class="col-xs-12 col-sm-6 col-md-3 provider-info__description">
-<blockquote class="blockquote-in-module"><p>"We appreciated their [AY Technologies'] willingness to tackle the game integration challenge with as much vigor as t..."</p>
+ <blockquote class="blockquote-in-module"><p>"We appreciated their [AY Technologies'] willingness to tackle the game integration challenge with as much vigor as t..."</p>
 </blockquote>
 <ul class="module-list small-list"><li>CEO, Kids Activity Application <i class="icon-founder"></i></li>
 </ul> </div>
@@ -1987,15 +1987,132 @@ document.getElementById('GloAUxdjn').href = 'mailto:'+GloAUxdjn[0]+GloAUxdjn[2]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='whsjTpSrz' rel='nofollow'></a><script>var whsjTpSrz = '#info@ayt#ech.ca';
-var whsjTpSrz = whsjTpSrz.split('#');
-document.getElementById('whsjTpSrz').innerHTML = whsjTpSrz[1]+whsjTpSrz[2]+whsjTpSrz[0];
-document.getElementById('whsjTpSrz').href = 'mailto:'+whsjTpSrz[1]+whsjTpSrz[2]+whsjTpSrz[0];
+<i class="icon icon-mail visible-xs-inline"></i><a id='jGwAdnsyN' rel='nofollow'></a><script>var jGwAdnsyN = 'info@aytech.c##a';
+var jGwAdnsyN = jGwAdnsyN.split('#');
+document.getElementById('jGwAdnsyN').innerHTML = jGwAdnsyN[0]+jGwAdnsyN[2]+jGwAdnsyN[1];
+document.getElementById('jGwAdnsyN').href = 'mailto:'+jGwAdnsyN[0]+jGwAdnsyN[2]+jGwAdnsyN[1];
 </script>
 </div>
 <div class="line"></div>
 <div class="item __color6a">
 <i class="icon icon-phone visible-xs-inline"></i>6042455875 </div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="provider-row"><div class="row" data-clutch-nid="193656">
+<div class="col-xs-12 col-md-10 bordered-right provider-base-info">
+<div class="row provider-row-header">
+<div class="col-xs-12">
+<div class="company-logo">
+<a href="https://clutch.co/profile/247-labs" target="_blank">
+<img property="image" class="img-responsive" data-echo="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/logo_220px.png?itok=udKr6oy2" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="31" alt="247 Labs - Hire Vetted Designers &amp; Developers" /><noscript><img property="image" class="img-responsive" src="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/logo_220px.png?itok=udKr6oy2" width="65" height="31" alt="247 Labs - Hire Vetted Designers &amp; Developers" /></noscript>  </a>
+</div>
+<h3 class="company-name">
+<a href="/profile/247-labs" target="_blank">247 Labs Inc.</a> </h3>
+<p class="tagline">Hire Top Notch Developers to Deliver Excellence</p>
+<div class="rating-reviews"><span class="rating">4.8</span><div class="reviews-totals-stars"><div class="fivestar-static-item"><div class="form-type-item form-item form-group">
+<div class="fivestar-"><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clearfix"><div class="star star-1 star-odd star-first"><span class="on"></span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on"></span></div><div class="star star-5 star-odd star-last"><span class="bg"></span><span class="on" style="width: 78.5715%"></span></div></div></div>
+</div>
+</div></div><span class="reviews-count"><a href="https://clutch.co/profile/247-labs#reviews" target="_blank">7 reviews <span class="icon-angle-right"></span></a></span></div>
+</div>
+</div>
+<div class="row provider-info no-margin">
+<div class="col-xs-12 col-sm-6 col-md-3 provider-info__description">
+<blockquote class="blockquote-in-module"><p>"The site looks fabulous and works exactly as it was designed."</p>
+</blockquote>
+<ul class="module-list small-list"><li>Digital Designer, AJJ <i class="icon-founder"></i></li>
+</ul> </div>
+<div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
+<div class="module-list">
+<div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $5,000+ </div>
+<div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$25 - $49</span> / hr
+</div>
+<div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">10 - 49</span></div>
+<div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
+<span class="locality">Toronto,</span>
+</span><span class="location-country">
+<span class="country-name">Canada</span>
+</span></div>
+</div>
+</div>
+<div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
+<div class="row">
+<div class="directory-graph directory-main-bar">
+<div class="graph-title">Service focus</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-193656" data-clutch-toggle="graph" data-clutch-graph-nid="193656"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-193656" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-193656" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-193656" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+<div class="directory-graph directory-secondary-bar">
+<div class="graph-title second_bar_name">&nbsp;</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-193656-2" data-clutch-toggle="graph" data-clutch-graph-nid="193656" data-clutch-graph-type="sec"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-1936562" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-1936562" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-1936562" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-md-2 provider-link-details">
+<ul class="nav nav-pills nav-stacked nav-right-profile">
+<li class="website-link website-link-a">
+<a href="https://247labs.com" rel="nofollow" target="_blank">
+<i class="icon icon-visit-site"></i><span class="">Visit Website</span>
+</a>
+</li>
+<li>
+<a href="/profile/247-labs" target="_blank">
+<span class="hidden-xs">View Profile</span>
+<i class="icon icon-profile"></i>
+</a>
+</li>
+<li>
+<a href="" class="contact">
+<span class="hidden-xs">Contact</span>
+<i class="icon icon-contact"></i>
+</a>
+<div class="contact-dropdown hide">
+<div class="contact-dropdown-header">
+<a href="#!" class="btn-close-contact pull-right"><i class="icon icon-close"></i></a>
+<div class="dropdown-title">CONTACT</div>
+</div>
+<div class="item">
+<i class="icon icon-mail visible-xs-inline"></i><a id='LDhOrCkUg' rel='nofollow'></a><script>var LDhOrCkUg = 'bs.com#hello@247la#';
+var LDhOrCkUg = LDhOrCkUg.split('#');
+document.getElementById('LDhOrCkUg').innerHTML = LDhOrCkUg[1]+LDhOrCkUg[0]+LDhOrCkUg[2];
+document.getElementById('LDhOrCkUg').href = 'mailto:'+LDhOrCkUg[1]+LDhOrCkUg[0]+LDhOrCkUg[2];
+</script>
+ </div>
+<div class="line"></div>
+<div class="item __color6a">
+<i class="icon icon-phone visible-xs-inline"></i>+1.416.400.8440 </div>
 </div>
 </li>
 </ul>
@@ -2047,7 +2164,7 @@ document.getElementById('whsjTpSrz').href = 'mailto:'+whsjTpSrz[1]+whsjTpSrz[2]+
 <div class="chart-label-carousel visible-xs">
 <div id="chart-label-carousel-2802" class="carousel slide" data-ride="carousel">
 <div class="carousel-inner"></div>
-<a class="left carousel-control" href="#chart-label-carousel-2802" role="button" data-slide="prev" data-toggle="sliderprev">
+ <a class="left carousel-control" href="#chart-label-carousel-2802" role="button" data-slide="prev" data-toggle="sliderprev">
 <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
 <span class="sr-only">Previous</span>
 </a>
@@ -2060,7 +2177,7 @@ document.getElementById('whsjTpSrz').href = 'mailto:'+whsjTpSrz[1]+whsjTpSrz[2]+
 </div>
 <div class="directory-graph directory-secondary-bar">
 <div class="graph-title second_bar_name">&nbsp;</div>
- <div class="chartAreaWrapper service-focus-graph" id="service-focus-2802-2" data-clutch-toggle="graph" data-clutch-graph-nid="2802" data-clutch-graph-type="sec"></div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-2802-2" data-clutch-toggle="graph" data-clutch-graph-nid="2802" data-clutch-graph-type="sec"></div>
 <div class="chart-label hidden-xs"></div>
 <div class="chart-label-carousel visible-xs">
 <div id="chart-label-carousel-28022" class="carousel slide" data-ride="carousel">
@@ -2104,10 +2221,10 @@ document.getElementById('whsjTpSrz').href = 'mailto:'+whsjTpSrz[1]+whsjTpSrz[2]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='pTONgShKb' rel='nofollow'></a><script>var pTONgShKb = '#ate@men#acceler#tormate#.com';
-var pTONgShKb = pTONgShKb.split('#');
-document.getElementById('pTONgShKb').innerHTML = pTONgShKb[2]+pTONgShKb[1]+pTONgShKb[3]+pTONgShKb[4]+pTONgShKb[0];
-document.getElementById('pTONgShKb').href = 'mailto:'+pTONgShKb[2]+pTONgShKb[1]+pTONgShKb[3]+pTONgShKb[4]+pTONgShKb[0];
+<i class="icon icon-mail visible-xs-inline"></i><a id='MjlYrRqkm' rel='nofollow'></a><script>var MjlYrRqkm = 'com#accelerate@mentormate.#';
+var MjlYrRqkm = MjlYrRqkm.split('#');
+document.getElementById('MjlYrRqkm').innerHTML = MjlYrRqkm[1]+MjlYrRqkm[0]+MjlYrRqkm[2];
+document.getElementById('MjlYrRqkm').href = 'mailto:'+MjlYrRqkm[1]+MjlYrRqkm[0]+MjlYrRqkm[2];
 </script>
 </div>
 <div class="line"></div>
@@ -2221,132 +2338,15 @@ document.getElementById('pTONgShKb').href = 'mailto:'+pTONgShKb[2]+pTONgShKb[1]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='ubQvkATjI' rel='nofollow'></a><script>var ubQvkATjI = 'yinnovative.##build@clearl#com';
-var ubQvkATjI = ubQvkATjI.split('#');
-document.getElementById('ubQvkATjI').innerHTML = ubQvkATjI[2]+ubQvkATjI[0]+ubQvkATjI[3]+ubQvkATjI[1];
-document.getElementById('ubQvkATjI').href = 'mailto:'+ubQvkATjI[2]+ubQvkATjI[0]+ubQvkATjI[3]+ubQvkATjI[1];
+<i class="icon icon-mail visible-xs-inline"></i><a id='mljAYsLUF' rel='nofollow'></a><script>var mljAYsLUF = 'vative.com##build@clearlyinno';
+var mljAYsLUF = mljAYsLUF.split('#');
+document.getElementById('mljAYsLUF').innerHTML = mljAYsLUF[2]+mljAYsLUF[0]+mljAYsLUF[1];
+document.getElementById('mljAYsLUF').href = 'mailto:'+mljAYsLUF[2]+mljAYsLUF[0]+mljAYsLUF[1];
 </script>
 </div>
 <div class="line"></div>
 <div class="item __color6a">
 <i class="icon icon-phone visible-xs-inline"></i>202.408.7514 </div>
-</div>
-</li>
-</ul>
-</div>
-</div>
-</li>
-<li class="provider-row"><div class="row" data-clutch-nid="33563">
-<div class="col-xs-12 col-md-10 bordered-right provider-base-info">
-<div class="row provider-row-header">
-<div class="col-xs-12">
-<div class="company-logo">
-<a href="https://clutch.co/profile/experion-technologies" target="_blank">
-<img property="image" class="img-responsive" data-echo="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/logo_2_9.png?itok=RvEj9po8" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="63" height="65" alt="Experion Technologies logo" /><noscript><img property="image" class="img-responsive" src="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/logo_2_9.png?itok=RvEj9po8" width="63" height="65" alt="Experion Technologies logo" /></noscript> </a>
-</div>
-<h3 class="company-name">
-<a href="/profile/experion-technologies" target="_blank">Experion Technologies </a> </h3>
-<p class="tagline">We build trust.Not just software. </p>
-<div class="rating-reviews"><span class="rating">4.9</span><div class="reviews-totals-stars"><div class="fivestar-static-item"><div class="form-type-item form-item form-group">
-<div class="fivestar-"><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clearfix"><div class="star star-1 star-odd star-first"><span class="on"></span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on"></span></div><div class="star star-5 star-odd star-last"><span class="bg"></span><span class="on" style="width: 91.6665%"></span></div></div></div>
-</div>
-</div></div><span class="reviews-count"><a href="https://clutch.co/profile/experion-technologies#reviews" target="_blank">24 reviews <span class="icon-angle-right"></span></a></span></div>
-</div>
-</div>
-<div class="row provider-info no-margin">
-<div class="col-xs-12 col-sm-6 col-md-3 provider-info__description">
-<blockquote class="blockquote-in-module"><p>"We keep industry standard metrics for the code delivered by Experion and have been happy with their work..."</p>
-</blockquote>
-<ul class="module-list small-list"><li>Head of Strategic Applications, Transportation Nonprofit <i class="icon-founder"></i></li>
-</ul> </div>
-<div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
-<div class="module-list">
-<div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $50,000+ </div>
- <div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$25 - $49</span> / hr
-</div>
-<div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">250 - 999</span></div>
-<div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
-<span class="locality">Addison,</span>
-<span class="region">TX</span>
-</span><span class="location-country">
-</span></div>
-</div>
-</div>
-<div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
-<div class="row">
-<div class="directory-graph directory-main-bar">
-<div class="graph-title">Service focus</div>
-<div class="chartAreaWrapper service-focus-graph" id="service-focus-33563" data-clutch-toggle="graph" data-clutch-graph-nid="33563"></div>
-<div class="chart-label hidden-xs"></div>
-<div class="chart-label-carousel visible-xs">
-<div id="chart-label-carousel-33563" class="carousel slide" data-ride="carousel">
-<div class="carousel-inner"></div>
-<a class="left carousel-control" href="#chart-label-carousel-33563" role="button" data-slide="prev" data-toggle="sliderprev">
-<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-<span class="sr-only">Previous</span>
-</a>
-<a class="right carousel-control" href="#chart-label-carousel-33563" role="button" data-slide="next" data-toggle="slidernext">
-<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-<span class="sr-only">Next</span>
-</a>
-</div>
-</div>
-</div>
-<div class="directory-graph directory-secondary-bar">
-<div class="graph-title second_bar_name">&nbsp;</div>
-<div class="chartAreaWrapper service-focus-graph" id="service-focus-33563-2" data-clutch-toggle="graph" data-clutch-graph-nid="33563" data-clutch-graph-type="sec"></div>
-<div class="chart-label hidden-xs"></div>
-<div class="chart-label-carousel visible-xs">
-<div id="chart-label-carousel-335632" class="carousel slide" data-ride="carousel">
-<div class="carousel-inner"></div>
-<a class="left carousel-control" href="#chart-label-carousel-335632" role="button" data-slide="prev" data-toggle="sliderprev">
-<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-<span class="sr-only">Previous</span>
-</a>
-<a class="right carousel-control" href="#chart-label-carousel-335632" role="button" data-slide="next" data-toggle="slidernext">
-<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-<span class="sr-only">Next</span>
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-xs-12 col-md-2 provider-link-details">
-<ul class="nav nav-pills nav-stacked nav-right-profile">
-<li class="website-link website-link-a">
-<a href="http://www.experionglobal.com/" rel="nofollow" target="_blank">
-<i class="icon icon-visit-site"></i><span class="">Visit Website</span>
-</a>
-</li>
-<li>
-<a href="/profile/experion-technologies" target="_blank">
-<span class="hidden-xs">View Profile</span>
-<i class="icon icon-profile"></i>
-</a>
-</li>
-<li>
-<a href="" class="contact">
-<span class="hidden-xs">Contact</span>
-<i class="icon icon-contact"></i>
-</a>
-<div class="contact-dropdown hide">
-<div class="contact-dropdown-header">
-<a href="#!" class="btn-close-contact pull-right"><i class="icon icon-close"></i></a>
-<div class="dropdown-title">CONTACT</div>
-</div>
-<div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='LNKIinRXQ' rel='nofollow'></a><script>var LNKIinRXQ = '#REACHout@experion#global.com';
-var LNKIinRXQ = LNKIinRXQ.split('#');
-document.getElementById('LNKIinRXQ').innerHTML = LNKIinRXQ[1]+LNKIinRXQ[2]+LNKIinRXQ[0];
-document.getElementById('LNKIinRXQ').href = 'mailto:'+LNKIinRXQ[1]+LNKIinRXQ[2]+LNKIinRXQ[0];
-</script>
-</div>
-<div class="line"></div>
-<div class="item __color6a">
-<i class="icon icon-phone visible-xs-inline"></i>214.983.8181; 972.439.6913; </div>
 </div>
 </li>
 </ul>
@@ -2455,10 +2455,10 @@ document.getElementById('LNKIinRXQ').href = 'mailto:'+LNKIinRXQ[1]+LNKIinRXQ[2]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='pWibAVJEy' rel='nofollow'></a><script>var pWibAVJEy = 'info#@fiv##e.ag#ency';
-var pWibAVJEy = pWibAVJEy.split('#');
-document.getElementById('pWibAVJEy').innerHTML = pWibAVJEy[0]+pWibAVJEy[1]+pWibAVJEy[3]+pWibAVJEy[4]+pWibAVJEy[2];
-document.getElementById('pWibAVJEy').href = 'mailto:'+pWibAVJEy[0]+pWibAVJEy[1]+pWibAVJEy[3]+pWibAVJEy[4]+pWibAVJEy[2];
+<i class="icon icon-mail visible-xs-inline"></i><a id='KySvAEJVf' rel='nofollow'></a><script>var KySvAEJVf = '#e.agency#info@fiv';
+var KySvAEJVf = KySvAEJVf.split('#');
+document.getElementById('KySvAEJVf').innerHTML = KySvAEJVf[2]+KySvAEJVf[1]+KySvAEJVf[0];
+document.getElementById('KySvAEJVf').href = 'mailto:'+KySvAEJVf[2]+KySvAEJVf[1]+KySvAEJVf[0];
 </script>
 </div>
 <div class="line"></div>
@@ -2476,7 +2476,7 @@ document.getElementById('pWibAVJEy').href = 'mailto:'+pWibAVJEy[0]+pWibAVJEy[1]+
 <div class="col-xs-12">
 <div class="company-logo">
 <a href="https://clutch.co/profile/mubaloo" target="_blank">
-<img property="image" class="img-responsive" data-echo="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/mubaloo_logo.png?itok=TNy_E2Fw" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="65" alt="Mubaloo logo" /><noscript><img property="image" class="img-responsive" src="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/mubaloo_logo.png?itok=TNy_E2Fw" width="65" height="65" alt="Mubaloo logo" /></noscript> </a>
+<img property="image" class="img-responsive" data-echo="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/mubaloo_logo.png?itok=TNy_E2Fw" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="65" alt="Mubaloo logo" /><noscript><img property="image" class="img-responsive" src="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/mubaloo_logo.png?itok=TNy_E2Fw" width="65" height="65" alt="Mubaloo logo" /></noscript>  </a>
 </div>
 <h3 class="company-name">
 <a href="/profile/mubaloo" target="_blank">Mubaloo</a> </h3>
@@ -2569,16 +2569,16 @@ document.getElementById('pWibAVJEy').href = 'mailto:'+pWibAVJEy[0]+pWibAVJEy[1]+
 <div class="contact-dropdown hide">
 <div class="contact-dropdown-header">
 <a href="#!" class="btn-close-contact pull-right"><i class="icon icon-close"></i></a>
- <div class="dropdown-title">CONTACT</div>
+<div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='blXIoZRGB' rel='nofollow'></a><script>var blXIoZRGB = 'ubaloo#.com##info@m';
-var blXIoZRGB = blXIoZRGB.split('#');
-document.getElementById('blXIoZRGB').innerHTML = blXIoZRGB[3]+blXIoZRGB[0]+blXIoZRGB[1]+blXIoZRGB[2];
-document.getElementById('blXIoZRGB').href = 'mailto:'+blXIoZRGB[3]+blXIoZRGB[0]+blXIoZRGB[1]+blXIoZRGB[2];
+<i class="icon icon-mail visible-xs-inline"></i><a id='cHkJEneUx' rel='nofollow'></a><script>var cHkJEneUx = 'loo.com#info@muba#';
+var cHkJEneUx = cHkJEneUx.split('#');
+document.getElementById('cHkJEneUx').innerHTML = cHkJEneUx[1]+cHkJEneUx[0]+cHkJEneUx[2];
+document.getElementById('cHkJEneUx').href = 'mailto:'+cHkJEneUx[1]+cHkJEneUx[0]+cHkJEneUx[2];
 </script>
 </div>
-<div class="line"></div>
+ <div class="line"></div>
 <div class="item __color6a">
 <i class="icon icon-phone visible-xs-inline"></i>+44 207 073 7007 </div>
 </div>
@@ -2669,7 +2669,7 @@ document.getElementById('blXIoZRGB').href = 'mailto:'+blXIoZRGB[3]+blXIoZRGB[0]+
 <ul class="nav nav-pills nav-stacked nav-right-profile">
 <li class="website-link website-link-a">
 <a href="https://digiryte.com" rel="nofollow" target="_blank">
-<i class="icon icon-visit-site"></i><span class="">Visit Website</span>
+ <i class="icon icon-visit-site"></i><span class="">Visit Website</span>
 </a>
 </li>
 <li>
@@ -2689,10 +2689,10 @@ document.getElementById('blXIoZRGB').href = 'mailto:'+blXIoZRGB[3]+blXIoZRGB[0]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='FaxlOmJAt' rel='nofollow'></a><script>var FaxlOmJAt = 'te.com##hello@digiry';
-var FaxlOmJAt = FaxlOmJAt.split('#');
-document.getElementById('FaxlOmJAt').innerHTML = FaxlOmJAt[2]+FaxlOmJAt[0]+FaxlOmJAt[1];
-document.getElementById('FaxlOmJAt').href = 'mailto:'+FaxlOmJAt[2]+FaxlOmJAt[0]+FaxlOmJAt[1];
+<i class="icon icon-mail visible-xs-inline"></i><a id='wfXagSvrJ' rel='nofollow'></a><script>var wfXagSvrJ = '#m#hello@digiryte.co';
+var wfXagSvrJ = wfXagSvrJ.split('#');
+document.getElementById('wfXagSvrJ').innerHTML = wfXagSvrJ[2]+wfXagSvrJ[1]+wfXagSvrJ[0];
+document.getElementById('wfXagSvrJ').href = 'mailto:'+wfXagSvrJ[2]+wfXagSvrJ[1]+wfXagSvrJ[0];
 </script>
 </div>
 <div class="line"></div>
@@ -2806,10 +2806,10 @@ document.getElementById('FaxlOmJAt').href = 'mailto:'+FaxlOmJAt[2]+FaxlOmJAt[0]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='FpEtBlPkr' rel='nofollow'></a><script>var FpEtBlPkr = 'om##apps@re#ady4s.c';
-var FpEtBlPkr = FpEtBlPkr.split('#');
-document.getElementById('FpEtBlPkr').innerHTML = FpEtBlPkr[2]+FpEtBlPkr[3]+FpEtBlPkr[0]+FpEtBlPkr[1];
-document.getElementById('FpEtBlPkr').href = 'mailto:'+FpEtBlPkr[2]+FpEtBlPkr[3]+FpEtBlPkr[0]+FpEtBlPkr[1];
+<i class="icon icon-mail visible-xs-inline"></i><a id='UQvGaxzhY' rel='nofollow'></a><script>var UQvGaxzhY = 'apps@ready#4s.com#';
+var UQvGaxzhY = UQvGaxzhY.split('#');
+document.getElementById('UQvGaxzhY').innerHTML = UQvGaxzhY[0]+UQvGaxzhY[1]+UQvGaxzhY[2];
+document.getElementById('UQvGaxzhY').href = 'mailto:'+UQvGaxzhY[0]+UQvGaxzhY[1]+UQvGaxzhY[2];
 </script>
 </div>
 <div class="line"></div>
@@ -2923,10 +2923,10 @@ document.getElementById('FpEtBlPkr').href = 'mailto:'+FpEtBlPkr[2]+FpEtBlPkr[3]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='fNuqRPxAm' rel='nofollow'></a><script>var fNuqRPxAm = 'es@#sal#.co#oft#m#exs##alt';
-var fNuqRPxAm = fNuqRPxAm.split('#');
-document.getElementById('fNuqRPxAm').innerHTML = fNuqRPxAm[1]+fNuqRPxAm[0]+fNuqRPxAm[7]+fNuqRPxAm[5]+fNuqRPxAm[3]+fNuqRPxAm[2]+fNuqRPxAm[4]+fNuqRPxAm[6];
-document.getElementById('fNuqRPxAm').href = 'mailto:'+fNuqRPxAm[1]+fNuqRPxAm[0]+fNuqRPxAm[7]+fNuqRPxAm[5]+fNuqRPxAm[3]+fNuqRPxAm[2]+fNuqRPxAm[4]+fNuqRPxAm[6];
+<i class="icon icon-mail visible-xs-inline"></i><a id='HtLNdfsDr' rel='nofollow'></a><script>var HtLNdfsDr = 'xsoft.com##sales@alte';
+var HtLNdfsDr = HtLNdfsDr.split('#');
+document.getElementById('HtLNdfsDr').innerHTML = HtLNdfsDr[2]+HtLNdfsDr[0]+HtLNdfsDr[1];
+document.getElementById('HtLNdfsDr').href = 'mailto:'+HtLNdfsDr[2]+HtLNdfsDr[0]+HtLNdfsDr[1];
 </script>
 </div>
 <div class="line"></div>
@@ -2969,7 +2969,7 @@ document.getElementById('fNuqRPxAm').href = 'mailto:'+fNuqRPxAm[1]+fNuqRPxAm[0]+
 <div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
 <span class="locality">Montevideo,</span>
 </span><span class="location-country">
-<span class="country-name">Uruguay</span>
+ <span class="country-name">Uruguay</span>
 </span></div>
 </div>
 </div>
@@ -3039,10 +3039,10 @@ document.getElementById('fNuqRPxAm').href = 'mailto:'+fNuqRPxAm[1]+fNuqRPxAm[0]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='XwIQuKGtL' rel='nofollow'></a><script>var XwIQuKGtL = 'ur.c#om#digo#dels#rell#nama##e@co';
-var XwIQuKGtL = XwIQuKGtL.split('#');
-document.getElementById('XwIQuKGtL').innerHTML = XwIQuKGtL[5]+XwIQuKGtL[4]+XwIQuKGtL[7]+XwIQuKGtL[2]+XwIQuKGtL[3]+XwIQuKGtL[0]+XwIQuKGtL[1]+XwIQuKGtL[6];
-document.getElementById('XwIQuKGtL').href = 'mailto:'+XwIQuKGtL[5]+XwIQuKGtL[4]+XwIQuKGtL[7]+XwIQuKGtL[2]+XwIQuKGtL[3]+XwIQuKGtL[0]+XwIQuKGtL[1]+XwIQuKGtL[6];
+<i class="icon icon-mail visible-xs-inline"></i><a id='WGnVAaYeX' rel='nofollow'></a><script>var WGnVAaYeX = 'lsur.com##@codigode#namarelle';
+var WGnVAaYeX = WGnVAaYeX.split('#');
+document.getElementById('WGnVAaYeX').innerHTML = WGnVAaYeX[3]+WGnVAaYeX[2]+WGnVAaYeX[0]+WGnVAaYeX[1];
+document.getElementById('WGnVAaYeX').href = 'mailto:'+WGnVAaYeX[3]+WGnVAaYeX[2]+WGnVAaYeX[0]+WGnVAaYeX[1];
 </script>
 </div>
 <div class="line"></div>
@@ -3156,10 +3156,10 @@ document.getElementById('XwIQuKGtL').href = 'mailto:'+XwIQuKGtL[5]+XwIQuKGtL[4]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='cLkxMiwWE' rel='nofollow'></a><script>var cLkxMiwWE = 'contact@youstart.i##n';
-var cLkxMiwWE = cLkxMiwWE.split('#');
-document.getElementById('cLkxMiwWE').innerHTML = cLkxMiwWE[0]+cLkxMiwWE[2]+cLkxMiwWE[1];
-document.getElementById('cLkxMiwWE').href = 'mailto:'+cLkxMiwWE[0]+cLkxMiwWE[2]+cLkxMiwWE[1];
+<i class="icon icon-mail visible-xs-inline"></i><a id='vTXriaFVp' rel='nofollow'></a><script>var vTXriaFVp = 'contact@youstart.in#';
+var vTXriaFVp = vTXriaFVp.split('#');
+document.getElementById('vTXriaFVp').innerHTML = vTXriaFVp[0]+vTXriaFVp[1];
+document.getElementById('vTXriaFVp').href = 'mailto:'+vTXriaFVp[0]+vTXriaFVp[1];
 </script>
 </div>
 <div class="line"></div>
@@ -3273,17 +3273,17 @@ document.getElementById('cLkxMiwWE').href = 'mailto:'+cLkxMiwWE[0]+cLkxMiwWE[2]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='HLSeBgKip' rel='nofollow'></a><script>var HLSeBgKip = 'info@e#nterac##tive.c#mergei#om';
-var HLSeBgKip = HLSeBgKip.split('#');
-document.getElementById('HLSeBgKip').innerHTML = HLSeBgKip[0]+HLSeBgKip[4]+HLSeBgKip[1]+HLSeBgKip[3]+HLSeBgKip[5]+HLSeBgKip[2];
-document.getElementById('HLSeBgKip').href = 'mailto:'+HLSeBgKip[0]+HLSeBgKip[4]+HLSeBgKip[1]+HLSeBgKip[3]+HLSeBgKip[5]+HLSeBgKip[2];
+<i class="icon icon-mail visible-xs-inline"></i><a id='sKxmGNlZV' rel='nofollow'></a><script>var sKxmGNlZV = 'info@emerge#.com#interactive#';
+var sKxmGNlZV = sKxmGNlZV.split('#');
+document.getElementById('sKxmGNlZV').innerHTML = sKxmGNlZV[0]+sKxmGNlZV[2]+sKxmGNlZV[1]+sKxmGNlZV[3];
+document.getElementById('sKxmGNlZV').href = 'mailto:'+sKxmGNlZV[0]+sKxmGNlZV[2]+sKxmGNlZV[1]+sKxmGNlZV[3];
 </script>
 </div>
 <div class="line"></div>
 <div class="item __color6a">
 <i class="icon icon-phone visible-xs-inline"></i>503.922.3483 </div>
 </div>
-</li>
+ </li>
 </ul>
 </div>
 </div>
@@ -3314,7 +3314,7 @@ document.getElementById('HLSeBgKip').href = 'mailto:'+HLSeBgKip[0]+HLSeBgKip[4]+
 <div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
 <div class="module-list">
 <div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $5,000+ </div>
- <div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">&lt; $25</span> / hr
+<div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">&lt; $25</span> / hr
 </div>
 <div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">50 - 249</span></div>
 <div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
@@ -3390,10 +3390,10 @@ document.getElementById('HLSeBgKip').href = 'mailto:'+HLSeBgKip[0]+HLSeBgKip[4]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='UwSzAMIpJ' rel='nofollow'></a><script>var UwSzAMIpJ = 'es@#.co#ehe#nin#rtz#the#sal#m#';
-var UwSzAMIpJ = UwSzAMIpJ.split('#');
-document.getElementById('UwSzAMIpJ').innerHTML = UwSzAMIpJ[6]+UwSzAMIpJ[0]+UwSzAMIpJ[5]+UwSzAMIpJ[3]+UwSzAMIpJ[2]+UwSzAMIpJ[4]+UwSzAMIpJ[1]+UwSzAMIpJ[7]+UwSzAMIpJ[8];
-document.getElementById('UwSzAMIpJ').href = 'mailto:'+UwSzAMIpJ[6]+UwSzAMIpJ[0]+UwSzAMIpJ[5]+UwSzAMIpJ[3]+UwSzAMIpJ[2]+UwSzAMIpJ[4]+UwSzAMIpJ[1]+UwSzAMIpJ[7]+UwSzAMIpJ[8];
+<i class="icon icon-mail visible-xs-inline"></i><a id='ZebcloWyL' rel='nofollow'></a><script>var ZebcloWyL = '#.com#ninehertz#sales@the';
+var ZebcloWyL = ZebcloWyL.split('#');
+document.getElementById('ZebcloWyL').innerHTML = ZebcloWyL[3]+ZebcloWyL[2]+ZebcloWyL[1]+ZebcloWyL[0];
+document.getElementById('ZebcloWyL').href = 'mailto:'+ZebcloWyL[3]+ZebcloWyL[2]+ZebcloWyL[1]+ZebcloWyL[0];
 </script>
 </div>
 <div class="line"></div>
@@ -3405,128 +3405,11 @@ document.getElementById('UwSzAMIpJ').href = 'mailto:'+UwSzAMIpJ[6]+UwSzAMIpJ[0]+
 </div>
 </div>
 </li>
-<li class="provider-row"><div class="row" data-clutch-nid="193656">
-<div class="col-xs-12 col-md-10 bordered-right provider-base-info">
-<div class="row provider-row-header">
-<div class="col-xs-12">
-<div class="company-logo">
-<a href="https://clutch.co/profile/247-labs" target="_blank">
-<img property="image" class="img-responsive" data-echo="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/logo_220px.png?itok=udKr6oy2" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="31" alt="247 Labs - Hire Vetted Designers &amp; Developers" /><noscript><img property="image" class="img-responsive" src="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/logo_220px.png?itok=udKr6oy2" width="65" height="31" alt="247 Labs - Hire Vetted Designers &amp; Developers" /></noscript> </a>
-</div>
-<h3 class="company-name">
-<a href="/profile/247-labs" target="_blank">247 Labs Inc.</a> </h3>
-<p class="tagline">Hire Top Notch Developers to Deliver Excellence</p>
-<div class="rating-reviews"><span class="rating">4.8</span><div class="reviews-totals-stars"><div class="fivestar-static-item"><div class="form-type-item form-item form-group">
-<div class="fivestar-"><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clearfix"><div class="star star-1 star-odd star-first"><span class="on"></span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on"></span></div><div class="star star-5 star-odd star-last"><span class="bg"></span><span class="on" style="width: 78.5715%"></span></div></div></div>
-</div>
-</div></div><span class="reviews-count"><a href="https://clutch.co/profile/247-labs#reviews" target="_blank">7 reviews <span class="icon-angle-right"></span></a></span></div>
-</div>
-</div>
-<div class="row provider-info no-margin">
-<div class="col-xs-12 col-sm-6 col-md-3 provider-info__description">
-<blockquote class="blockquote-in-module"><p>"The site looks fabulous and works exactly as it was designed."</p>
-</blockquote>
-<ul class="module-list small-list"><li>Digital Designer, AJJ <i class="icon-founder"></i></li>
-</ul> </div>
-<div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
-<div class="module-list">
-<div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $5,000+ </div>
-<div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$25 - $49</span> / hr
-</div>
-<div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">10 - 49</span></div>
-<div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
-<span class="locality">Toronto,</span>
-</span><span class="location-country">
-<span class="country-name">Canada</span>
-</span></div>
-</div>
-</div>
-<div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
-<div class="row">
-<div class="directory-graph directory-main-bar">
-<div class="graph-title">Service focus</div>
-<div class="chartAreaWrapper service-focus-graph" id="service-focus-193656" data-clutch-toggle="graph" data-clutch-graph-nid="193656"></div>
-<div class="chart-label hidden-xs"></div>
-<div class="chart-label-carousel visible-xs">
-<div id="chart-label-carousel-193656" class="carousel slide" data-ride="carousel">
-<div class="carousel-inner"></div>
-<a class="left carousel-control" href="#chart-label-carousel-193656" role="button" data-slide="prev" data-toggle="sliderprev">
-<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-<span class="sr-only">Previous</span>
-</a>
-<a class="right carousel-control" href="#chart-label-carousel-193656" role="button" data-slide="next" data-toggle="slidernext">
-<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-<span class="sr-only">Next</span>
-</a>
-</div>
-</div>
-</div>
-<div class="directory-graph directory-secondary-bar">
-<div class="graph-title second_bar_name">&nbsp;</div>
-<div class="chartAreaWrapper service-focus-graph" id="service-focus-193656-2" data-clutch-toggle="graph" data-clutch-graph-nid="193656" data-clutch-graph-type="sec"></div>
-<div class="chart-label hidden-xs"></div>
-<div class="chart-label-carousel visible-xs">
-<div id="chart-label-carousel-1936562" class="carousel slide" data-ride="carousel">
-<div class="carousel-inner"></div>
-<a class="left carousel-control" href="#chart-label-carousel-1936562" role="button" data-slide="prev" data-toggle="sliderprev">
-<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-<span class="sr-only">Previous</span>
-</a>
-<a class="right carousel-control" href="#chart-label-carousel-1936562" role="button" data-slide="next" data-toggle="slidernext">
-<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-<span class="sr-only">Next</span>
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-xs-12 col-md-2 provider-link-details">
-<ul class="nav nav-pills nav-stacked nav-right-profile">
-<li class="website-link website-link-a">
-<a href="https://247labs.com" rel="nofollow" target="_blank">
-<i class="icon icon-visit-site"></i><span class="">Visit Website</span>
-</a>
-</li>
-<li>
-<a href="/profile/247-labs" target="_blank">
-<span class="hidden-xs">View Profile</span>
-<i class="icon icon-profile"></i>
-</a>
-</li>
-<li>
-<a href="" class="contact">
-<span class="hidden-xs">Contact</span>
-<i class="icon icon-contact"></i>
-</a>
-<div class="contact-dropdown hide">
-<div class="contact-dropdown-header">
-<a href="#!" class="btn-close-contact pull-right"><i class="icon icon-close"></i></a>
-<div class="dropdown-title">CONTACT</div>
-</div>
-<div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='sDEBnqeiS' rel='nofollow'></a><script>var sDEBnqeiS = 'hello@247lab#s.com#';
-var sDEBnqeiS = sDEBnqeiS.split('#');
-document.getElementById('sDEBnqeiS').innerHTML = sDEBnqeiS[0]+sDEBnqeiS[1]+sDEBnqeiS[2];
-document.getElementById('sDEBnqeiS').href = 'mailto:'+sDEBnqeiS[0]+sDEBnqeiS[1]+sDEBnqeiS[2];
-</script>
-</div>
-<div class="line"></div>
-<div class="item __color6a">
-<i class="icon icon-phone visible-xs-inline"></i>+1.416.400.8440 </div>
-</div>
-</li>
-</ul>
-</div>
-</div>
-</li>
 <li class="provider-row"><div class="row" data-clutch-nid="27116">
 <div class="col-xs-12 col-md-10 bordered-right provider-base-info">
 <div class="row provider-row-header">
 <div class="col-xs-12">
- <div class="company-logo">
+<div class="company-logo">
 <a href="https://clutch.co/profile/nisos-technologies" target="_blank">
 <img property="image" class="img-responsive" data-echo="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/nisoslight.png?itok=4Pz4wt4s" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="65" alt="Nisos Technologies" /><noscript><img property="image" class="img-responsive" src="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/nisoslight.png?itok=4Pz4wt4s" width="65" height="65" alt="Nisos Technologies" /></noscript> </a>
 </div>
@@ -3561,7 +3444,7 @@ document.getElementById('sDEBnqeiS').href = 'mailto:'+sDEBnqeiS[0]+sDEBnqeiS[1]+
 <div class="row">
 <div class="directory-graph directory-main-bar">
 <div class="graph-title">Service focus</div>
- <div class="chartAreaWrapper service-focus-graph" id="service-focus-27116" data-clutch-toggle="graph" data-clutch-graph-nid="27116"></div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-27116" data-clutch-toggle="graph" data-clutch-graph-nid="27116"></div>
 <div class="chart-label hidden-xs"></div>
 <div class="chart-label-carousel visible-xs">
 <div id="chart-label-carousel-27116" class="carousel slide" data-ride="carousel">
@@ -3585,7 +3468,7 @@ document.getElementById('sDEBnqeiS').href = 'mailto:'+sDEBnqeiS[0]+sDEBnqeiS[1]+
 <div id="chart-label-carousel-271162" class="carousel slide" data-ride="carousel">
 <div class="carousel-inner"></div>
 <a class="left carousel-control" href="#chart-label-carousel-271162" role="button" data-slide="prev" data-toggle="sliderprev">
-<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+ <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
 <span class="sr-only">Previous</span>
 </a>
 <a class="right carousel-control" href="#chart-label-carousel-271162" role="button" data-slide="next" data-toggle="slidernext">
@@ -3623,10 +3506,10 @@ document.getElementById('sDEBnqeiS').href = 'mailto:'+sDEBnqeiS[0]+sDEBnqeiS[1]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='TrwxMynRe' rel='nofollow'></a><script>var TrwxMynRe = 'sales@ni##sostech.#com';
-var TrwxMynRe = TrwxMynRe.split('#');
-document.getElementById('TrwxMynRe').innerHTML = TrwxMynRe[0]+TrwxMynRe[2]+TrwxMynRe[3]+TrwxMynRe[1];
-document.getElementById('TrwxMynRe').href = 'mailto:'+TrwxMynRe[0]+TrwxMynRe[2]+TrwxMynRe[3]+TrwxMynRe[1];
+<i class="icon icon-mail visible-xs-inline"></i><a id='rSfnsNQyM' rel='nofollow'></a><script>var rSfnsNQyM = '#om#sales@nisostech.c';
+var rSfnsNQyM = rSfnsNQyM.split('#');
+document.getElementById('rSfnsNQyM').innerHTML = rSfnsNQyM[2]+rSfnsNQyM[1]+rSfnsNQyM[0];
+document.getElementById('rSfnsNQyM').href = 'mailto:'+rSfnsNQyM[2]+rSfnsNQyM[1]+rSfnsNQyM[0];
 </script>
 </div>
 <div class="line"></div>
@@ -3664,7 +3547,7 @@ document.getElementById('TrwxMynRe').href = 'mailto:'+TrwxMynRe[0]+TrwxMynRe[2]+
 <div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
 <div class="module-list">
 <div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $5,000+ </div>
- <div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$25 - $49</span> / hr
+<div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$25 - $49</span> / hr
 </div>
 <div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">10 - 49</span></div>
 <div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
@@ -3740,10 +3623,10 @@ document.getElementById('TrwxMynRe').href = 'mailto:'+TrwxMynRe[0]+TrwxMynRe[2]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='WSsgnMuIG' rel='nofollow'></a><script>var WSsgnMuIG = 'm##inf#dia#o@f#ers#.co#-me#ing';
-var WSsgnMuIG = WSsgnMuIG.split('#');
-document.getElementById('WSsgnMuIG').innerHTML = WSsgnMuIG[2]+WSsgnMuIG[4]+WSsgnMuIG[8]+WSsgnMuIG[5]+WSsgnMuIG[7]+WSsgnMuIG[3]+WSsgnMuIG[6]+WSsgnMuIG[0]+WSsgnMuIG[1];
-document.getElementById('WSsgnMuIG').href = 'mailto:'+WSsgnMuIG[2]+WSsgnMuIG[4]+WSsgnMuIG[8]+WSsgnMuIG[5]+WSsgnMuIG[7]+WSsgnMuIG[3]+WSsgnMuIG[6]+WSsgnMuIG[0]+WSsgnMuIG[1];
+<i class="icon icon-mail visible-xs-inline"></i><a id='zCctbUwOy' rel='nofollow'></a><script>var zCctbUwOy = 'info@fingers-media.##com';
+var zCctbUwOy = zCctbUwOy.split('#');
+document.getElementById('zCctbUwOy').innerHTML = zCctbUwOy[0]+zCctbUwOy[2]+zCctbUwOy[1];
+document.getElementById('zCctbUwOy').href = 'mailto:'+zCctbUwOy[0]+zCctbUwOy[2]+zCctbUwOy[1];
 </script>
 </div>
 <div class="line"></div>
@@ -3788,7 +3671,7 @@ document.getElementById('WSsgnMuIG').href = 'mailto:'+WSsgnMuIG[2]+WSsgnMuIG[4]+
 <span class="locality">Marlborough,</span>
 <span class="region">MA</span>
 </span><span class="location-country">
-</span></div>
+ </span></div>
 </div>
 </div>
 <div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
@@ -3805,7 +3688,7 @@ document.getElementById('WSsgnMuIG').href = 'mailto:'+WSsgnMuIG[2]+WSsgnMuIG[4]+
 <span class="sr-only">Previous</span>
 </a>
 <a class="right carousel-control" href="#chart-label-carousel-17299" role="button" data-slide="next" data-toggle="slidernext">
- <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
 <span class="sr-only">Next</span>
 </a>
 </div>
@@ -3842,7 +3725,7 @@ document.getElementById('WSsgnMuIG').href = 'mailto:'+WSsgnMuIG[2]+WSsgnMuIG[4]+
 </li>
 <li>
 <a href="/profile/boston-technology-corporation" target="_blank">
-<span class="hidden-xs">View Profile</span>
+ <span class="hidden-xs">View Profile</span>
 <i class="icon icon-profile"></i>
 </a>
 </li>
@@ -3857,10 +3740,10 @@ document.getElementById('WSsgnMuIG').href = 'mailto:'+WSsgnMuIG[2]+WSsgnMuIG[4]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='xtapibEqV' rel='nofollow'></a><script>var xtapibEqV = '.com##info@boston-technology';
-var xtapibEqV = xtapibEqV.split('#');
-document.getElementById('xtapibEqV').innerHTML = xtapibEqV[2]+xtapibEqV[0]+xtapibEqV[1];
-document.getElementById('xtapibEqV').href = 'mailto:'+xtapibEqV[2]+xtapibEqV[0]+xtapibEqV[1];
+<i class="icon icon-mail visible-xs-inline"></i><a id='CKflYhiPa' rel='nofollow'></a><script>var CKflYhiPa = 'info@boston-techn##ology.com';
+var CKflYhiPa = CKflYhiPa.split('#');
+document.getElementById('CKflYhiPa').innerHTML = CKflYhiPa[0]+CKflYhiPa[2]+CKflYhiPa[1];
+document.getElementById('CKflYhiPa').href = 'mailto:'+CKflYhiPa[0]+CKflYhiPa[2]+CKflYhiPa[1];
 </script>
 </div>
 <div class="line"></div>
@@ -3936,7 +3819,7 @@ document.getElementById('xtapibEqV').href = 'mailto:'+xtapibEqV[2]+xtapibEqV[0]+
 <div id="chart-label-carousel-332402" class="carousel slide" data-ride="carousel">
 <div class="carousel-inner"></div>
 <a class="left carousel-control" href="#chart-label-carousel-332402" role="button" data-slide="prev" data-toggle="sliderprev">
-<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+ <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
 <span class="sr-only">Previous</span>
 </a>
 <a class="right carousel-control" href="#chart-label-carousel-332402" role="button" data-slide="next" data-toggle="slidernext">
@@ -3965,7 +3848,7 @@ document.getElementById('xtapibEqV').href = 'mailto:'+xtapibEqV[2]+xtapibEqV[0]+
 </li>
 <li>
 <a href="" class="contact">
- <span class="hidden-xs">Contact</span>
+<span class="hidden-xs">Contact</span>
 <i class="icon icon-contact"></i>
 </a>
 <div class="contact-dropdown hide">
@@ -3974,10 +3857,10 @@ document.getElementById('xtapibEqV').href = 'mailto:'+xtapibEqV[2]+xtapibEqV[0]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='cBfqRbJUO' rel='nofollow'></a><script>var cBfqRbJUO = 'hello@neonr##oots.com';
-var cBfqRbJUO = cBfqRbJUO.split('#');
-document.getElementById('cBfqRbJUO').innerHTML = cBfqRbJUO[0]+cBfqRbJUO[2]+cBfqRbJUO[1];
-document.getElementById('cBfqRbJUO').href = 'mailto:'+cBfqRbJUO[0]+cBfqRbJUO[2]+cBfqRbJUO[1];
+<i class="icon icon-mail visible-xs-inline"></i><a id='IfPGEpZkl' rel='nofollow'></a><script>var IfPGEpZkl = 'com#hello@neonroots.#';
+var IfPGEpZkl = IfPGEpZkl.split('#');
+document.getElementById('IfPGEpZkl').innerHTML = IfPGEpZkl[1]+IfPGEpZkl[0]+IfPGEpZkl[2];
+document.getElementById('IfPGEpZkl').href = 'mailto:'+IfPGEpZkl[1]+IfPGEpZkl[0]+IfPGEpZkl[2];
 </script>
 </div>
 <div class="line"></div>
@@ -4014,7 +3897,7 @@ document.getElementById('cBfqRbJUO').href = 'mailto:'+cBfqRbJUO[0]+cBfqRbJUO[2]+
 </ul> </div>
 <div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
 <div class="module-list">
- <div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $10,000+ </div>
+<div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $10,000+ </div>
 <div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$25 - $49</span> / hr
 </div>
 <div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">50 - 249</span></div>
@@ -4091,10 +3974,10 @@ document.getElementById('cBfqRbJUO').href = 'mailto:'+cBfqRbJUO[0]+cBfqRbJUO[2]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='ySwWYONnX' rel='nofollow'></a><script>var ySwWYONnX = 'contact@#resourci##fi.com';
-var ySwWYONnX = ySwWYONnX.split('#');
-document.getElementById('ySwWYONnX').innerHTML = ySwWYONnX[0]+ySwWYONnX[1]+ySwWYONnX[3]+ySwWYONnX[2];
-document.getElementById('ySwWYONnX').href = 'mailto:'+ySwWYONnX[0]+ySwWYONnX[1]+ySwWYONnX[3]+ySwWYONnX[2];
+<i class="icon icon-mail visible-xs-inline"></i><a id='rcfRHzJeV' rel='nofollow'></a><script>var rcfRHzJeV = 'contact@re#sourcifi.c#om#';
+var rcfRHzJeV = rcfRHzJeV.split('#');
+document.getElementById('rcfRHzJeV').innerHTML = rcfRHzJeV[0]+rcfRHzJeV[1]+rcfRHzJeV[2]+rcfRHzJeV[3];
+document.getElementById('rcfRHzJeV').href = 'mailto:'+rcfRHzJeV[0]+rcfRHzJeV[1]+rcfRHzJeV[2]+rcfRHzJeV[3];
 </script>
 </div>
 <div class="line"></div>
@@ -4102,7 +3985,7 @@ document.getElementById('ySwWYONnX').href = 'mailto:'+ySwWYONnX[0]+ySwWYONnX[1]+
 <i class="icon icon-phone visible-xs-inline"></i>(888) 316-0750 </div>
 </div>
 </li>
-</ul>
+ </ul>
 </div>
 </div>
 </li>
@@ -4139,7 +4022,7 @@ document.getElementById('ySwWYONnX').href = 'mailto:'+ySwWYONnX[0]+ySwWYONnX[1]+
 <span class="locality">Manchester,</span>
 </span><span class="location-country">
 <span class="country-name">United Kingdom</span>
-</span></div>
+ </span></div>
 </div>
 </div>
 <div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
@@ -4208,10 +4091,10 @@ document.getElementById('ySwWYONnX').href = 'mailto:'+ySwWYONnX[0]+ySwWYONnX[1]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='NsGJQIZMW' rel='nofollow'></a><script>var NsGJQIZMW = '#.co.uk#info@corporationpop';
-var NsGJQIZMW = NsGJQIZMW.split('#');
-document.getElementById('NsGJQIZMW').innerHTML = NsGJQIZMW[2]+NsGJQIZMW[1]+NsGJQIZMW[0];
-document.getElementById('NsGJQIZMW').href = 'mailto:'+NsGJQIZMW[2]+NsGJQIZMW[1]+NsGJQIZMW[0];
+<i class="icon icon-mail visible-xs-inline"></i><a id='pQPSHWFju' rel='nofollow'></a><script>var pQPSHWFju = '#info#k#tion#pora#co.u#@cor#pop.';
+var pQPSHWFju = pQPSHWFju.split('#');
+document.getElementById('pQPSHWFju').innerHTML = pQPSHWFju[1]+pQPSHWFju[6]+pQPSHWFju[4]+pQPSHWFju[3]+pQPSHWFju[7]+pQPSHWFju[5]+pQPSHWFju[2]+pQPSHWFju[0];
+document.getElementById('pQPSHWFju').href = 'mailto:'+pQPSHWFju[1]+pQPSHWFju[6]+pQPSHWFju[4]+pQPSHWFju[3]+pQPSHWFju[7]+pQPSHWFju[5]+pQPSHWFju[2]+pQPSHWFju[0];
 </script>
 </div>
 <div class="line"></div>
@@ -4245,7 +4128,7 @@ document.getElementById('NsGJQIZMW').href = 'mailto:'+NsGJQIZMW[2]+NsGJQIZMW[1]+
 <blockquote class="blockquote-in-module"><p>“They’re always very responsive. I really enjoyed working with them."</p>
 </blockquote>
 <ul class="module-list small-list"><li>TRX Training <i class="icon-founder"></i></li>
-</ul> </div>
+</ul>  </div>
 <div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
 <div class="module-list">
 <div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $100,000+ </div>
@@ -4325,10 +4208,10 @@ document.getElementById('NsGJQIZMW').href = 'mailto:'+NsGJQIZMW[2]+NsGJQIZMW[1]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='gbTEFIplx' rel='nofollow'></a><script>var gbTEFIplx = '#exy#gy.#com#hel#lo@';
-var gbTEFIplx = gbTEFIplx.split('#');
-document.getElementById('gbTEFIplx').innerHTML = gbTEFIplx[4]+gbTEFIplx[5]+gbTEFIplx[1]+gbTEFIplx[2]+gbTEFIplx[3]+gbTEFIplx[0];
-document.getElementById('gbTEFIplx').href = 'mailto:'+gbTEFIplx[4]+gbTEFIplx[5]+gbTEFIplx[1]+gbTEFIplx[2]+gbTEFIplx[3]+gbTEFIplx[0];
+<i class="icon icon-mail visible-xs-inline"></i><a id='eWUjvzaMg' rel='nofollow'></a><script>var eWUjvzaMg = '#y.com#hello#@exyg';
+var eWUjvzaMg = eWUjvzaMg.split('#');
+document.getElementById('eWUjvzaMg').innerHTML = eWUjvzaMg[2]+eWUjvzaMg[3]+eWUjvzaMg[1]+eWUjvzaMg[0];
+document.getElementById('eWUjvzaMg').href = 'mailto:'+eWUjvzaMg[2]+eWUjvzaMg[3]+eWUjvzaMg[1]+eWUjvzaMg[0];
 </script>
 </div>
 <div class="line"></div>
@@ -4365,7 +4248,7 @@ document.getElementById('gbTEFIplx').href = 'mailto:'+gbTEFIplx[4]+gbTEFIplx[5]+
 </ul> </div>
 <div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
 <div class="module-list">
- <div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $25,000+ </div>
+<div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $25,000+ </div>
 <div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$150 - $199</span> / hr
 </div>
 <div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">10 - 49</span></div>
@@ -4405,7 +4288,7 @@ document.getElementById('gbTEFIplx').href = 'mailto:'+gbTEFIplx[4]+gbTEFIplx[5]+
 <div class="carousel-inner"></div>
 <a class="left carousel-control" href="#chart-label-carousel-77982" role="button" data-slide="prev" data-toggle="sliderprev">
 <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
- <span class="sr-only">Previous</span>
+<span class="sr-only">Previous</span>
 </a>
 <a class="right carousel-control" href="#chart-label-carousel-77982" role="button" data-slide="next" data-toggle="slidernext">
 <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
@@ -4442,10 +4325,10 @@ document.getElementById('gbTEFIplx').href = 'mailto:'+gbTEFIplx[4]+gbTEFIplx[5]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='CRNJXwaFl' rel='nofollow'></a><script>var CRNJXwaFl = 'otion.com#alex.a@ram#';
-var CRNJXwaFl = CRNJXwaFl.split('#');
-document.getElementById('CRNJXwaFl').innerHTML = CRNJXwaFl[1]+CRNJXwaFl[0]+CRNJXwaFl[2];
-document.getElementById('CRNJXwaFl').href = 'mailto:'+CRNJXwaFl[1]+CRNJXwaFl[0]+CRNJXwaFl[2];
+<i class="icon icon-mail visible-xs-inline"></i><a id='EVNRkKBLH' rel='nofollow'></a><script>var EVNRkKBLH = '#n.com#alex.a@ramotio';
+var EVNRkKBLH = EVNRkKBLH.split('#');
+document.getElementById('EVNRkKBLH').innerHTML = EVNRkKBLH[2]+EVNRkKBLH[1]+EVNRkKBLH[0];
+document.getElementById('EVNRkKBLH').href = 'mailto:'+EVNRkKBLH[2]+EVNRkKBLH[1]+EVNRkKBLH[0];
 </script>
 </div>
 <div class="line"></div>
@@ -4490,7 +4373,7 @@ document.getElementById('CRNJXwaFl').href = 'mailto:'+CRNJXwaFl[1]+CRNJXwaFl[0]+
 <span class="locality">Toronto,</span>
 </span><span class="location-country">
 <span class="country-name">Canada</span>
-</span></div>
+ </span></div>
 </div>
 </div>
 <div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
@@ -4559,15 +4442,133 @@ document.getElementById('CRNJXwaFl').href = 'mailto:'+CRNJXwaFl[1]+CRNJXwaFl[0]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='rlpgZYJQM' rel='nofollow'></a><script>var rlpgZYJQM = '#hello@#qmo.io';
-var rlpgZYJQM = rlpgZYJQM.split('#');
-document.getElementById('rlpgZYJQM').innerHTML = rlpgZYJQM[1]+rlpgZYJQM[2]+rlpgZYJQM[0];
-document.getElementById('rlpgZYJQM').href = 'mailto:'+rlpgZYJQM[1]+rlpgZYJQM[2]+rlpgZYJQM[0];
+<i class="icon icon-mail visible-xs-inline"></i><a id='VnZRlYhej' rel='nofollow'></a><script>var VnZRlYhej = 'hello@qmo#.io#';
+var VnZRlYhej = VnZRlYhej.split('#');
+document.getElementById('VnZRlYhej').innerHTML = VnZRlYhej[0]+VnZRlYhej[1]+VnZRlYhej[2];
+document.getElementById('VnZRlYhej').href = 'mailto:'+VnZRlYhej[0]+VnZRlYhej[1]+VnZRlYhej[2];
 </script>
 </div>
 <div class="line"></div>
 <div class="item __color6a">
 <i class="icon icon-phone visible-xs-inline"></i>1-647-983-6622 </div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="provider-row"><div class="row" data-clutch-nid="38382">
+<div class="col-xs-12 col-md-10 bordered-right provider-base-info">
+<div class="row provider-row-header">
+<div class="col-xs-12">
+<div class="company-logo">
+<a href="https://clutch.co/profile/whitescape" target="_blank">
+<img property="image" class="img-responsive" data-echo="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/whitescape_snowflake_white.png?itok=Si_RT-0A" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="65" alt="Whitescape: developers that deliver" /><noscript><img property="image" class="img-responsive" src="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/whitescape_snowflake_white.png?itok=Si_RT-0A" width="65" height="65" alt="Whitescape: developers that deliver" /></noscript> </a>
+</div>
+<h3 class="company-name">
+<a href="/profile/whitescape" target="_blank">Whitescape</a> </h3>
+<p class="tagline">Hi-level rock-solid and well managed team</p>
+<div class="rating-reviews"><span class="rating">5.0</span><div class="reviews-totals-stars"><div class="fivestar-static-item"><div class="form-type-item form-item form-group">
+<div class="fivestar-"><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clearfix"><div class="star star-1 star-odd star-first"><span class="on"></span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on"></span></div><div class="star star-5 star-odd star-last"><span class="on"></span></div></div></div>
+</div>
+</div></div><span class="reviews-count"><a href="https://clutch.co/profile/whitescape#reviews" target="_blank">2 reviews <span class="icon-angle-right"></span></a></span></div>
+</div>
+</div>
+<div class="row provider-info no-margin">
+<div class="col-xs-12 col-sm-6 col-md-3 provider-info__description">
+<blockquote class="blockquote-in-module"><p>"From the very first meeting, Whitescape showed that they had a good understanding of what we..."</p>
+</blockquote>
+<ul class="module-list small-list"><li>Project Manager, Political Movement <i class="icon-founder"></i></li>
+</ul> </div>
+
+<div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
+<div class="module-list">
+<div class="list-item undisclosed"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> Undisclosed</div>
+<div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$50 - $99</span> / hr
+</div>
+<div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">10 - 49</span></div>
+<div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
+<span class="locality">Tallin,</span>
+</span><span class="location-country">
+<span class="country-name">Estonia</span>
+</span></div>
+</div>
+</div>
+<div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
+<div class="row">
+<div class="directory-graph directory-main-bar">
+<div class="graph-title">Service focus</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-38382" data-clutch-toggle="graph" data-clutch-graph-nid="38382"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-38382" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-38382" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-38382" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+<div class="directory-graph directory-secondary-bar">
+<div class="graph-title second_bar_name">&nbsp;</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-38382-2" data-clutch-toggle="graph" data-clutch-graph-nid="38382" data-clutch-graph-type="sec"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-383822" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-383822" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-383822" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-md-2 provider-link-details">
+<ul class="nav nav-pills nav-stacked nav-right-profile">
+<li class="website-link website-link-a">
+<a href="http://whitescape.com" rel="nofollow" target="_blank">
+<i class="icon icon-visit-site"></i><span class="">Visit Website</span>
+</a>
+</li>
+<li>
+<a href="/profile/whitescape" target="_blank">
+<span class="hidden-xs">View Profile</span>
+<i class="icon icon-profile"></i>
+</a>
+</li>
+<li>
+<a href="" class="contact">
+<span class="hidden-xs">Contact</span>
+<i class="icon icon-contact"></i>
+</a>
+<div class="contact-dropdown hide">
+<div class="contact-dropdown-header">
+<a href="#!" class="btn-close-contact pull-right"><i class="icon icon-close"></i></a>
+<div class="dropdown-title">CONTACT</div>
+</div>
+<div class="item">
+<i class="icon icon-mail visible-xs-inline"></i><a id='eaGTgnyvd' rel='nofollow'></a><script>var eaGTgnyvd = 'tescape.c#hello@whi#om#';
+var eaGTgnyvd = eaGTgnyvd.split('#');
+document.getElementById('eaGTgnyvd').innerHTML = eaGTgnyvd[1]+eaGTgnyvd[0]+eaGTgnyvd[2]+eaGTgnyvd[3];
+document.getElementById('eaGTgnyvd').href = 'mailto:'+eaGTgnyvd[1]+eaGTgnyvd[0]+eaGTgnyvd[2]+eaGTgnyvd[3];
+</script>
+</div>
+<div class="line"></div>
+<div class="item __color6a">
+<i class="icon icon-phone visible-xs-inline"></i>+372 5645 0265 </div>
 </div>
 </li>
 </ul>
@@ -4683,6 +4684,6 @@ Washington, DC 20036</p>
 <script src="//static2.clutch.co/sites/default/files/js/js_Wz8fbhmNr50zpeh6wIxn7dZ7xbzLRAWUv0YTreS9lss.js"></script>
 <script src="//static2.clutch.co/sites/default/files/js/js_RfrKaXT2lqSHmOsoTqt4baHadkKI6ZQUuj_dafpEEpU.js"></script>
 <script src="//static1.clutch.co/sites/default/files/js/js_1X9jbnqD3Z81Rq203pbo16KH3yu2htAt2r5Fg1Qr75I.js"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"clutch2","theme_token":"qW5QLvGnkaCkuwGqXMAQkl7DoL2GDPrfmDb22gbJ2Eo","jquery_version":"1.10","js":{"public:\/\/google_tag\/google_tag.script.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/custom\/clutch_graph\/js\/clutch_graph.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.7\/js\/bootstrap.min.js":1,"sites\/all\/modules\/custom\/sl_extlink\/sl_extlink.js":1,"0":1,"https:\/\/www.google.com\/jsapi":1,"sites\/all\/modules\/location\/location_autocomplete.js":1,"sites\/all\/modules\/better_exposed_filters\/better_exposed_filters.js":1,"misc\/autocomplete.js":1,"sites\/all\/modules\/ctools\/js\/dependent.js":1,"sites\/all\/modules\/fivestar\/js\/fivestar.js":1,"sites\/all\/modules\/contrib\/lazyloader\/lazyloader.js":1,"sites\/all\/libraries\/echo\/dist\/echo.min.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/_progress.js":1,"sites\/all\/themes\/clutch2\/js\/jquery.scrollTo.min.js":1,"sites\/all\/themes\/clutch2\/js\/sticky.js":1,"sites\/all\/themes\/clutch2\/js\/chosen\/chosen.jquery.js":1,"sites\/all\/themes\/clutch2\/js\/jquery.matchHeight-min.js":1,"sites\/all\/themes\/clutch2\/js\/jquery.mCustomScrollbar.min.js":1,"sites\/all\/themes\/clutch2\/js\/script.js":1,"sites\/all\/themes\/clutch2\/js\/ui.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/autocomplete.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/ajax.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/lazyloader\/lazyloader.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/fivestar\/css\/fivestar.css":1,"sites\/all\/themes\/clutch2\/css\/view-directory.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.7\/css\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.7\/overrides.min.css":1,"sites\/all\/themes\/clutch2\/css\/main.css":1,"sites\/all\/themes\/clutch2\/css\/print.css":1,"https:\/\/fonts.googleapis.com\/css?family=Lato:700,700italic,italic,regular|Roboto:regular\u0026subset=latin":1}},"better_exposed_filters":{"datepicker":false,"slider":false,"settings":[],"autosubmit":false,"views":{"lm_mobile_app_xplatform":{"displays":{"directory":{"filters":{"field_pp_size_people_value":{"required":false},"country":{"required":false},"state":{"required":false},"distance":{"required":false},"field_pp_hrly_rate_range_value":{"required":false},"field_pp_cs_small_biz_value":{"required":false},"field_pp_cs_midmarket_value":{"required":false},"field_pp_cs_enterprise_value":{"required":false},"field_pp_if_advertising_value":{"required":false},"field_pp_if_automotive_value":{"required":false},"field_pp_if_arts_value":{"required":false},"field_pp_if_bizservices_value":{"required":false},"field_pp_if_conproducts_value":{"required":false},"field_pp_if_education_value":{"required":false},"field_pp_if_natural_resources_value":{"required":false},"field_pp_if_finservices_value":{"required":false},"field_pp_if_gambling_value":{"required":false},"field_pp_if_gaming_value":{"required":false},"field_pp_if_government_value":{"required":false},"field_pp_if_healthcare_value":{"required":false},"field_pp_if_hospitality_value":{"required":false},"field_pp_if_it_value":{"required":false},"field_pp_if_legal_value":{"required":false},"field_pp_if_manufacturing_value":{"required":false},"field_pp_if_media_value":{"required":false},"field_pp_if_nonprofit_value":{"required":false},"field_pp_if_realestate_value":{"required":false},"field_pp_if_retail_value":{"required":false},"field_pp_if_telecom_value":{"required":false},"field_pp_if_transportation_value":{"required":false},"field_pp_if_utilities_value":{"required":false},"field_pp_if_other_value":{"required":false},"field_pp_min_project_size_value":{"required":false}}}}},"leaders_matrix_analyst":{"displays":{"block":{"filters":[]}}}}},"CTools":{"dependent":{"edit-distance-postal-code":{"values":[],"num":1,"type":"hide"},"edit-distance-country":{"values":[],"num":1,"type":"hide"}}},"clutchExposedGroup":{"views-exposed-form-lm-mobile-app-xplatform-directory":{"client_focus":{"label":"Client focus","class":"exposed-group-client-focus","field_value":30,"fields":["filter-field_pp_cs_small_biz_value","filter-field_pp_cs_midmarket_value","filter-field_pp_cs_enterprise_value"],"open":false},"industry_focus":{"label":"Industry focus","class":"exposed-group-industry-focus","field_value":10,"fields":["filter-field_pp_if_advertising_value","filter-field_pp_if_automotive_value","filter-field_pp_if_arts_value","filter-field_pp_if_bizservices_value","filter-field_pp_if_conproducts_value","filter-field_pp_if_education_value","filter-field_pp_if_natural_resources_value","filter-field_pp_if_finservices_value","filter-field_pp_if_gambling_value","filter-field_pp_if_gaming_value","filter-field_pp_if_government_value","filter-field_pp_if_healthcare_value","filter-field_pp_if_hospitality_value","filter-field_pp_if_it_value","filter-field_pp_if_legal_value","filter-field_pp_if_manufacturing_value","filter-field_pp_if_media_value","filter-field_pp_if_nonprofit_value","filter-field_pp_if_realestate_value","filter-field_pp_if_retail_value","filter-field_pp_if_telecom_value","filter-field_pp_if_transportation_value","filter-field_pp_if_utilities_value","filter-field_pp_if_other_value"],"open":false}}},"urlIsAjaxTrusted":{"\/app-developers\/cross-platform":true},"lazyloader":{"throttle":50,"offset":250,"debounce":true,"unload":false,"icon":"\/sites\/all\/modules\/contrib\/lazyloader\/loader\/loader-7.gif","offsetX":12,"offsetY":12},"sl_extlink":{"extTarget":0,"extClass":"sl-ext","extLabel":"(link is external)","extImgClass":true,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)","extRedirect":true,"extRedirectBase":"http:\/\/clutch.co\/hlr\/l.php"},"bootstrap":{"anchorsFix":0,"anchorsSmoothScrolling":0,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"clutch2","theme_token":"yAt3TvMlmPMK5gQbH9OSDn75hNO5JRs1iEa8oanqtg0","jquery_version":"1.10","js":{"public:\/\/google_tag\/google_tag.script.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/custom\/clutch_graph\/js\/clutch_graph.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.7\/js\/bootstrap.min.js":1,"sites\/all\/modules\/custom\/sl_extlink\/sl_extlink.js":1,"0":1,"https:\/\/www.google.com\/jsapi":1,"sites\/all\/modules\/location\/location_autocomplete.js":1,"sites\/all\/modules\/better_exposed_filters\/better_exposed_filters.js":1,"misc\/autocomplete.js":1,"sites\/all\/modules\/ctools\/js\/dependent.js":1,"sites\/all\/modules\/fivestar\/js\/fivestar.js":1,"sites\/all\/modules\/contrib\/lazyloader\/lazyloader.js":1,"sites\/all\/libraries\/echo\/dist\/echo.min.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/_progress.js":1,"sites\/all\/themes\/clutch2\/js\/jquery.scrollTo.min.js":1,"sites\/all\/themes\/clutch2\/js\/sticky.js":1,"sites\/all\/themes\/clutch2\/js\/chosen\/chosen.jquery.js":1,"sites\/all\/themes\/clutch2\/js\/jquery.matchHeight-min.js":1,"sites\/all\/themes\/clutch2\/js\/jquery.mCustomScrollbar.min.js":1,"sites\/all\/themes\/clutch2\/js\/script.js":1,"sites\/all\/themes\/clutch2\/js\/ui.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/autocomplete.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/ajax.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/lazyloader\/lazyloader.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/fivestar\/css\/fivestar.css":1,"sites\/all\/themes\/clutch2\/css\/view-directory.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.7\/css\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.7\/overrides.min.css":1,"sites\/all\/themes\/clutch2\/css\/main.css":1,"sites\/all\/themes\/clutch2\/css\/print.css":1,"https:\/\/fonts.googleapis.com\/css?family=Lato:700,700italic,italic,regular|Roboto:regular\u0026subset=latin":1}},"better_exposed_filters":{"datepicker":false,"slider":false,"settings":[],"autosubmit":false,"views":{"lm_mobile_app_xplatform":{"displays":{"directory":{"filters":{"field_pp_size_people_value":{"required":false},"country":{"required":false},"state":{"required":false},"distance":{"required":false},"field_pp_hrly_rate_range_value":{"required":false},"field_pp_cs_small_biz_value":{"required":false},"field_pp_cs_midmarket_value":{"required":false},"field_pp_cs_enterprise_value":{"required":false},"field_pp_if_advertising_value":{"required":false},"field_pp_if_automotive_value":{"required":false},"field_pp_if_arts_value":{"required":false},"field_pp_if_bizservices_value":{"required":false},"field_pp_if_conproducts_value":{"required":false},"field_pp_if_education_value":{"required":false},"field_pp_if_natural_resources_value":{"required":false},"field_pp_if_finservices_value":{"required":false},"field_pp_if_gambling_value":{"required":false},"field_pp_if_gaming_value":{"required":false},"field_pp_if_government_value":{"required":false},"field_pp_if_healthcare_value":{"required":false},"field_pp_if_hospitality_value":{"required":false},"field_pp_if_it_value":{"required":false},"field_pp_if_legal_value":{"required":false},"field_pp_if_manufacturing_value":{"required":false},"field_pp_if_media_value":{"required":false},"field_pp_if_nonprofit_value":{"required":false},"field_pp_if_realestate_value":{"required":false},"field_pp_if_retail_value":{"required":false},"field_pp_if_telecom_value":{"required":false},"field_pp_if_transportation_value":{"required":false},"field_pp_if_utilities_value":{"required":false},"field_pp_if_other_value":{"required":false},"field_pp_min_project_size_value":{"required":false}}}}},"leaders_matrix_analyst":{"displays":{"block":{"filters":[]}}}}},"CTools":{"dependent":{"edit-distance-postal-code":{"values":[],"num":1,"type":"hide"},"edit-distance-country":{"values":[],"num":1,"type":"hide"}}},"clutchExposedGroup":{"views-exposed-form-lm-mobile-app-xplatform-directory":{"client_focus":{"label":"Client focus","class":"exposed-group-client-focus","field_value":30,"fields":["filter-field_pp_cs_small_biz_value","filter-field_pp_cs_midmarket_value","filter-field_pp_cs_enterprise_value"],"open":false},"industry_focus":{"label":"Industry focus","class":"exposed-group-industry-focus","field_value":10,"fields":["filter-field_pp_if_advertising_value","filter-field_pp_if_automotive_value","filter-field_pp_if_arts_value","filter-field_pp_if_bizservices_value","filter-field_pp_if_conproducts_value","filter-field_pp_if_education_value","filter-field_pp_if_natural_resources_value","filter-field_pp_if_finservices_value","filter-field_pp_if_gambling_value","filter-field_pp_if_gaming_value","filter-field_pp_if_government_value","filter-field_pp_if_healthcare_value","filter-field_pp_if_hospitality_value","filter-field_pp_if_it_value","filter-field_pp_if_legal_value","filter-field_pp_if_manufacturing_value","filter-field_pp_if_media_value","filter-field_pp_if_nonprofit_value","filter-field_pp_if_realestate_value","filter-field_pp_if_retail_value","filter-field_pp_if_telecom_value","filter-field_pp_if_transportation_value","filter-field_pp_if_utilities_value","filter-field_pp_if_other_value"],"open":false}}},"urlIsAjaxTrusted":{"\/app-developers\/cross-platform":true},"lazyloader":{"throttle":50,"offset":250,"debounce":true,"unload":false,"icon":"\/sites\/all\/modules\/contrib\/lazyloader\/loader\/loader-7.gif","offsetX":12,"offsetY":12},"sl_extlink":{"extTarget":0,"extClass":"sl-ext","extLabel":"(link is external)","extImgClass":true,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)","extRedirect":true,"extRedirectBase":"http:\/\/clutch.co\/hlr\/l.php"},"bootstrap":{"anchorsFix":0,"anchorsSmoothScrolling":0,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </body>
 </html>

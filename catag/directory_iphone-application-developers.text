@@ -204,7 +204,7 @@ Introduction
 <div class="view-content-bordered">
 <div class="row module-filtre__content">
 <div class="col-xs-12 col-md-6 main-tabs-wrapper bordered-right">
-<div class="tabs-info"><span class="count-service-reviews">2265 Firms</span></div>
+<div class="tabs-info"><span class="count-service-reviews">2276 Firms</span></div>
 <ul class="main-tabs nav nav-tabs tabs nav-justified" role="tablist"><li class="active"><a href="/directory/iphone-application-developers" class="default active"><span class="icon-check-c"></span><span class="text">Reviews</span></a></li><li class=""><a href="/research/top-iphone-application-developers"><span class="icon-leaders-matrix"></span><span class="text">Leaders Matrix</a></li></ul> </div>
 <div class="exposed-filters">
 <form action="/directory/iphone-application-developers" method="get" id="views-exposed-form-lm-mobile-app-iphone-2-directory" accept-charset="UTF-8"><div><div class="col-xs-7 col-md-4 col-lg-3 sortby">
@@ -469,7 +469,7 @@ Locations
 <div class="main-tab-content tab-content">
 <div class="tab-pane active" id="">
 <a id="main-content"></a>
-<div class="view view-lm-mobile-app-iphone-2 view-id-lm_mobile_app_iphone_2 view-display-id-directory top-companies directory view-dom-id-7e8e3ad5539d9a9b80f13ce44e2bdb11">
+<div class="view view-lm-mobile-app-iphone-2 view-id-lm_mobile_app_iphone_2 view-display-id-directory top-companies directory view-dom-id-b8a847aa6826df722c57f9fd6b424ea6">
 <div class="list-header">
 <div class="row">
 <div class="col-xs-12">
@@ -590,10 +590,10 @@ Locations
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='DjblrtofU' rel='nofollow'></a><script>var DjblrtofU = '#s.com#sales@algowork';
-var DjblrtofU = DjblrtofU.split('#');
-document.getElementById('DjblrtofU').innerHTML = DjblrtofU[2]+DjblrtofU[1]+DjblrtofU[0];
-document.getElementById('DjblrtofU').href = 'mailto:'+DjblrtofU[2]+DjblrtofU[1]+DjblrtofU[0];
+<i class="icon icon-mail visible-xs-inline"></i><a id='wCiMbcyQX' rel='nofollow'></a><script>var wCiMbcyQX = '.com#sales@algoworks#';
+var wCiMbcyQX = wCiMbcyQX.split('#');
+document.getElementById('wCiMbcyQX').innerHTML = wCiMbcyQX[1]+wCiMbcyQX[0]+wCiMbcyQX[2];
+document.getElementById('wCiMbcyQX').href = 'mailto:'+wCiMbcyQX[1]+wCiMbcyQX[0]+wCiMbcyQX[2];
 </script>
 </div>
 <div class="line"></div>
@@ -711,10 +711,10 @@ document.getElementById('DjblrtofU').href = 'mailto:'+DjblrtofU[2]+DjblrtofU[1]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='yIQXnMeZV' rel='nofollow'></a><script>var yIQXnMeZV = '#hello@mobomo.#com';
-var yIQXnMeZV = yIQXnMeZV.split('#');
-document.getElementById('yIQXnMeZV').innerHTML = yIQXnMeZV[1]+yIQXnMeZV[2]+yIQXnMeZV[0];
-document.getElementById('yIQXnMeZV').href = 'mailto:'+yIQXnMeZV[1]+yIQXnMeZV[2]+yIQXnMeZV[0];
+<i class="icon icon-mail visible-xs-inline"></i><a id='uCpdIHPST' rel='nofollow'></a><script>var uCpdIHPST = 'o.com##hello@mobom';
+var uCpdIHPST = uCpdIHPST.split('#');
+document.getElementById('uCpdIHPST').innerHTML = uCpdIHPST[2]+uCpdIHPST[0]+uCpdIHPST[1];
+document.getElementById('uCpdIHPST').href = 'mailto:'+uCpdIHPST[2]+uCpdIHPST[0]+uCpdIHPST[1];
 </script>
 </div>
 <div class="line"></div>
@@ -832,10 +832,10 @@ document.getElementById('yIQXnMeZV').href = 'mailto:'+yIQXnMeZV[1]+yIQXnMeZV[2]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='KFdHUxspA' rel='nofollow'></a><script>var KFdHUxspA = 't.com#contact@gbksof#';
-var KFdHUxspA = KFdHUxspA.split('#');
-document.getElementById('KFdHUxspA').innerHTML = KFdHUxspA[1]+KFdHUxspA[0]+KFdHUxspA[2];
-document.getElementById('KFdHUxspA').href = 'mailto:'+KFdHUxspA[1]+KFdHUxspA[0]+KFdHUxspA[2];
+<i class="icon icon-mail visible-xs-inline"></i><a id='FRudopwBN' rel='nofollow'></a><script>var FRudopwBN = '#cont#com#act@#gbks#oft.';
+var FRudopwBN = FRudopwBN.split('#');
+document.getElementById('FRudopwBN').innerHTML = FRudopwBN[1]+FRudopwBN[3]+FRudopwBN[4]+FRudopwBN[5]+FRudopwBN[2]+FRudopwBN[0];
+document.getElementById('FRudopwBN').href = 'mailto:'+FRudopwBN[1]+FRudopwBN[3]+FRudopwBN[4]+FRudopwBN[5]+FRudopwBN[2]+FRudopwBN[0];
 </script>
 </div>
 <div class="line"></div>
@@ -855,10 +855,10 @@ document.getElementById('KFdHUxspA').href = 'mailto:'+KFdHUxspA[1]+KFdHUxspA[0]+
 <div class="col-xs-12">
 <div class="company-logo">
 <a href="https://clutch.co/profile/clearsummit" target="_blank">
-<img property="image" class="img-responsive" data-echo="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/logo_220x220.jpg?itok=HrbBuR_8" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="65" alt="ClearSummit Logo" /><noscript><img property="image" class="img-responsive" src="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/logo_220x220.jpg?itok=HrbBuR_8" width="65" height="65" alt="ClearSummit Logo" /></noscript> </a>
+<img property="image" class="img-responsive" data-echo="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/logo_220x220.jpg?itok=HrbBuR_8" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="65" alt="ClearSummit Logo" /><noscript><img property="image" class="img-responsive" src="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/logo_220x220.jpg?itok=HrbBuR_8" width="65" height="65" alt="ClearSummit Logo" /></noscript>  </a>
 </div>
 <h3 class="company-name">
- <span>4. </span>
+<span>4. </span>
 <a href="/profile/clearsummit" target="_blank">ClearSummit</a> </h3>
 <p class="tagline">Apps and web services from concept to completion</p>
 <div class="rating-reviews"><span class="rating">5.0</span><div class="reviews-totals-stars"><div class="fivestar-static-item"><div class="form-type-item form-item form-group">
@@ -953,13 +953,13 @@ document.getElementById('KFdHUxspA').href = 'mailto:'+KFdHUxspA[1]+KFdHUxspA[0]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='sBlKIhgdZ' rel='nofollow'></a><script>var sBlKIhgdZ = '#rsumm.it#contact@clea';
-var sBlKIhgdZ = sBlKIhgdZ.split('#');
-document.getElementById('sBlKIhgdZ').innerHTML = sBlKIhgdZ[2]+sBlKIhgdZ[1]+sBlKIhgdZ[0];
-document.getElementById('sBlKIhgdZ').href = 'mailto:'+sBlKIhgdZ[2]+sBlKIhgdZ[1]+sBlKIhgdZ[0];
+<i class="icon icon-mail visible-xs-inline"></i><a id='IWSxtVvZT' rel='nofollow'></a><script>var IWSxtVvZT = 'm.it#contact@#clearsum#';
+var IWSxtVvZT = IWSxtVvZT.split('#');
+document.getElementById('IWSxtVvZT').innerHTML = IWSxtVvZT[1]+IWSxtVvZT[2]+IWSxtVvZT[0]+IWSxtVvZT[3];
+document.getElementById('IWSxtVvZT').href = 'mailto:'+IWSxtVvZT[1]+IWSxtVvZT[2]+IWSxtVvZT[0]+IWSxtVvZT[3];
 </script>
 </div>
- <div class="line"></div>
+<div class="line"></div>
 <div class="item __color6a">
 <i class="icon icon-phone visible-xs-inline"></i>323-940-3353 </div>
 </div>
@@ -1045,7 +1045,7 @@ document.getElementById('sBlKIhgdZ').href = 'mailto:'+sBlKIhgdZ[2]+sBlKIhgdZ[1]+
 </div>
 </div>
 </div>
-</div>
+ </div>
 </div>
 </div>
 </div>
@@ -1073,10 +1073,10 @@ document.getElementById('sBlKIhgdZ').href = 'mailto:'+sBlKIhgdZ[2]+sBlKIhgdZ[1]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='huFVoXktE' rel='nofollow'></a><script>var huFVoXktE = 'eapps.com##info@willowtre';
-var huFVoXktE = huFVoXktE.split('#');
-document.getElementById('huFVoXktE').innerHTML = huFVoXktE[2]+huFVoXktE[0]+huFVoXktE[1];
-document.getElementById('huFVoXktE').href = 'mailto:'+huFVoXktE[2]+huFVoXktE[0]+huFVoXktE[1];
+<i class="icon icon-mail visible-xs-inline"></i><a id='MNLgoFAap' rel='nofollow'></a><script>var MNLgoFAap = '#info@willowtree#apps.com';
+var MNLgoFAap = MNLgoFAap.split('#');
+document.getElementById('MNLgoFAap').innerHTML = MNLgoFAap[1]+MNLgoFAap[2]+MNLgoFAap[0];
+document.getElementById('MNLgoFAap').href = 'mailto:'+MNLgoFAap[1]+MNLgoFAap[2]+MNLgoFAap[0];
 </script>
 </div>
 <div class="line"></div>
@@ -1149,7 +1149,7 @@ document.getElementById('huFVoXktE').href = 'mailto:'+huFVoXktE[2]+huFVoXktE[0]+
 </div>
 <div class="directory-graph directory-secondary-bar">
 <div class="graph-title second_bar_name">&nbsp;</div>
-<div class="chartAreaWrapper service-focus-graph" id="service-focus-26158-2" data-clutch-toggle="graph" data-clutch-graph-nid="26158" data-clutch-graph-type="sec"></div>
+ <div class="chartAreaWrapper service-focus-graph" id="service-focus-26158-2" data-clutch-toggle="graph" data-clutch-graph-nid="26158" data-clutch-graph-type="sec"></div>
 <div class="chart-label hidden-xs"></div>
 <div class="chart-label-carousel visible-xs">
 <div id="chart-label-carousel-261582" class="carousel slide" data-ride="carousel">
@@ -1193,10 +1193,10 @@ document.getElementById('huFVoXktE').href = 'mailto:'+huFVoXktE[2]+huFVoXktE[0]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='ntLThkvVP' rel='nofollow'></a><script>var ntLThkvVP = 'ndtom#.com#@doma#hello#';
-var ntLThkvVP = ntLThkvVP.split('#');
-document.getElementById('ntLThkvVP').innerHTML = ntLThkvVP[3]+ntLThkvVP[2]+ntLThkvVP[0]+ntLThkvVP[1]+ntLThkvVP[4];
-document.getElementById('ntLThkvVP').href = 'mailto:'+ntLThkvVP[3]+ntLThkvVP[2]+ntLThkvVP[0]+ntLThkvVP[1]+ntLThkvVP[4];
+<i class="icon icon-mail visible-xs-inline"></i><a id='hAQRZYnji' rel='nofollow'></a><script>var hAQRZYnji = 'hello@doman##dtom.com';
+var hAQRZYnji = hAQRZYnji.split('#');
+document.getElementById('hAQRZYnji').innerHTML = hAQRZYnji[0]+hAQRZYnji[2]+hAQRZYnji[1];
+document.getElementById('hAQRZYnji').href = 'mailto:'+hAQRZYnji[0]+hAQRZYnji[2]+hAQRZYnji[1];
 </script>
 </div>
 <div class="line"></div>
@@ -1208,128 +1208,8 @@ document.getElementById('ntLThkvVP').href = 'mailto:'+ntLThkvVP[3]+ntLThkvVP[2]+
 </div>
 </div>
 </li>
-<li class="provider-row" property="itemListElement" typeof="ListItem"><div class="row" data-clutch-nid="8839">
-<meta property="position" content="7" />
-<meta property="name" content="Intellectsoft" />
-<div class="col-xs-12 col-md-10 bordered-right provider-base-info">
-<div class="row provider-row-header">
-<div class="col-xs-12">
-<div class="company-logo">
-<a href="https://clutch.co/profile/intellectsoft" target="_blank">
-<img property="image" class="img-responsive" data-echo="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/smhbyiox.jpg?itok=brs_K0oV" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="65" alt="Intellectsoft logo" /><noscript><img property="image" class="img-responsive" src="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/smhbyiox.jpg?itok=brs_K0oV" width="65" height="65" alt="Intellectsoft logo" /></noscript> </a>
-</div>
-<h3 class="company-name">
-<span>7. </span>
-<a href="/profile/intellectsoft" target="_blank">Intellectsoft</a> </h3>
-<p class="tagline">Developing serious software solutions</p>
-<div class="rating-reviews"><span class="rating">4.8</span><div class="reviews-totals-stars"><div class="fivestar-static-item"><div class="form-type-item form-item form-group">
-<div class="fivestar-"><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clearfix"><div class="star star-1 star-odd star-first"><span class="on"></span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on"></span></div><div class="star star-5 star-odd star-last"><span class="bg"></span><span class="on" style="width: 80%"></span></div></div></div>
-</div>
-</div></div><span class="reviews-count"><a href="https://clutch.co/profile/intellectsoft#reviews" target="_blank">20 reviews <span class="icon-angle-right"></span></a></span></div>
-</div>
-</div>
-<div class="row provider-info no-margin">
-<div class="col-xs-12 col-sm-6 col-md-3 provider-info__description">
-<blockquote class="blockquote-in-module"><p>"I'm really happy with them, and I'm ready to do more work with Intellectsoft."</p>
-</blockquote>
-<ul class="module-list small-list"><li>Founder, Ztadium Studios <i class="icon-founder"></i></li>
-</ul> </div>
-<div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
-<div class="module-list">
-<div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $25,000+ </div>
-<div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$50 - $99</span> / hr
-</div>
-<div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">250 - 999</span></div>
-<div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
-<span class="locality">Palo Alto,</span>
-<span class="region">CA</span>
-</span><span class="location-country">
-</span></div>
-</div>
-</div>
-<div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
-<div class="row">
-<div class="directory-graph directory-main-bar">
-<div class="graph-title">Service focus</div>
-<div class="chartAreaWrapper service-focus-graph" id="service-focus-8839" data-clutch-toggle="graph" data-clutch-graph-nid="8839"></div>
-<div class="chart-label hidden-xs"></div>
-<div class="chart-label-carousel visible-xs">
-<div id="chart-label-carousel-8839" class="carousel slide" data-ride="carousel">
-<div class="carousel-inner"></div>
-<a class="left carousel-control" href="#chart-label-carousel-8839" role="button" data-slide="prev" data-toggle="sliderprev">
-<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-<span class="sr-only">Previous</span>
-</a>
-<a class="right carousel-control" href="#chart-label-carousel-8839" role="button" data-slide="next" data-toggle="slidernext">
-<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-<span class="sr-only">Next</span>
-</a>
-</div>
-</div>
-</div>
-<div class="directory-graph directory-secondary-bar">
-<div class="graph-title second_bar_name">&nbsp;</div>
-<div class="chartAreaWrapper service-focus-graph" id="service-focus-8839-2" data-clutch-toggle="graph" data-clutch-graph-nid="8839" data-clutch-graph-type="sec"></div>
-<div class="chart-label hidden-xs"></div>
-<div class="chart-label-carousel visible-xs">
-<div id="chart-label-carousel-88392" class="carousel slide" data-ride="carousel">
-<div class="carousel-inner"></div>
-<a class="left carousel-control" href="#chart-label-carousel-88392" role="button" data-slide="prev" data-toggle="sliderprev">
-<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-<span class="sr-only">Previous</span>
-</a>
-<a class="right carousel-control" href="#chart-label-carousel-88392" role="button" data-slide="next" data-toggle="slidernext">
-<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-<span class="sr-only">Next</span>
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-xs-12 col-md-2 provider-link-details">
-<ul class="nav nav-pills nav-stacked nav-right-profile">
-<li class="website-link website-link-a">
-<a href="http://intellectsoft.net/?utm_source=clutch.co&utm_medium=referral&utm_campaign=iphone_dev" rel="nofollow" target="_blank">
-<i class="icon icon-visit-site"></i><span class="">Visit Website</span>
-</a>
-</li>
-<li>
-<a href="/profile/intellectsoft" target="_blank">
-<span class="hidden-xs">View Profile</span>
-<i class="icon icon-profile"></i>
-</a>
-</li>
-<li>
-<a href="" class="contact">
-<span class="hidden-xs">Contact</span>
-<i class="icon icon-contact"></i>
-</a>
-<div class="contact-dropdown hide">
-<div class="contact-dropdown-header">
-<a href="#!" class="btn-close-contact pull-right"><i class="icon icon-close"></i></a>
-<div class="dropdown-title">CONTACT</div>
-</div>
-<div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='rfIRJULFu' rel='nofollow'></a><script>var rfIRJULFu = 'lle#nte##cts#oft#inf#o@i#.ne#t';
-var rfIRJULFu = rfIRJULFu.split('#');
-document.getElementById('rfIRJULFu').innerHTML = rfIRJULFu[5]+rfIRJULFu[6]+rfIRJULFu[1]+rfIRJULFu[0]+rfIRJULFu[3]+rfIRJULFu[4]+rfIRJULFu[7]+rfIRJULFu[8]+rfIRJULFu[2];
-document.getElementById('rfIRJULFu').href = 'mailto:'+rfIRJULFu[5]+rfIRJULFu[6]+rfIRJULFu[1]+rfIRJULFu[0]+rfIRJULFu[3]+rfIRJULFu[4]+rfIRJULFu[7]+rfIRJULFu[8]+rfIRJULFu[2];
-</script>
-</div>
-<div class="line"></div>
-<div class="item __color6a">
-<i class="icon icon-phone visible-xs-inline"></i>650 300 4335 </div>
-</div>
-</li>
-</ul>
-</div>
-</div>
-</li>
 <li class="provider-row" property="itemListElement" typeof="ListItem"><div class="row" data-clutch-nid="5550">
-<meta property="position" content="8" />
+<meta property="position" content="7" />
 <meta property="name" content="Fueled" />
 <div class="col-xs-12 col-md-10 bordered-right provider-base-info">
 <div class="row provider-row-header">
@@ -1339,7 +1219,7 @@ document.getElementById('rfIRJULFu').href = 'mailto:'+rfIRJULFu[5]+rfIRJULFu[6]+
 <img property="image" class="img-responsive" data-echo="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/fueled.png?itok=38rZS_LH" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="65" alt="FUELED - iPhone App Developer" /><noscript><img property="image" class="img-responsive" src="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/fueled.png?itok=38rZS_LH" width="65" height="65" alt="FUELED - iPhone App Developer" /></noscript> </a>
 </div>
 <h3 class="company-name">
-<span>8. </span>
+<span>7. </span>
 <a href="/profile/fueled" target="_blank">Fueled</a> </h3>
 <p class="tagline">THERE'S AN APP- THEN, THERE'S A FUELED APP.</p>
 <div class="rating-reviews"><span class="rating">4.8</span><div class="reviews-totals-stars"><div class="fivestar-static-item"><div class="form-type-item form-item form-group">
@@ -1433,15 +1313,135 @@ document.getElementById('rfIRJULFu').href = 'mailto:'+rfIRJULFu[5]+rfIRJULFu[6]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='sTzPpQCqW' rel='nofollow'></a><script>var sTzPpQCqW = 'eled.com#hello@fu#';
-var sTzPpQCqW = sTzPpQCqW.split('#');
-document.getElementById('sTzPpQCqW').innerHTML = sTzPpQCqW[1]+sTzPpQCqW[0]+sTzPpQCqW[2];
-document.getElementById('sTzPpQCqW').href = 'mailto:'+sTzPpQCqW[1]+sTzPpQCqW[0]+sTzPpQCqW[2];
+<i class="icon icon-mail visible-xs-inline"></i><a id='AUjROfgIM' rel='nofollow'></a><script>var AUjROfgIM = 'eled.com##hello@fu';
+var AUjROfgIM = AUjROfgIM.split('#');
+document.getElementById('AUjROfgIM').innerHTML = AUjROfgIM[2]+AUjROfgIM[0]+AUjROfgIM[1];
+document.getElementById('AUjROfgIM').href = 'mailto:'+AUjROfgIM[2]+AUjROfgIM[0]+AUjROfgIM[1];
 </script>
 </div>
 <div class="line"></div>
 <div class="item __color6a">
 <i class="icon icon-phone visible-xs-inline"></i>+1-212-763-7726 </div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="provider-row" property="itemListElement" typeof="ListItem"><div class="row" data-clutch-nid="8839">
+<meta property="position" content="8" />
+<meta property="name" content="Intellectsoft" />
+<div class="col-xs-12 col-md-10 bordered-right provider-base-info">
+<div class="row provider-row-header">
+<div class="col-xs-12">
+<div class="company-logo">
+<a href="https://clutch.co/profile/intellectsoft" target="_blank">
+<img property="image" class="img-responsive" data-echo="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/smhbyiox.jpg?itok=brs_K0oV" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="65" alt="Intellectsoft logo" /><noscript><img property="image" class="img-responsive" src="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/smhbyiox.jpg?itok=brs_K0oV" width="65" height="65" alt="Intellectsoft logo" /></noscript> </a>
+</div>
+<h3 class="company-name">
+<span>8. </span>
+<a href="/profile/intellectsoft" target="_blank">Intellectsoft</a> </h3>
+<p class="tagline">Developing serious software solutions</p>
+<div class="rating-reviews"><span class="rating">4.8</span><div class="reviews-totals-stars"><div class="fivestar-static-item"><div class="form-type-item form-item form-group">
+<div class="fivestar-"><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clearfix"><div class="star star-1 star-odd star-first"><span class="on"></span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on"></span></div><div class="star star-5 star-odd star-last"><span class="bg"></span><span class="on" style="width: 80%"></span></div></div></div>
+</div>
+</div></div><span class="reviews-count"><a href="https://clutch.co/profile/intellectsoft#reviews" target="_blank">20 reviews <span class="icon-angle-right"></span></a></span></div>
+</div>
+</div>
+<div class="row provider-info no-margin">
+<div class="col-xs-12 col-sm-6 col-md-3 provider-info__description">
+<blockquote class="blockquote-in-module"><p>"I'm really happy with them, and I'm ready to do more work with Intellectsoft."</p>
+</blockquote>
+<ul class="module-list small-list"><li>Founder, Ztadium Studios <i class="icon-founder"></i></li>
+</ul> </div>
+<div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
+<div class="module-list">
+<div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $25,000+ </div>
+<div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$50 - $99</span> / hr
+</div>
+<div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">250 - 999</span></div>
+<div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
+<span class="locality">Palo Alto,</span>
+<span class="region">CA</span>
+</span><span class="location-country">
+</span></div>
+</div>
+</div>
+<div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
+<div class="row">
+<div class="directory-graph directory-main-bar">
+<div class="graph-title">Service focus</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-8839" data-clutch-toggle="graph" data-clutch-graph-nid="8839"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-8839" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-8839" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-8839" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+<div class="directory-graph directory-secondary-bar">
+<div class="graph-title second_bar_name">&nbsp;</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-8839-2" data-clutch-toggle="graph" data-clutch-graph-nid="8839" data-clutch-graph-type="sec"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-88392" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-88392" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-88392" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-md-2 provider-link-details">
+<ul class="nav nav-pills nav-stacked nav-right-profile">
+<li class="website-link website-link-a">
+<a href="http://intellectsoft.net/?utm_source=clutch.co&utm_medium=referral&utm_campaign=iphone_dev" rel="nofollow" target="_blank">
+<i class="icon icon-visit-site"></i><span class="">Visit Website</span>
+</a>
+</li>
+<li>
+<a href="/profile/intellectsoft" target="_blank">
+<span class="hidden-xs">View Profile</span>
+<i class="icon icon-profile"></i>
+</a>
+</li>
+<li>
+<a href="" class="contact">
+<span class="hidden-xs">Contact</span>
+<i class="icon icon-contact"></i>
+</a>
+<div class="contact-dropdown hide">
+<div class="contact-dropdown-header">
+<a href="#!" class="btn-close-contact pull-right"><i class="icon icon-close"></i></a>
+<div class="dropdown-title">CONTACT</div>
+</div>
+<div class="item">
+<i class="icon icon-mail visible-xs-inline"></i><a id='HVBMiuPsb' rel='nofollow'></a><script>var HVBMiuPsb = '#info@int#ellectso#ft.net';
+var HVBMiuPsb = HVBMiuPsb.split('#');
+document.getElementById('HVBMiuPsb').innerHTML = HVBMiuPsb[1]+HVBMiuPsb[2]+HVBMiuPsb[3]+HVBMiuPsb[0];
+document.getElementById('HVBMiuPsb').href = 'mailto:'+HVBMiuPsb[1]+HVBMiuPsb[2]+HVBMiuPsb[3]+HVBMiuPsb[0];
+</script>
+</div>
+<div class="line"></div>
+<div class="item __color6a">
+<i class="icon icon-phone visible-xs-inline"></i>650 300 4335 </div>
 </div>
 </li>
 </ul>
@@ -1494,7 +1494,7 @@ document.getElementById('sTzPpQCqW').href = 'mailto:'+sTzPpQCqW[1]+sTzPpQCqW[0]+
 <div class="chartAreaWrapper service-focus-graph" id="service-focus-5506" data-clutch-toggle="graph" data-clutch-graph-nid="5506"></div>
 <div class="chart-label hidden-xs"></div>
 <div class="chart-label-carousel visible-xs">
-<div id="chart-label-carousel-5506" class="carousel slide" data-ride="carousel">
+ <div id="chart-label-carousel-5506" class="carousel slide" data-ride="carousel">
 <div class="carousel-inner"></div>
 <a class="left carousel-control" href="#chart-label-carousel-5506" role="button" data-slide="prev" data-toggle="sliderprev">
 <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -1553,10 +1553,10 @@ document.getElementById('sTzPpQCqW').href = 'mailto:'+sTzPpQCqW[1]+sTzPpQCqW[0]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='ocDBJUafH' rel='nofollow'></a><script>var ocDBJUafH = '#alabs.com#contact@ymedi';
-var ocDBJUafH = ocDBJUafH.split('#');
-document.getElementById('ocDBJUafH').innerHTML = ocDBJUafH[2]+ocDBJUafH[1]+ocDBJUafH[0];
-document.getElementById('ocDBJUafH').href = 'mailto:'+ocDBJUafH[2]+ocDBJUafH[1]+ocDBJUafH[0];
+<i class="icon icon-mail visible-xs-inline"></i><a id='kFXugtyhQ' rel='nofollow'></a><script>var kFXugtyhQ = 'med##tac#con#.co#t@y#ial#abs#m';
+var kFXugtyhQ = kFXugtyhQ.split('#');
+document.getElementById('kFXugtyhQ').innerHTML = kFXugtyhQ[3]+kFXugtyhQ[2]+kFXugtyhQ[5]+kFXugtyhQ[0]+kFXugtyhQ[6]+kFXugtyhQ[7]+kFXugtyhQ[4]+kFXugtyhQ[8]+kFXugtyhQ[1];
+document.getElementById('kFXugtyhQ').href = 'mailto:'+kFXugtyhQ[3]+kFXugtyhQ[2]+kFXugtyhQ[5]+kFXugtyhQ[0]+kFXugtyhQ[6]+kFXugtyhQ[7]+kFXugtyhQ[4]+kFXugtyhQ[8]+kFXugtyhQ[1];
 </script>
 </div>
 <div class="line"></div>
@@ -1597,7 +1597,7 @@ document.getElementById('ocDBJUafH').href = 'mailto:'+ocDBJUafH[2]+ocDBJUafH[1]+
 <div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
 <div class="module-list">
 <div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $25,000+ </div>
-<div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$50 - $99</span> / hr
+ <div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$50 - $99</span> / hr
 </div>
 <div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">250 - 999</span></div>
 <div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
@@ -1639,7 +1639,7 @@ document.getElementById('ocDBJUafH').href = 'mailto:'+ocDBJUafH[2]+ocDBJUafH[1]+
 <span class="sr-only">Previous</span>
 </a>
 <a class="right carousel-control" href="#chart-label-carousel-236882" role="button" data-slide="next" data-toggle="slidernext">
- <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
 <span class="sr-only">Next</span>
 </a>
 </div>
@@ -1673,10 +1673,10 @@ document.getElementById('ocDBJUafH').href = 'mailto:'+ocDBJUafH[2]+ocDBJUafH[1]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='wxHWrjktE' rel='nofollow'></a><script>var wxHWrjktE = 's@appsterhq.com##Clutch-Enquirie';
-var wxHWrjktE = wxHWrjktE.split('#');
-document.getElementById('wxHWrjktE').innerHTML = wxHWrjktE[2]+wxHWrjktE[0]+wxHWrjktE[1];
-document.getElementById('wxHWrjktE').href = 'mailto:'+wxHWrjktE[2]+wxHWrjktE[0]+wxHWrjktE[1];
+<i class="icon icon-mail visible-xs-inline"></i><a id='ACEyfwBSz' rel='nofollow'></a><script>var ACEyfwBSz = 'es@appsterhq.c##Clutch-Enquiri#om';
+var ACEyfwBSz = ACEyfwBSz.split('#');
+document.getElementById('ACEyfwBSz').innerHTML = ACEyfwBSz[2]+ACEyfwBSz[0]+ACEyfwBSz[3]+ACEyfwBSz[1];
+document.getElementById('ACEyfwBSz').href = 'mailto:'+ACEyfwBSz[2]+ACEyfwBSz[0]+ACEyfwBSz[3]+ACEyfwBSz[1];
 </script>
 </div>
 <div class="line"></div>
@@ -1793,10 +1793,10 @@ document.getElementById('wxHWrjktE').href = 'mailto:'+wxHWrjktE[2]+wxHWrjktE[0]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='VRmeHCzSF' rel='nofollow'></a><script>var VRmeHCzSF = 'labs.com#hello@raiz#';
-var VRmeHCzSF = VRmeHCzSF.split('#');
-document.getElementById('VRmeHCzSF').innerHTML = VRmeHCzSF[1]+VRmeHCzSF[0]+VRmeHCzSF[2];
-document.getElementById('VRmeHCzSF').href = 'mailto:'+VRmeHCzSF[1]+VRmeHCzSF[0]+VRmeHCzSF[2];
+<i class="icon icon-mail visible-xs-inline"></i><a id='fOSvIKATG' rel='nofollow'></a><script>var fOSvIKATG = 'hello@raizlabs.co##m';
+var fOSvIKATG = fOSvIKATG.split('#');
+document.getElementById('fOSvIKATG').innerHTML = fOSvIKATG[0]+fOSvIKATG[2]+fOSvIKATG[1];
+document.getElementById('fOSvIKATG').href = 'mailto:'+fOSvIKATG[0]+fOSvIKATG[2]+fOSvIKATG[1];
 </script>
 </div>
 <div class="line"></div>
@@ -1809,7 +1809,7 @@ document.getElementById('VRmeHCzSF').href = 'mailto:'+VRmeHCzSF[1]+VRmeHCzSF[0]+
 </div>
 </li>
 <li class="provider-row" property="itemListElement" typeof="ListItem"><div class="row" data-clutch-nid="26124">
-<meta property="position" content="12" />
+ <meta property="position" content="12" />
 <meta property="name" content="hedgehog lab" />
 <div class="col-xs-12 col-md-10 bordered-right provider-base-info">
 <div class="row provider-row-header">
@@ -1847,7 +1847,7 @@ document.getElementById('VRmeHCzSF').href = 'mailto:'+VRmeHCzSF[1]+VRmeHCzSF[0]+
 </span></div>
 </div>
 </div>
- <div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
+<div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
 <div class="row">
 <div class="directory-graph directory-main-bar">
 <div class="graph-title">Service focus</div>
@@ -1901,7 +1901,7 @@ document.getElementById('VRmeHCzSF').href = 'mailto:'+VRmeHCzSF[1]+VRmeHCzSF[0]+
 <span class="hidden-xs">View Profile</span>
 <i class="icon icon-profile"></i>
 </a>
- </li>
+</li>
 <li>
 <a href="" class="contact">
 <span class="hidden-xs">Contact</span>
@@ -1913,10 +1913,10 @@ document.getElementById('VRmeHCzSF').href = 'mailto:'+VRmeHCzSF[1]+VRmeHCzSF[0]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='vIlsxqgAB' rel='nofollow'></a><script>var vIlsxqgAB = '#glab.com#info@hedgeho';
-var vIlsxqgAB = vIlsxqgAB.split('#');
-document.getElementById('vIlsxqgAB').innerHTML = vIlsxqgAB[2]+vIlsxqgAB[1]+vIlsxqgAB[0];
-document.getElementById('vIlsxqgAB').href = 'mailto:'+vIlsxqgAB[2]+vIlsxqgAB[1]+vIlsxqgAB[0];
+<i class="icon icon-mail visible-xs-inline"></i><a id='KJaOhnLFw' rel='nofollow'></a><script>var KJaOhnLFw = 'hedge#hogla#info@#b.com#';
+var KJaOhnLFw = KJaOhnLFw.split('#');
+document.getElementById('KJaOhnLFw').innerHTML = KJaOhnLFw[2]+KJaOhnLFw[0]+KJaOhnLFw[1]+KJaOhnLFw[3]+KJaOhnLFw[4];
+document.getElementById('KJaOhnLFw').href = 'mailto:'+KJaOhnLFw[2]+KJaOhnLFw[0]+KJaOhnLFw[1]+KJaOhnLFw[3]+KJaOhnLFw[4];
 </script>
 </div>
 <div class="line"></div>
@@ -2033,10 +2033,10 @@ document.getElementById('vIlsxqgAB').href = 'mailto:'+vIlsxqgAB[2]+vIlsxqgAB[1]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='nxGoehLVZ' rel='nofollow'></a><script>var nxGoehLVZ = '#sales@dminc.com';
-var nxGoehLVZ = nxGoehLVZ.split('#');
-document.getElementById('nxGoehLVZ').innerHTML = nxGoehLVZ[1]+nxGoehLVZ[0];
-document.getElementById('nxGoehLVZ').href = 'mailto:'+nxGoehLVZ[1]+nxGoehLVZ[0];
+<i class="icon icon-mail visible-xs-inline"></i><a id='XxabnJpEV' rel='nofollow'></a><script>var XxabnJpEV = 'om##sales@dminc.c';
+var XxabnJpEV = XxabnJpEV.split('#');
+document.getElementById('XxabnJpEV').innerHTML = XxabnJpEV[2]+XxabnJpEV[0]+XxabnJpEV[1];
+document.getElementById('XxabnJpEV').href = 'mailto:'+XxabnJpEV[2]+XxabnJpEV[0]+XxabnJpEV[1];
 </script>
 </div>
 <div class="line"></div>
@@ -2057,7 +2057,7 @@ document.getElementById('nxGoehLVZ').href = 'mailto:'+nxGoehLVZ[1]+nxGoehLVZ[0];
 <div class="company-logo">
 <a href="https://clutch.co/profile/zco" target="_blank">
 <img property="image" class="img-responsive" data-echo="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/zco_logo_clutch.png?itok=pGIybp2x" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="65" alt="" /><noscript><img property="image" class="img-responsive" src="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/zco_logo_clutch.png?itok=pGIybp2x" width="65" height="65" alt="" /></noscript> </a>
-</div>
+ </div>
 <h3 class="company-name">
 <span>14. </span>
 <a href="/profile/zco" target="_blank">Zco </a> </h3>
@@ -2153,10 +2153,10 @@ document.getElementById('nxGoehLVZ').href = 'mailto:'+nxGoehLVZ[1]+nxGoehLVZ[0];
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='mdFrHAoMk' rel='nofollow'></a><script>var mdFrHAoMk = 'sales@zco.c#om#';
-var mdFrHAoMk = mdFrHAoMk.split('#');
-document.getElementById('mdFrHAoMk').innerHTML = mdFrHAoMk[0]+mdFrHAoMk[1]+mdFrHAoMk[2];
-document.getElementById('mdFrHAoMk').href = 'mailto:'+mdFrHAoMk[0]+mdFrHAoMk[1]+mdFrHAoMk[2];
+<i class="icon icon-mail visible-xs-inline"></i><a id='sPfEYjZJv' rel='nofollow'></a><script>var sPfEYjZJv = '#sales@z#co.com';
+var sPfEYjZJv = sPfEYjZJv.split('#');
+document.getElementById('sPfEYjZJv').innerHTML = sPfEYjZJv[1]+sPfEYjZJv[2]+sPfEYjZJv[0];
+document.getElementById('sPfEYjZJv').href = 'mailto:'+sPfEYjZJv[1]+sPfEYjZJv[2]+sPfEYjZJv[0];
 </script>
 </div>
 <div class="line"></div>
@@ -2200,7 +2200,7 @@ document.getElementById('mdFrHAoMk').href = 'mailto:'+mdFrHAoMk[0]+mdFrHAoMk[1]+
 <div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$100 - $149</span> / hr
 </div>
 <div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">10 - 49</span></div>
- <div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
+<div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
 <span class="locality">New York,</span>
 <span class="region">NY</span>
 </span><span class="location-country">
@@ -2245,7 +2245,7 @@ document.getElementById('mdFrHAoMk').href = 'mailto:'+mdFrHAoMk[0]+mdFrHAoMk[1]+
 </div>
 </div>
 </div>
-</div>
+ </div>
 </div>
 </div>
 </div>
@@ -2273,10 +2273,10 @@ document.getElementById('mdFrHAoMk').href = 'mailto:'+mdFrHAoMk[0]+mdFrHAoMk[1]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='MyIUDZHdK' rel='nofollow'></a><script>var MyIUDZHdK = 'contact@bluelabellabs##.com';
-var MyIUDZHdK = MyIUDZHdK.split('#');
-document.getElementById('MyIUDZHdK').innerHTML = MyIUDZHdK[0]+MyIUDZHdK[2]+MyIUDZHdK[1];
-document.getElementById('MyIUDZHdK').href = 'mailto:'+MyIUDZHdK[0]+MyIUDZHdK[2]+MyIUDZHdK[1];
+<i class="icon icon-mail visible-xs-inline"></i><a id='WFlXhnujq' rel='nofollow'></a><script>var WFlXhnujq = '#contact@bluelabellab#s.com';
+var WFlXhnujq = WFlXhnujq.split('#');
+document.getElementById('WFlXhnujq').innerHTML = WFlXhnujq[1]+WFlXhnujq[2]+WFlXhnujq[0];
+document.getElementById('WFlXhnujq').href = 'mailto:'+WFlXhnujq[1]+WFlXhnujq[2]+WFlXhnujq[0];
 </script>
 </div>
 <div class="line"></div>
@@ -2393,10 +2393,10 @@ document.getElementById('MyIUDZHdK').href = 'mailto:'+MyIUDZHdK[0]+MyIUDZHdK[2]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='kMmZEyiFD' rel='nofollow'></a><script>var kMmZEyiFD = '#.com#contact@iflexion';
-var kMmZEyiFD = kMmZEyiFD.split('#');
-document.getElementById('kMmZEyiFD').innerHTML = kMmZEyiFD[2]+kMmZEyiFD[1]+kMmZEyiFD[0];
-document.getElementById('kMmZEyiFD').href = 'mailto:'+kMmZEyiFD[2]+kMmZEyiFD[1]+kMmZEyiFD[0];
+<i class="icon icon-mail visible-xs-inline"></i><a id='PcudWabeU' rel='nofollow'></a><script>var PcudWabeU = 'contact@iflexi##on.com';
+var PcudWabeU = PcudWabeU.split('#');
+document.getElementById('PcudWabeU').innerHTML = PcudWabeU[0]+PcudWabeU[2]+PcudWabeU[1];
+document.getElementById('PcudWabeU').href = 'mailto:'+PcudWabeU[0]+PcudWabeU[2]+PcudWabeU[1];
 </script>
 </div>
 <div class="line"></div>
@@ -2513,10 +2513,10 @@ document.getElementById('kMmZEyiFD').href = 'mailto:'+kMmZEyiFD[2]+kMmZEyiFD[1]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
- <i class="icon icon-mail visible-xs-inline"></i><a id='DMuEyUoPY' rel='nofollow'></a><script>var DMuEyUoPY = 'inf##com#xad#el.#o@e';
-var DMuEyUoPY = DMuEyUoPY.split('#');
-document.getElementById('DMuEyUoPY').innerHTML = DMuEyUoPY[0]+DMuEyUoPY[5]+DMuEyUoPY[3]+DMuEyUoPY[4]+DMuEyUoPY[2]+DMuEyUoPY[1];
-document.getElementById('DMuEyUoPY').href = 'mailto:'+DMuEyUoPY[0]+DMuEyUoPY[5]+DMuEyUoPY[3]+DMuEyUoPY[4]+DMuEyUoPY[2]+DMuEyUoPY[1];
+<i class="icon icon-mail visible-xs-inline"></i><a id='hPlcHKepL' rel='nofollow'></a><script>var hPlcHKepL = '#del.#com#@exa#info';
+var hPlcHKepL = hPlcHKepL.split('#');
+document.getElementById('hPlcHKepL').innerHTML = hPlcHKepL[4]+hPlcHKepL[3]+hPlcHKepL[1]+hPlcHKepL[2]+hPlcHKepL[0];
+document.getElementById('hPlcHKepL').href = 'mailto:'+hPlcHKepL[4]+hPlcHKepL[3]+hPlcHKepL[1]+hPlcHKepL[2]+hPlcHKepL[0];
 </script>
 </div>
 <div class="line"></div>
@@ -2597,7 +2597,7 @@ document.getElementById('DMuEyUoPY').href = 'mailto:'+DMuEyUoPY[0]+DMuEyUoPY[5]+
 <a class="left carousel-control" href="#chart-label-carousel-294552" role="button" data-slide="prev" data-toggle="sliderprev">
 <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
 <span class="sr-only">Previous</span>
-</a>
+ </a>
 <a class="right carousel-control" href="#chart-label-carousel-294552" role="button" data-slide="next" data-toggle="slidernext">
 <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
 <span class="sr-only">Next</span>
@@ -2633,10 +2633,10 @@ document.getElementById('DMuEyUoPY').href = 'mailto:'+DMuEyUoPY[0]+DMuEyUoPY[5]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='yOpHGvSWj' rel='nofollow'></a><script>var yOpHGvSWj = 'sales@cleve#road.com#';
-var yOpHGvSWj = yOpHGvSWj.split('#');
-document.getElementById('yOpHGvSWj').innerHTML = yOpHGvSWj[0]+yOpHGvSWj[1]+yOpHGvSWj[2];
-document.getElementById('yOpHGvSWj').href = 'mailto:'+yOpHGvSWj[0]+yOpHGvSWj[1]+yOpHGvSWj[2];
+<i class="icon icon-mail visible-xs-inline"></i><a id='ZhzYKixWb' rel='nofollow'></a><script>var ZhzYKixWb = 'oad#ver#m##.co#sal#es@#cle';
+var ZhzYKixWb = ZhzYKixWb.split('#');
+document.getElementById('ZhzYKixWb').innerHTML = ZhzYKixWb[5]+ZhzYKixWb[6]+ZhzYKixWb[7]+ZhzYKixWb[1]+ZhzYKixWb[0]+ZhzYKixWb[4]+ZhzYKixWb[2]+ZhzYKixWb[3];
+document.getElementById('ZhzYKixWb').href = 'mailto:'+ZhzYKixWb[5]+ZhzYKixWb[6]+ZhzYKixWb[7]+ZhzYKixWb[1]+ZhzYKixWb[0]+ZhzYKixWb[4]+ZhzYKixWb[2]+ZhzYKixWb[3];
 </script>
 </div>
 <div class="line"></div>
@@ -2698,7 +2698,7 @@ document.getElementById('yOpHGvSWj').href = 'mailto:'+yOpHGvSWj[0]+yOpHGvSWj[1]+
 <div class="carousel-inner"></div>
 <a class="left carousel-control" href="#chart-label-carousel-89236" role="button" data-slide="prev" data-toggle="sliderprev">
 <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-<span class="sr-only">Previous</span>
+ <span class="sr-only">Previous</span>
 </a>
 <a class="right carousel-control" href="#chart-label-carousel-89236" role="button" data-slide="next" data-toggle="slidernext">
 <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
@@ -2753,10 +2753,10 @@ document.getElementById('yOpHGvSWj').href = 'mailto:'+yOpHGvSWj[0]+yOpHGvSWj[1]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='OKFNjbnYT' rel='nofollow'></a><script>var OKFNjbnYT = 'Hello@ChopDa##wg.com';
-var OKFNjbnYT = OKFNjbnYT.split('#');
-document.getElementById('OKFNjbnYT').innerHTML = OKFNjbnYT[0]+OKFNjbnYT[2]+OKFNjbnYT[1];
-document.getElementById('OKFNjbnYT').href = 'mailto:'+OKFNjbnYT[0]+OKFNjbnYT[2]+OKFNjbnYT[1];
+<i class="icon icon-mail visible-xs-inline"></i><a id='ePMFzCTfk' rel='nofollow'></a><script>var ePMFzCTfk = 'com#Dawg.##Hello#@Chop';
+var ePMFzCTfk = ePMFzCTfk.split('#');
+document.getElementById('ePMFzCTfk').innerHTML = ePMFzCTfk[3]+ePMFzCTfk[4]+ePMFzCTfk[1]+ePMFzCTfk[0]+ePMFzCTfk[2];
+document.getElementById('ePMFzCTfk').href = 'mailto:'+ePMFzCTfk[3]+ePMFzCTfk[4]+ePMFzCTfk[1]+ePMFzCTfk[0]+ePMFzCTfk[2];
 </script>
 </div>
 <div class="line"></div>
@@ -2769,7 +2769,7 @@ document.getElementById('OKFNjbnYT').href = 'mailto:'+OKFNjbnYT[0]+OKFNjbnYT[2]+
 </div>
 </li>
 <li class="provider-row" property="itemListElement" typeof="ListItem"><div class="row" data-clutch-nid="5317">
- <meta property="position" content="20" />
+<meta property="position" content="20" />
 <meta property="name" content="QBurst" />
 <div class="col-xs-12 col-md-10 bordered-right provider-base-info">
 <div class="row provider-row-header">
@@ -2805,7 +2805,7 @@ document.getElementById('OKFNjbnYT').href = 'mailto:'+OKFNjbnYT[0]+OKFNjbnYT[2]+
 </span><span class="location-country">
 <span class="country-name">India</span>
 </span></div>
- </div>
+</div>
 </div>
 <div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
 <div class="row">
@@ -2873,10 +2873,10 @@ document.getElementById('OKFNjbnYT').href = 'mailto:'+OKFNjbnYT[0]+OKFNjbnYT[2]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='zjFZCuobE' rel='nofollow'></a><script>var zjFZCuobE = '#com#o@q#inf#st.#bur';
-var zjFZCuobE = zjFZCuobE.split('#');
-document.getElementById('zjFZCuobE').innerHTML = zjFZCuobE[3]+zjFZCuobE[2]+zjFZCuobE[5]+zjFZCuobE[4]+zjFZCuobE[1]+zjFZCuobE[0];
-document.getElementById('zjFZCuobE').href = 'mailto:'+zjFZCuobE[3]+zjFZCuobE[2]+zjFZCuobE[5]+zjFZCuobE[4]+zjFZCuobE[1]+zjFZCuobE[0];
+<i class="icon icon-mail visible-xs-inline"></i><a id='LzjlPXSgQ' rel='nofollow'></a><script>var LzjlPXSgQ = '#info@qburst.#com';
+var LzjlPXSgQ = LzjlPXSgQ.split('#');
+document.getElementById('LzjlPXSgQ').innerHTML = LzjlPXSgQ[1]+LzjlPXSgQ[2]+LzjlPXSgQ[0];
+document.getElementById('LzjlPXSgQ').href = 'mailto:'+LzjlPXSgQ[1]+LzjlPXSgQ[2]+LzjlPXSgQ[0];
 </script>
 </div>
 <div class="line"></div>
@@ -2993,10 +2993,10 @@ document.getElementById('zjFZCuobE').href = 'mailto:'+zjFZCuobE[3]+zjFZCuobE[2]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='TugsvxGtD' rel='nofollow'></a><script>var TugsvxGtD = '#us.com#info@andpl';
-var TugsvxGtD = TugsvxGtD.split('#');
-document.getElementById('TugsvxGtD').innerHTML = TugsvxGtD[2]+TugsvxGtD[1]+TugsvxGtD[0];
-document.getElementById('TugsvxGtD').href = 'mailto:'+TugsvxGtD[2]+TugsvxGtD[1]+TugsvxGtD[0];
+<i class="icon icon-mail visible-xs-inline"></i><a id='hnlmiILtu' rel='nofollow'></a><script>var hnlmiILtu = 'plus#@and##.com#info';
+var hnlmiILtu = hnlmiILtu.split('#');
+document.getElementById('hnlmiILtu').innerHTML = hnlmiILtu[4]+hnlmiILtu[1]+hnlmiILtu[0]+hnlmiILtu[3]+hnlmiILtu[2];
+document.getElementById('hnlmiILtu').href = 'mailto:'+hnlmiILtu[4]+hnlmiILtu[1]+hnlmiILtu[0]+hnlmiILtu[3]+hnlmiILtu[2];
 </script>
 </div>
 <div class="line"></div>
@@ -3019,7 +3019,7 @@ document.getElementById('TugsvxGtD').href = 'mailto:'+TugsvxGtD[2]+TugsvxGtD[1]+
 <img property="image" class="img-responsive" data-echo="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/appinventivlogo_icon.png?itok=s8xisaMA" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="65" alt="AppInventiv Logo" /><noscript><img property="image" class="img-responsive" src="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/appinventivlogo_icon.png?itok=s8xisaMA" width="65" height="65" alt="AppInventiv Logo" /></noscript> </a>
 </div>
 <h3 class="company-name">
- <span>22. </span>
+<span>22. </span>
 <a href="/profile/appinventiv" target="_blank">Appinventiv</a> </h3>
 <p class="tagline">Delivering Bespoke Mobile Experience</p>
 <div class="rating-reviews"><span class="rating">4.9</span><div class="reviews-totals-stars"><div class="fivestar-static-item"><div class="form-type-item form-item form-group">
@@ -3113,10 +3113,10 @@ document.getElementById('TugsvxGtD').href = 'mailto:'+TugsvxGtD[2]+TugsvxGtD[1]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='tFqRSfDdA' rel='nofollow'></a><script>var tFqRSfDdA = 'sales@appinventiv.co#m#';
-var tFqRSfDdA = tFqRSfDdA.split('#');
-document.getElementById('tFqRSfDdA').innerHTML = tFqRSfDdA[0]+tFqRSfDdA[1]+tFqRSfDdA[2];
-document.getElementById('tFqRSfDdA').href = 'mailto:'+tFqRSfDdA[0]+tFqRSfDdA[1]+tFqRSfDdA[2];
+<i class="icon icon-mail visible-xs-inline"></i><a id='uqHkdewGE' rel='nofollow'></a><script>var uqHkdewGE = '#sales@appin#ventiv.com';
+var uqHkdewGE = uqHkdewGE.split('#');
+document.getElementById('uqHkdewGE').innerHTML = uqHkdewGE[1]+uqHkdewGE[2]+uqHkdewGE[0];
+document.getElementById('uqHkdewGE').href = 'mailto:'+uqHkdewGE[1]+uqHkdewGE[2]+uqHkdewGE[0];
 </script>
 </div>
 <div class="line"></div>
@@ -3233,10 +3233,10 @@ document.getElementById('tFqRSfDdA').href = 'mailto:'+tFqRSfDdA[0]+tFqRSfDdA[1]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='hcuoLlUYI' rel='nofollow'></a><script>var hcuoLlUYI = 'ights.com#aloha@rocketins#';
-var hcuoLlUYI = hcuoLlUYI.split('#');
-document.getElementById('hcuoLlUYI').innerHTML = hcuoLlUYI[1]+hcuoLlUYI[0]+hcuoLlUYI[2];
-document.getElementById('hcuoLlUYI').href = 'mailto:'+hcuoLlUYI[1]+hcuoLlUYI[0]+hcuoLlUYI[2];
+<i class="icon icon-mail visible-xs-inline"></i><a id='ZVYakmDbo' rel='nofollow'></a><script>var ZVYakmDbo = '#sights.com#aloha@rocketin';
+var ZVYakmDbo = ZVYakmDbo.split('#');
+document.getElementById('ZVYakmDbo').innerHTML = ZVYakmDbo[2]+ZVYakmDbo[1]+ZVYakmDbo[0];
+document.getElementById('ZVYakmDbo').href = 'mailto:'+ZVYakmDbo[2]+ZVYakmDbo[1]+ZVYakmDbo[0];
 </script>
 </div>
 <div class="line"></div>
@@ -3306,7 +3306,7 @@ document.getElementById('hcuoLlUYI').href = 'mailto:'+hcuoLlUYI[1]+hcuoLlUYI[0]+
 </a>
 </div>
 </div>
-</div>
+ </div>
 <div class="directory-graph directory-secondary-bar">
 <div class="graph-title second_bar_name">&nbsp;</div>
 <div class="chartAreaWrapper service-focus-graph" id="service-focus-25919-2" data-clutch-toggle="graph" data-clutch-graph-nid="25919" data-clutch-graph-type="sec"></div>
@@ -3353,10 +3353,10 @@ document.getElementById('hcuoLlUYI').href = 'mailto:'+hcuoLlUYI[1]+hcuoLlUYI[0]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='GNLmjZzEf' rel='nofollow'></a><script>var GNLmjZzEf = '#ct.com#hello+cl#chinstin#utch@tou';
-var GNLmjZzEf = GNLmjZzEf.split('#');
-document.getElementById('GNLmjZzEf').innerHTML = GNLmjZzEf[2]+GNLmjZzEf[4]+GNLmjZzEf[3]+GNLmjZzEf[1]+GNLmjZzEf[0];
-document.getElementById('GNLmjZzEf').href = 'mailto:'+GNLmjZzEf[2]+GNLmjZzEf[4]+GNLmjZzEf[3]+GNLmjZzEf[1]+GNLmjZzEf[0];
+<i class="icon icon-mail visible-xs-inline"></i><a id='FyAkfcgQX' rel='nofollow'></a><script>var FyAkfcgQX = 'ch@touchin#stinct.com#hello+clut#';
+var FyAkfcgQX = FyAkfcgQX.split('#');
+document.getElementById('FyAkfcgQX').innerHTML = FyAkfcgQX[2]+FyAkfcgQX[0]+FyAkfcgQX[1]+FyAkfcgQX[3];
+document.getElementById('FyAkfcgQX').href = 'mailto:'+FyAkfcgQX[2]+FyAkfcgQX[0]+FyAkfcgQX[1]+FyAkfcgQX[3];
 </script>
 </div>
 <div class="line"></div>
@@ -3374,7 +3374,7 @@ document.getElementById('GNLmjZzEf').href = 'mailto:'+GNLmjZzEf[2]+GNLmjZzEf[4]+
 <div class="col-xs-12 col-md-10 bordered-right provider-base-info">
 <div class="row provider-row-header">
 <div class="col-xs-12">
-<div class="company-logo">
+ <div class="company-logo">
 <a href="https://clutch.co/profile/mlsdev" target="_blank">
 <img property="image" class="img-responsive" data-echo="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/mlsdev_new_logo.jpg?itok=_zsosDIH" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="65" alt="MLSDev Logo" /><noscript><img property="image" class="img-responsive" src="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/mlsdev_new_logo.jpg?itok=_zsosDIH" width="65" height="65" alt="MLSDev Logo" /></noscript> </a>
 </div>
@@ -3412,7 +3412,7 @@ document.getElementById('GNLmjZzEf').href = 'mailto:'+GNLmjZzEf[2]+GNLmjZzEf[4]+
 <div class="directory-graph directory-main-bar">
 <div class="graph-title">Service focus</div>
 <div class="chartAreaWrapper service-focus-graph" id="service-focus-16825" data-clutch-toggle="graph" data-clutch-graph-nid="16825"></div>
- <div class="chart-label hidden-xs"></div>
+<div class="chart-label hidden-xs"></div>
 <div class="chart-label-carousel visible-xs">
 <div id="chart-label-carousel-16825" class="carousel slide" data-ride="carousel">
 <div class="carousel-inner"></div>
@@ -3466,17 +3466,17 @@ document.getElementById('GNLmjZzEf').href = 'mailto:'+GNLmjZzEf[2]+GNLmjZzEf[4]+
 <a href="" class="contact">
 <span class="hidden-xs">Contact</span>
 <i class="icon icon-contact"></i>
-</a>
+ </a>
 <div class="contact-dropdown hide">
 <div class="contact-dropdown-header">
 <a href="#!" class="btn-close-contact pull-right"><i class="icon icon-close"></i></a>
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='YPytrGqdS' rel='nofollow'></a><script>var YPytrGqdS = '@mlsd##m#sales#ev.co';
-var YPytrGqdS = YPytrGqdS.split('#');
-document.getElementById('YPytrGqdS').innerHTML = YPytrGqdS[3]+YPytrGqdS[0]+YPytrGqdS[4]+YPytrGqdS[2]+YPytrGqdS[1];
-document.getElementById('YPytrGqdS').href = 'mailto:'+YPytrGqdS[3]+YPytrGqdS[0]+YPytrGqdS[4]+YPytrGqdS[2]+YPytrGqdS[1];
+<i class="icon icon-mail visible-xs-inline"></i><a id='RWAisQJDc' rel='nofollow'></a><script>var RWAisQJDc = 'sales@mlsdev.com#';
+var RWAisQJDc = RWAisQJDc.split('#');
+document.getElementById('RWAisQJDc').innerHTML = RWAisQJDc[0]+RWAisQJDc[1];
+document.getElementById('RWAisQJDc').href = 'mailto:'+RWAisQJDc[0]+RWAisQJDc[1];
 </script>
 </div>
 <div class="line"></div>
@@ -3516,8 +3516,8 @@ document.getElementById('YPytrGqdS').href = 'mailto:'+YPytrGqdS[3]+YPytrGqdS[0]+
 </ul> </div>
 <div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
 <div class="module-list">
-<div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $25,000+ </div>
- <div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$100 - $149</span> / hr
+ <div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $25,000+ </div>
+<div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$100 - $149</span> / hr
 </div>
 <div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">10 - 49</span></div>
 <div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
@@ -3593,10 +3593,10 @@ document.getElementById('YPytrGqdS').href = 'mailto:'+YPytrGqdS[3]+YPytrGqdS[0]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='HthXjNqsC' rel='nofollow'></a><script>var HthXjNqsC = '#contact@dogtownmedi#a.com';
-var HthXjNqsC = HthXjNqsC.split('#');
-document.getElementById('HthXjNqsC').innerHTML = HthXjNqsC[1]+HthXjNqsC[2]+HthXjNqsC[0];
-document.getElementById('HthXjNqsC').href = 'mailto:'+HthXjNqsC[1]+HthXjNqsC[2]+HthXjNqsC[0];
+<i class="icon icon-mail visible-xs-inline"></i><a id='OenmphWLK' rel='nofollow'></a><script>var OenmphWLK = '#gtownmedia#.com#contact@do';
+var OenmphWLK = OenmphWLK.split('#');
+document.getElementById('OenmphWLK').innerHTML = OenmphWLK[3]+OenmphWLK[1]+OenmphWLK[2]+OenmphWLK[0];
+document.getElementById('OenmphWLK').href = 'mailto:'+OenmphWLK[3]+OenmphWLK[1]+OenmphWLK[2]+OenmphWLK[0];
 </script>
 </div>
 <div class="line"></div>
@@ -3713,10 +3713,10 @@ document.getElementById('HthXjNqsC').href = 'mailto:'+HthXjNqsC[1]+HthXjNqsC[2]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='vwmTjRQOo' rel='nofollow'></a><script>var vwmTjRQOo = '#.com#team@utilitynyc';
-var vwmTjRQOo = vwmTjRQOo.split('#');
-document.getElementById('vwmTjRQOo').innerHTML = vwmTjRQOo[2]+vwmTjRQOo[1]+vwmTjRQOo[0];
-document.getElementById('vwmTjRQOo').href = 'mailto:'+vwmTjRQOo[2]+vwmTjRQOo[1]+vwmTjRQOo[0];
+<i class="icon icon-mail visible-xs-inline"></i><a id='JjkTOdSBf' rel='nofollow'></a><script>var JjkTOdSBf = '#team@utilitynyc.#com';
+var JjkTOdSBf = JjkTOdSBf.split('#');
+document.getElementById('JjkTOdSBf').innerHTML = JjkTOdSBf[1]+JjkTOdSBf[2]+JjkTOdSBf[0];
+document.getElementById('JjkTOdSBf').href = 'mailto:'+JjkTOdSBf[1]+JjkTOdSBf[2]+JjkTOdSBf[0];
 </script>
 </div>
 <div class="line"></div>
@@ -3728,8 +3728,128 @@ document.getElementById('vwmTjRQOo').href = 'mailto:'+vwmTjRQOo[2]+vwmTjRQOo[1]+
 </div>
 </div>
 </li>
-<li class="provider-row" property="itemListElement" typeof="ListItem"><div class="row" data-clutch-nid="25243">
+<li class="provider-row" property="itemListElement" typeof="ListItem"><div class="row" data-clutch-nid="19399">
 <meta property="position" content="28" />
+<meta property="name" content="MOBIKASA" />
+<div class="col-xs-12 col-md-10 bordered-right provider-base-info">
+<div class="row provider-row-header">
+<div class="col-xs-12">
+<div class="company-logo">
+<a href="https://clutch.co/profile/mobikasa" target="_blank">
+<img property="image" class="img-responsive" data-echo="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/mobikasa_logo.png?itok=bVkm-OjS" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="65" alt="Mobikasa Mobile &amp; Web Apps" /><noscript><img property="image" class="img-responsive" src="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/mobikasa_logo.png?itok=bVkm-OjS" width="65" height="65" alt="Mobikasa Mobile &amp; Web Apps" /></noscript> </a>
+</div>
+<h3 class="company-name">
+<span>28. </span>
+<a href="/profile/mobikasa" target="_blank">MOBIKASA</a> </h3>
+<p class="tagline">Awesome Mobile Apps & Web Development</p>
+<div class="rating-reviews"><span class="rating">4.7</span><div class="reviews-totals-stars"><div class="fivestar-static-item"><div class="form-type-item form-item form-group">
+<div class="fivestar-"><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clearfix"><div class="star star-1 star-odd star-first"><span class="on"></span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on"></span></div><div class="star star-5 star-odd star-last"><span class="bg"></span><span class="on" style="width: 74.1935%"></span></div></div></div>
+</div>
+</div></div><span class="reviews-count"><a href="https://clutch.co/profile/mobikasa#reviews" target="_blank">31 reviews <span class="icon-angle-right"></span></a></span></div>
+</div>
+</div>
+<div class="row provider-info no-margin">
+<div class="col-xs-12 col-sm-6 col-md-3 provider-info__description">
+<blockquote class="blockquote-in-module"><p>"Mobikasa is transparent and keeps a customer constantly at ease."</p>
+</blockquote>
+<ul class="module-list small-list"><li>Founder, Networking Solution Startup <i class="icon-founder"></i></li>
+</ul> </div>
+<div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
+<div class="module-list">
+<div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $10,000+ </div>
+<div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$25 - $49</span> / hr
+</div>
+<div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">10 - 49</span></div>
+<div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
+<span class="locality">New York,</span>
+<span class="region">NY</span>
+</span><span class="location-country">
+</span></div>
+</div>
+</div>
+<div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
+<div class="row">
+<div class="directory-graph directory-main-bar">
+<div class="graph-title">Service focus</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-19399" data-clutch-toggle="graph" data-clutch-graph-nid="19399"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-19399" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-19399" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-19399" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+<div class="directory-graph directory-secondary-bar">
+<div class="graph-title second_bar_name">&nbsp;</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-19399-2" data-clutch-toggle="graph" data-clutch-graph-nid="19399" data-clutch-graph-type="sec"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-193992" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-193992" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-193992" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-md-2 provider-link-details">
+<ul class="nav nav-pills nav-stacked nav-right-profile">
+<li class="website-link website-link-a">
+<a href="http://www.mobikasa.com" rel="nofollow" target="_blank">
+<i class="icon icon-visit-site"></i><span class="">Visit Website</span>
+ </a>
+</li>
+<li>
+<a href="/profile/mobikasa" target="_blank">
+<span class="hidden-xs">View Profile</span>
+<i class="icon icon-profile"></i>
+</a>
+</li>
+<li>
+<a href="" class="contact">
+<span class="hidden-xs">Contact</span>
+<i class="icon icon-contact"></i>
+</a>
+<div class="contact-dropdown hide">
+<div class="contact-dropdown-header">
+<a href="#!" class="btn-close-contact pull-right"><i class="icon icon-close"></i></a>
+<div class="dropdown-title">CONTACT</div>
+</div>
+<div class="item">
+<i class="icon icon-mail visible-xs-inline"></i><a id='gbKydITuP' rel='nofollow'></a><script>var gbKydITuP = 'a.com#info@m#obikas#';
+var gbKydITuP = gbKydITuP.split('#');
+document.getElementById('gbKydITuP').innerHTML = gbKydITuP[1]+gbKydITuP[2]+gbKydITuP[0]+gbKydITuP[3];
+document.getElementById('gbKydITuP').href = 'mailto:'+gbKydITuP[1]+gbKydITuP[2]+gbKydITuP[0]+gbKydITuP[3];
+</script>
+</div>
+<div class="line"></div>
+<div class="item __color6a">
+<i class="icon icon-phone visible-xs-inline"></i>+1 917.250.0389 </div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="provider-row" property="itemListElement" typeof="ListItem"><div class="row" data-clutch-nid="25243">
+<meta property="position" content="29" />
 <meta property="name" content="Magora" />
 <div class="col-xs-12 col-md-10 bordered-right provider-base-info">
 <div class="row provider-row-header">
@@ -3739,7 +3859,7 @@ document.getElementById('vwmTjRQOo').href = 'mailto:'+vwmTjRQOo[2]+vwmTjRQOo[1]+
 <img property="image" class="img-responsive" data-echo="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/magora_sign_200px-.png?itok=vM7YyoDL" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="65" alt="Magora Logo" /><noscript><img property="image" class="img-responsive" src="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/magora_sign_200px-.png?itok=vM7YyoDL" width="65" height="65" alt="Magora Logo" /></noscript> </a>
 </div>
 <h3 class="company-name">
-<span>28. </span>
+<span>29. </span>
 <a href="/profile/magora" target="_blank">Magora</a> </h3>
 <p class="tagline">We think business, then development</p>
 <div class="rating-reviews"><span class="rating">4.8</span><div class="reviews-totals-stars"><div class="fivestar-static-item"><div class="form-type-item form-item form-group">
@@ -3767,7 +3887,7 @@ document.getElementById('vwmTjRQOo').href = 'mailto:'+vwmTjRQOo[2]+vwmTjRQOo[1]+
 </span></div>
 </div>
 </div>
- <div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
+<div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
 <div class="row">
 <div class="directory-graph directory-main-bar">
 <div class="graph-title">Service focus</div>
@@ -3821,7 +3941,7 @@ document.getElementById('vwmTjRQOo').href = 'mailto:'+vwmTjRQOo[2]+vwmTjRQOo[1]+
 <span class="hidden-xs">View Profile</span>
 <i class="icon icon-profile"></i>
 </a>
- </li>
+</li>
 <li>
 <a href="" class="contact">
 <span class="hidden-xs">Contact</span>
@@ -3833,10 +3953,10 @@ document.getElementById('vwmTjRQOo').href = 'mailto:'+vwmTjRQOo[2]+vwmTjRQOo[1]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='tLBNKeoOj' rel='nofollow'></a><script>var tLBNKeoOj = 'gora.co##info@ma#.uk';
-var tLBNKeoOj = tLBNKeoOj.split('#');
-document.getElementById('tLBNKeoOj').innerHTML = tLBNKeoOj[2]+tLBNKeoOj[0]+tLBNKeoOj[3]+tLBNKeoOj[1];
-document.getElementById('tLBNKeoOj').href = 'mailto:'+tLBNKeoOj[2]+tLBNKeoOj[0]+tLBNKeoOj[3]+tLBNKeoOj[1];
+<i class="icon icon-mail visible-xs-inline"></i><a id='yhxmftjLe' rel='nofollow'></a><script>var yhxmftjLe = 'info@mago#ra.co.uk#';
+var yhxmftjLe = yhxmftjLe.split('#');
+document.getElementById('yhxmftjLe').innerHTML = yhxmftjLe[0]+yhxmftjLe[1]+yhxmftjLe[2];
+document.getElementById('yhxmftjLe').href = 'mailto:'+yhxmftjLe[0]+yhxmftjLe[1]+yhxmftjLe[2];
 </script>
 </div>
 <div class="line"></div>
@@ -3849,7 +3969,7 @@ document.getElementById('tLBNKeoOj').href = 'mailto:'+tLBNKeoOj[2]+tLBNKeoOj[0]+
 </div>
 </li>
 <li class="provider-row" property="itemListElement" typeof="ListItem"><div class="row" data-clutch-nid="26793">
-<meta property="position" content="29" />
+<meta property="position" content="30" />
 <meta property="name" content="ELEKS" />
 <div class="col-xs-12 col-md-10 bordered-right provider-base-info">
 <div class="row provider-row-header">
@@ -3859,7 +3979,7 @@ document.getElementById('tLBNKeoOj').href = 'mailto:'+tLBNKeoOj[2]+tLBNKeoOj[0]+
 <img property="image" class="img-responsive" data-echo="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/logo5.jpg?itok=R7RWGyOG" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="65" alt="ELEKS_logo" /><noscript><img property="image" class="img-responsive" src="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/logo5.jpg?itok=R7RWGyOG" width="65" height="65" alt="ELEKS_logo" /></noscript> </a>
 </div>
 <h3 class="company-name">
-<span>29. </span>
+<span>30. </span>
 <a href="/profile/eleks" target="_blank">ELEKS</a> </h3>
 <p class="tagline">For 25 years bringing your brightest ideas to life</p>
 <div class="rating-reviews"><span class="rating">4.9</span><div class="reviews-totals-stars"><div class="fivestar-static-item"><div class="form-type-item form-item form-group">
@@ -3953,10 +4073,10 @@ document.getElementById('tLBNKeoOj').href = 'mailto:'+tLBNKeoOj[2]+tLBNKeoOj[0]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='scCUBXkHg' rel='nofollow'></a><script>var scCUBXkHg = 'hello@eleks.co##m';
-var scCUBXkHg = scCUBXkHg.split('#');
-document.getElementById('scCUBXkHg').innerHTML = scCUBXkHg[0]+scCUBXkHg[2]+scCUBXkHg[1];
-document.getElementById('scCUBXkHg').href = 'mailto:'+scCUBXkHg[0]+scCUBXkHg[2]+scCUBXkHg[1];
+<i class="icon icon-mail visible-xs-inline"></i><a id='XzALqWEGd' rel='nofollow'></a><script>var XzALqWEGd = 'hello@eleks##.com';
+var XzALqWEGd = XzALqWEGd.split('#');
+document.getElementById('XzALqWEGd').innerHTML = XzALqWEGd[0]+XzALqWEGd[2]+XzALqWEGd[1];
+document.getElementById('XzALqWEGd').href = 'mailto:'+XzALqWEGd[0]+XzALqWEGd[2]+XzALqWEGd[1];
 </script>
 </div>
 <div class="line"></div>
@@ -3969,7 +4089,7 @@ document.getElementById('scCUBXkHg').href = 'mailto:'+scCUBXkHg[0]+scCUBXkHg[2]+
 </div>
 </li>
 <li class="provider-row" property="itemListElement" typeof="ListItem"><div class="row" data-clutch-nid="33111">
-<meta property="position" content="30" />
+<meta property="position" content="31" />
 <meta property="name" content="Five " />
 <div class="col-xs-12 col-md-10 bordered-right provider-base-info">
 <div class="row provider-row-header">
@@ -3979,8 +4099,8 @@ document.getElementById('scCUBXkHg').href = 'mailto:'+scCUBXkHg[0]+scCUBXkHg[2]+
 <img property="image" class="img-responsive" data-echo="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/five_social_f_red_1000px.png?itok=q1StnuFu" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="65" alt="" /><noscript><img property="image" class="img-responsive" src="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/five_social_f_red_1000px.png?itok=q1StnuFu" width="65" height="65" alt="" /></noscript> </a>
 </div>
 <h3 class="company-name">
-<span>30. </span>
- <a href="/profile/five" target="_blank">Five </a> </h3>
+<span>31. </span>
+<a href="/profile/five" target="_blank">Five </a> </h3>
 <p class="tagline">Mobile Products that Deliver Measurable Value</p>
 <div class="rating-reviews"><span class="rating">4.8</span><div class="reviews-totals-stars"><div class="fivestar-static-item"><div class="form-type-item form-item form-group">
 <div class="fivestar-"><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clearfix"><div class="star star-1 star-odd star-first"><span class="on"></span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on"></span></div><div class="star star-5 star-odd star-last"><span class="bg"></span><span class="on" style="width: 80%"></span></div></div></div>
@@ -4073,14 +4193,14 @@ document.getElementById('scCUBXkHg').href = 'mailto:'+scCUBXkHg[0]+scCUBXkHg[2]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='tHorPLeAk' rel='nofollow'></a><script>var tHorPLeAk = 'y#five.#info@##agenc';
-var tHorPLeAk = tHorPLeAk.split('#');
-document.getElementById('tHorPLeAk').innerHTML = tHorPLeAk[2]+tHorPLeAk[1]+tHorPLeAk[4]+tHorPLeAk[0]+tHorPLeAk[3];
-document.getElementById('tHorPLeAk').href = 'mailto:'+tHorPLeAk[2]+tHorPLeAk[1]+tHorPLeAk[4]+tHorPLeAk[0]+tHorPLeAk[3];
+<i class="icon icon-mail visible-xs-inline"></i><a id='DdOHYBQfJ' rel='nofollow'></a><script>var DdOHYBQfJ = '#info@five.agen#cy';
+var DdOHYBQfJ = DdOHYBQfJ.split('#');
+document.getElementById('DdOHYBQfJ').innerHTML = DdOHYBQfJ[1]+DdOHYBQfJ[2]+DdOHYBQfJ[0];
+document.getElementById('DdOHYBQfJ').href = 'mailto:'+DdOHYBQfJ[1]+DdOHYBQfJ[2]+DdOHYBQfJ[0];
 </script>
 </div>
 <div class="line"></div>
- <div class="item __color6a">
+<div class="item __color6a">
 <i class="icon icon-phone visible-xs-inline"></i>203-313-5256 </div>
 </div>
 </li>
@@ -4089,7 +4209,7 @@ document.getElementById('tHorPLeAk').href = 'mailto:'+tHorPLeAk[2]+tHorPLeAk[1]+
 </div>
 </li>
 <li class="provider-row" property="itemListElement" typeof="ListItem"><div class="row" data-clutch-nid="17428">
-<meta property="position" content="31" />
+<meta property="position" content="32" />
 <meta property="name" content="Apadmi" />
 <div class="col-xs-12 col-md-10 bordered-right provider-base-info">
 <div class="row provider-row-header">
@@ -4099,7 +4219,7 @@ document.getElementById('tHorPLeAk').href = 'mailto:'+tHorPLeAk[2]+tHorPLeAk[1]+
 <img property="image" class="img-responsive" data-echo="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/apadmi_logo.png?itok=6iuqMHko" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="64" alt="Apadmi logo" /><noscript><img property="image" class="img-responsive" src="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/apadmi_logo.png?itok=6iuqMHko" width="65" height="64" alt="Apadmi logo" /></noscript> </a>
 </div>
 <h3 class="company-name">
-<span>31. </span>
+<span>32. </span>
 <a href="/profile/apadmi" target="_blank">Apadmi</a> </h3>
 <p class="tagline">We Create Extraordinary Mobile Experiences </p>
 <div class="rating-reviews"><span class="rating">4.8</span><div class="reviews-totals-stars"><div class="fivestar-static-item"><div class="form-type-item form-item form-group">
@@ -4193,10 +4313,10 @@ document.getElementById('tHorPLeAk').href = 'mailto:'+tHorPLeAk[2]+tHorPLeAk[1]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='DTHapnhgx' rel='nofollow'></a><script>var DTHapnhgx = '#info@apadmi.com';
-var DTHapnhgx = DTHapnhgx.split('#');
-document.getElementById('DTHapnhgx').innerHTML = DTHapnhgx[1]+DTHapnhgx[0];
-document.getElementById('DTHapnhgx').href = 'mailto:'+DTHapnhgx[1]+DTHapnhgx[0];
+<i class="icon icon-mail visible-xs-inline"></i><a id='wCzyvpObY' rel='nofollow'></a><script>var wCzyvpObY = '#info@apadmi#.com';
+var wCzyvpObY = wCzyvpObY.split('#');
+document.getElementById('wCzyvpObY').innerHTML = wCzyvpObY[1]+wCzyvpObY[2]+wCzyvpObY[0];
+document.getElementById('wCzyvpObY').href = 'mailto:'+wCzyvpObY[1]+wCzyvpObY[2]+wCzyvpObY[0];
 </script>
 </div>
 <div class="line"></div>
@@ -4209,7 +4329,7 @@ document.getElementById('DTHapnhgx').href = 'mailto:'+DTHapnhgx[1]+DTHapnhgx[0];
 </div>
 </li>
 <li class="provider-row" property="itemListElement" typeof="ListItem"><div class="row" data-clutch-nid="7798">
-<meta property="position" content="32" />
+<meta property="position" content="33" />
 <meta property="name" content="Ramotion" />
 <div class="col-xs-12 col-md-10 bordered-right provider-base-info">
 <div class="row provider-row-header">
@@ -4219,7 +4339,7 @@ document.getElementById('DTHapnhgx').href = 'mailto:'+DTHapnhgx[1]+DTHapnhgx[0];
 <img property="image" class="img-responsive" data-echo="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/12742516_1004369306286762_2820356806534019680_n.png?itok=5eyRQa27" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="65" alt="Design-focused product development agency" /><noscript><img property="image" class="img-responsive" src="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/12742516_1004369306286762_2820356806534019680_n.png?itok=5eyRQa27" width="65" height="65" alt="Design-focused product development agency" /></noscript> </a>
 </div>
 <h3 class="company-name">
-<span>32. </span>
+<span>33. </span>
 <a href="/profile/ramotion" target="_blank">Ramotion</a> </h3>
 <p class="tagline">Design-focused software development agency</p>
 <div class="rating-reviews"><span class="rating">4.9</span><div class="reviews-totals-stars"><div class="fivestar-static-item"><div class="form-type-item form-item form-group">
@@ -4309,14 +4429,14 @@ document.getElementById('DTHapnhgx').href = 'mailto:'+DTHapnhgx[1]+DTHapnhgx[0];
 </a>
 <div class="contact-dropdown hide">
 <div class="contact-dropdown-header">
-<a href="#!" class="btn-close-contact pull-right"><i class="icon icon-close"></i></a>
+ <a href="#!" class="btn-close-contact pull-right"><i class="icon icon-close"></i></a>
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='YVvLXkQNS' rel='nofollow'></a><script>var YVvLXkQNS = 'alex.#a@ram#otion#.com#';
-var YVvLXkQNS = YVvLXkQNS.split('#');
-document.getElementById('YVvLXkQNS').innerHTML = YVvLXkQNS[0]+YVvLXkQNS[1]+YVvLXkQNS[2]+YVvLXkQNS[3]+YVvLXkQNS[4];
-document.getElementById('YVvLXkQNS').href = 'mailto:'+YVvLXkQNS[0]+YVvLXkQNS[1]+YVvLXkQNS[2]+YVvLXkQNS[3]+YVvLXkQNS[4];
+<i class="icon icon-mail visible-xs-inline"></i><a id='rVUPJKQNz' rel='nofollow'></a><script>var rVUPJKQNz = 'ale#x.a#m#@ra##mot#.co#ion';
+var rVUPJKQNz = rVUPJKQNz.split('#');
+document.getElementById('rVUPJKQNz').innerHTML = rVUPJKQNz[0]+rVUPJKQNz[1]+rVUPJKQNz[3]+rVUPJKQNz[5]+rVUPJKQNz[7]+rVUPJKQNz[6]+rVUPJKQNz[2]+rVUPJKQNz[4];
+document.getElementById('rVUPJKQNz').href = 'mailto:'+rVUPJKQNz[0]+rVUPJKQNz[1]+rVUPJKQNz[3]+rVUPJKQNz[5]+rVUPJKQNz[7]+rVUPJKQNz[6]+rVUPJKQNz[2]+rVUPJKQNz[4];
 </script>
 </div>
 <div class="line"></div>
@@ -4329,7 +4449,7 @@ document.getElementById('YVvLXkQNS').href = 'mailto:'+YVvLXkQNS[0]+YVvLXkQNS[1]+
 </div>
 </li>
 <li class="provider-row" property="itemListElement" typeof="ListItem"><div class="row" data-clutch-nid="18773">
-<meta property="position" content="33" />
+<meta property="position" content="34" />
 <meta property="name" content="Konstant Infosolutions " />
 <div class="col-xs-12 col-md-10 bordered-right provider-base-info">
 <div class="row provider-row-header">
@@ -4339,7 +4459,7 @@ document.getElementById('YVvLXkQNS').href = 'mailto:'+YVvLXkQNS[0]+YVvLXkQNS[1]+
 <img property="image" class="img-responsive" data-echo="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/logo_183px.jpg?itok=tpkVqmKq" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="59" alt="Konstant Infosolutions Logo" /><noscript><img property="image" class="img-responsive" src="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/logo_183px.jpg?itok=tpkVqmKq" width="65" height="59" alt="Konstant Infosolutions Logo" /></noscript> </a>
 </div>
 <h3 class="company-name">
-<span>33. </span>
+<span>34. </span>
 <a href="/profile/konstant-infosolutions" target="_blank">Konstant Infosolutions </a> </h3>
 <p class="tagline">App Development Company for Startups & Enterprises</p>
 <div class="rating-reviews"><span class="rating">4.8</span><div class="reviews-totals-stars"><div class="fivestar-static-item"><div class="form-type-item form-item form-group">
@@ -4433,10 +4553,10 @@ document.getElementById('YVvLXkQNS').href = 'mailto:'+YVvLXkQNS[0]+YVvLXkQNS[1]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='qeLjUJgCd' rel='nofollow'></a><script>var qeLjUJgCd = 'sales@konstantinfo.c##om';
-var qeLjUJgCd = qeLjUJgCd.split('#');
-document.getElementById('qeLjUJgCd').innerHTML = qeLjUJgCd[0]+qeLjUJgCd[2]+qeLjUJgCd[1];
-document.getElementById('qeLjUJgCd').href = 'mailto:'+qeLjUJgCd[0]+qeLjUJgCd[2]+qeLjUJgCd[1];
+<i class="icon icon-mail visible-xs-inline"></i><a id='bdetIYosT' rel='nofollow'></a><script>var bdetIYosT = 'sales#om#tanti#nfo.c#@kons#';
+var bdetIYosT = bdetIYosT.split('#');
+document.getElementById('bdetIYosT').innerHTML = bdetIYosT[0]+bdetIYosT[4]+bdetIYosT[2]+bdetIYosT[3]+bdetIYosT[1]+bdetIYosT[5];
+document.getElementById('bdetIYosT').href = 'mailto:'+bdetIYosT[0]+bdetIYosT[4]+bdetIYosT[2]+bdetIYosT[3]+bdetIYosT[1]+bdetIYosT[5];
 </script>
 </div>
 <div class="line"></div>
@@ -4449,7 +4569,7 @@ document.getElementById('qeLjUJgCd').href = 'mailto:'+qeLjUJgCd[0]+qeLjUJgCd[2]+
 </div>
 </li>
 <li class="provider-row" property="itemListElement" typeof="ListItem"><div class="row" data-clutch-nid="18514">
-<meta property="position" content="34" />
+<meta property="position" content="35" />
 <meta property="name" content="Softeq " />
 <div class="col-xs-12 col-md-10 bordered-right provider-base-info">
 <div class="row provider-row-header">
@@ -4459,8 +4579,8 @@ document.getElementById('qeLjUJgCd').href = 'mailto:'+qeLjUJgCd[0]+qeLjUJgCd[2]+
 <img property="image" class="img-responsive" data-echo="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/logofb.jpg?itok=riN1lQLr" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="65" alt="Softeq Development Logotype" /><noscript><img property="image" class="img-responsive" src="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/logofb.jpg?itok=riN1lQLr" width="65" height="65" alt="Softeq Development Logotype" /></noscript> </a>
 </div>
 <h3 class="company-name">
-<span>34. </span>
-<a href="/profile/softeq" target="_blank">Softeq </a> </h3>
+<span>35. </span>
+ <a href="/profile/softeq" target="_blank">Softeq </a> </h3>
 <p class="tagline">Custom apps: Mobile, Web, Wearable, Desktop</p>
 <div class="rating-reviews"><span class="rating">4.9</span><div class="reviews-totals-stars"><div class="fivestar-static-item"><div class="form-type-item form-item form-group">
 <div class="fivestar-"><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clearfix"><div class="star star-1 star-odd star-first"><span class="on"></span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on"></span></div><div class="star star-5 star-odd star-last"><span class="bg"></span><span class="on" style="width: 91.1765%"></span></div></div></div>
@@ -4553,10 +4673,10 @@ document.getElementById('qeLjUJgCd').href = 'mailto:'+qeLjUJgCd[0]+qeLjUJgCd[2]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='wymMEDzIW' rel='nofollow'></a><script>var wymMEDzIW = '#om#info@softeq.c';
-var wymMEDzIW = wymMEDzIW.split('#');
-document.getElementById('wymMEDzIW').innerHTML = wymMEDzIW[2]+wymMEDzIW[1]+wymMEDzIW[0];
-document.getElementById('wymMEDzIW').href = 'mailto:'+wymMEDzIW[2]+wymMEDzIW[1]+wymMEDzIW[0];
+<i class="icon icon-mail visible-xs-inline"></i><a id='nhBjRSrMk' rel='nofollow'></a><script>var nhBjRSrMk = '#info@softeq.#com';
+var nhBjRSrMk = nhBjRSrMk.split('#');
+document.getElementById('nhBjRSrMk').innerHTML = nhBjRSrMk[1]+nhBjRSrMk[2]+nhBjRSrMk[0];
+document.getElementById('nhBjRSrMk').href = 'mailto:'+nhBjRSrMk[1]+nhBjRSrMk[2]+nhBjRSrMk[0];
 </script>
 </div>
 <div class="line"></div>
@@ -4568,131 +4688,10 @@ document.getElementById('wymMEDzIW').href = 'mailto:'+wymMEDzIW[2]+wymMEDzIW[1]+
 </div>
 </div>
 </li>
-<li class="provider-row" property="itemListElement" typeof="ListItem"><div class="row" data-clutch-nid="19970">
-<meta property="position" content="35" />
-<meta property="name" content="Eight Bit Studios" />
-<div class="col-xs-12 col-md-10 bordered-right provider-base-info">
-<div class="row provider-row-header">
-<div class="col-xs-12">
-<div class="company-logo">
-<a href="https://clutch.co/profile/eight-bit-studios" target="_blank">
-<img property="image" class="img-responsive" data-echo="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/eightbit-icon-400_1.png?itok=UVY8nao8" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="65" alt="Eight Bit Studios Logo" /><noscript><img property="image" class="img-responsive" src="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/eightbit-icon-400_1.png?itok=UVY8nao8" width="65" height="65" alt="Eight Bit Studios Logo" /></noscript> </a>
-</div>
-<h3 class="company-name">
-<span>35. </span>
-<a href="/profile/eight-bit-studios" target="_blank">Eight Bit Studios</a> </h3>
-<p class="tagline">Let’s create the world’s best mobile apps</p>
-<div class="rating-reviews"><span class="rating">4.9</span><div class="reviews-totals-stars"><div class="fivestar-static-item"><div class="form-type-item form-item form-group">
-<div class="fivestar-"><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clearfix"><div class="star star-1 star-odd star-first"><span class="on"></span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on"></span></div><div class="star star-5 star-odd star-last"><span class="bg"></span><span class="on" style="width: 88.2355%"></span></div></div></div>
-</div>
-</div></div><span class="reviews-count"><a href="https://clutch.co/profile/eight-bit-studios#reviews" target="_blank">17 reviews <span class="icon-angle-right"></span></a></span></div>
-</div>
-</div>
-<div class="row provider-info no-margin">
-<div class="col-xs-12 col-sm-6 col-md-3 provider-info__description">
-<blockquote class="blockquote-in-module"><p>"These guys blended in right away. ....."</p>
-</blockquote>
-<ul class="module-list small-list"><li>Vice President of Product Strategy and Innovation, Echo Global Logistics <i class="icon-founder"></i></li>
-</ul> </div>
-<div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
-<div class="module-list">
-<div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $25,000+ </div>
-<div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$150 - $199</span> / hr
-</div>
-<div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">10 - 49</span></div>
-<div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
-<span class="locality">Chicago,</span>
-<span class="region">IL</span>
-</span><span class="location-country">
-</span></div>
-</div>
-</div>
-<div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
-<div class="row">
-<div class="directory-graph directory-main-bar">
-<div class="graph-title">Service focus</div>
-<div class="chartAreaWrapper service-focus-graph" id="service-focus-19970" data-clutch-toggle="graph" data-clutch-graph-nid="19970"></div>
-<div class="chart-label hidden-xs"></div>
-<div class="chart-label-carousel visible-xs">
-<div id="chart-label-carousel-19970" class="carousel slide" data-ride="carousel">
-<div class="carousel-inner"></div>
-<a class="left carousel-control" href="#chart-label-carousel-19970" role="button" data-slide="prev" data-toggle="sliderprev">
-<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-<span class="sr-only">Previous</span>
-</a>
-<a class="right carousel-control" href="#chart-label-carousel-19970" role="button" data-slide="next" data-toggle="slidernext">
-<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-<span class="sr-only">Next</span>
-</a>
-</div>
-</div>
-</div>
-<div class="directory-graph directory-secondary-bar">
-<div class="graph-title second_bar_name">&nbsp;</div>
-<div class="chartAreaWrapper service-focus-graph" id="service-focus-19970-2" data-clutch-toggle="graph" data-clutch-graph-nid="19970" data-clutch-graph-type="sec"></div>
-<div class="chart-label hidden-xs"></div>
-<div class="chart-label-carousel visible-xs">
-<div id="chart-label-carousel-199702" class="carousel slide" data-ride="carousel">
-<div class="carousel-inner"></div>
-<a class="left carousel-control" href="#chart-label-carousel-199702" role="button" data-slide="prev" data-toggle="sliderprev">
-<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-<span class="sr-only">Previous</span>
-</a>
-<a class="right carousel-control" href="#chart-label-carousel-199702" role="button" data-slide="next" data-toggle="slidernext">
-<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-<span class="sr-only">Next</span>
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-xs-12 col-md-2 provider-link-details">
-<ul class="nav nav-pills nav-stacked nav-right-profile">
-<li class="website-link website-link-a">
-<a href="http://eightbitstudios.com" rel="nofollow" target="_blank">
-<i class="icon icon-visit-site"></i><span class="">Visit Website</span>
-</a>
-</li>
-<li>
-<a href="/profile/eight-bit-studios" target="_blank">
-<span class="hidden-xs">View Profile</span>
-<i class="icon icon-profile"></i>
-</a>
-</li>
-<li>
-<a href="" class="contact">
-<span class="hidden-xs">Contact</span>
-<i class="icon icon-contact"></i>
-</a>
-<div class="contact-dropdown hide">
-<div class="contact-dropdown-header">
-<a href="#!" class="btn-close-contact pull-right"><i class="icon icon-close"></i></a>
-<div class="dropdown-title">CONTACT</div>
-</div>
-<div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='dqvFyzKGQ' rel='nofollow'></a><script>var dqvFyzKGQ = 'info@eightb##itstudios.c#om';
-var dqvFyzKGQ = dqvFyzKGQ.split('#');
-document.getElementById('dqvFyzKGQ').innerHTML = dqvFyzKGQ[0]+dqvFyzKGQ[2]+dqvFyzKGQ[3]+dqvFyzKGQ[1];
-document.getElementById('dqvFyzKGQ').href = 'mailto:'+dqvFyzKGQ[0]+dqvFyzKGQ[2]+dqvFyzKGQ[3]+dqvFyzKGQ[1];
-</script>
-</div>
-<div class="line"></div>
-<div class="item __color6a">
-<i class="icon icon-phone visible-xs-inline"></i>312.281.8823 </div>
-</div>
-</li>
-</ul>
-</div>
-</div>
-</li>
 </ul>
 </div> </div>
-
 <ul class="pager"><li class="pager-previous">&nbsp;</li>
-<li class="pager-current">1 of 65</li>
+<li class="pager-current">1 of 66</li>
 <li class="pager-next"><a href="/directory/iphone-application-developers?page=1">››</a></li>
 </ul>
 </div>
@@ -4786,6 +4785,7 @@ Suite 400<br>
 Washington, DC 20036</p>
 <p><a href="/contact">Contact Us</a></p>
 </div>
+
 <div class="brand-bg"><a class="linkedin sl-ext" href="https://www.linkedin.com/company/clutch-co"><i class="fa fa-linkedin circle-3"></i></a>&nbsp; <a class="facebook sl-ext" href="https://www.facebook.com/clutch.co"><i class="fa fa-facebook circle-3"></i></a>&nbsp; <a class="twitter sl-ext" href="https://twitter.com/clutch_co"><i class="fa fa-twitter circle-3"></i></a></div>
 </section> 
 </div>
@@ -4853,6 +4853,6 @@ Washington, DC 20036</p>
 <script src="//static2.clutch.co/sites/default/files/js/js_Wz8fbhmNr50zpeh6wIxn7dZ7xbzLRAWUv0YTreS9lss.js"></script>
 <script src="//static2.clutch.co/sites/default/files/js/js_RfrKaXT2lqSHmOsoTqt4baHadkKI6ZQUuj_dafpEEpU.js"></script>
 <script src="//static1.clutch.co/sites/default/files/js/js_1X9jbnqD3Z81Rq203pbo16KH3yu2htAt2r5Fg1Qr75I.js"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"clutch2","theme_token":"JVMuFZ7XjFlnvDnfWI-7xKWPTPBQPEAkDUzYEMt7PQM","jquery_version":"1.10","js":{"public:\/\/google_tag\/google_tag.script.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/custom\/clutch_graph\/js\/clutch_graph.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.7\/js\/bootstrap.min.js":1,"sites\/all\/modules\/custom\/sl_extlink\/sl_extlink.js":1,"0":1,"https:\/\/www.google.com\/jsapi":1,"sites\/all\/modules\/location\/location_autocomplete.js":1,"sites\/all\/modules\/better_exposed_filters\/better_exposed_filters.js":1,"misc\/autocomplete.js":1,"sites\/all\/modules\/ctools\/js\/dependent.js":1,"sites\/all\/modules\/fivestar\/js\/fivestar.js":1,"sites\/all\/modules\/contrib\/lazyloader\/lazyloader.js":1,"sites\/all\/libraries\/echo\/dist\/echo.min.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/_progress.js":1,"sites\/all\/themes\/clutch2\/js\/jquery.scrollTo.min.js":1,"sites\/all\/themes\/clutch2\/js\/sticky.js":1,"sites\/all\/themes\/clutch2\/js\/chosen\/chosen.jquery.js":1,"sites\/all\/themes\/clutch2\/js\/jquery.matchHeight-min.js":1,"sites\/all\/themes\/clutch2\/js\/jquery.mCustomScrollbar.min.js":1,"sites\/all\/themes\/clutch2\/js\/script.js":1,"sites\/all\/themes\/clutch2\/js\/ui.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/autocomplete.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/ajax.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/lazyloader\/lazyloader.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/fivestar\/css\/fivestar.css":1,"sites\/all\/themes\/clutch2\/css\/view-directory.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.7\/css\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.7\/overrides.min.css":1,"sites\/all\/themes\/clutch2\/css\/main.css":1,"sites\/all\/themes\/clutch2\/css\/print.css":1,"https:\/\/fonts.googleapis.com\/css?family=Lato:700,700italic,italic,regular|Roboto:regular\u0026subset=latin":1}},"better_exposed_filters":{"datepicker":false,"slider":false,"settings":[],"autosubmit":false,"views":{"lm_mobile_app_iphone_2":{"displays":{"directory":{"filters":{"field_pp_size_people_value":{"required":false},"country":{"required":false},"state":{"required":false},"distance":{"required":false},"field_pp_hrly_rate_range_value":{"required":false},"field_pp_cs_small_biz_value":{"required":false},"field_pp_cs_midmarket_value":{"required":false},"field_pp_cs_enterprise_value":{"required":false},"field_pp_if_advertising_value":{"required":false},"field_pp_if_automotive_value":{"required":false},"field_pp_if_arts_value":{"required":false},"field_pp_if_bizservices_value":{"required":false},"field_pp_if_conproducts_value":{"required":false},"field_pp_if_education_value":{"required":false},"field_pp_if_natural_resources_value":{"required":false},"field_pp_if_finservices_value":{"required":false},"field_pp_if_gambling_value":{"required":false},"field_pp_if_gaming_value":{"required":false},"field_pp_if_government_value":{"required":false},"field_pp_if_healthcare_value":{"required":false},"field_pp_if_hospitality_value":{"required":false},"field_pp_if_it_value":{"required":false},"field_pp_if_legal_value":{"required":false},"field_pp_if_manufacturing_value":{"required":false},"field_pp_if_media_value":{"required":false},"field_pp_if_nonprofit_value":{"required":false},"field_pp_if_realestate_value":{"required":false},"field_pp_if_retail_value":{"required":false},"field_pp_if_telecom_value":{"required":false},"field_pp_if_transportation_value":{"required":false},"field_pp_if_utilities_value":{"required":false},"field_pp_if_other_value":{"required":false},"field_pp_min_project_size_value":{"required":false}}}}},"leaders_matrix_analyst":{"displays":{"block":{"filters":[]}}}}},"CTools":{"dependent":{"edit-distance-postal-code":{"values":[],"num":1,"type":"hide"},"edit-distance-country":{"values":[],"num":1,"type":"hide"}}},"clutchExposedGroup":{"views-exposed-form-lm-mobile-app-iphone-2-directory":{"client_focus":{"label":"Client focus","class":"exposed-group-client-focus","field_value":30,"fields":["filter-field_pp_cs_small_biz_value","filter-field_pp_cs_midmarket_value","filter-field_pp_cs_enterprise_value"],"open":false},"industry_focus":{"label":"Industry focus","class":"exposed-group-industry-focus","field_value":10,"fields":["filter-field_pp_if_advertising_value","filter-field_pp_if_automotive_value","filter-field_pp_if_arts_value","filter-field_pp_if_bizservices_value","filter-field_pp_if_conproducts_value","filter-field_pp_if_education_value","filter-field_pp_if_natural_resources_value","filter-field_pp_if_finservices_value","filter-field_pp_if_gambling_value","filter-field_pp_if_gaming_value","filter-field_pp_if_government_value","filter-field_pp_if_healthcare_value","filter-field_pp_if_hospitality_value","filter-field_pp_if_it_value","filter-field_pp_if_legal_value","filter-field_pp_if_manufacturing_value","filter-field_pp_if_media_value","filter-field_pp_if_nonprofit_value","filter-field_pp_if_realestate_value","filter-field_pp_if_retail_value","filter-field_pp_if_telecom_value","filter-field_pp_if_transportation_value","filter-field_pp_if_utilities_value","filter-field_pp_if_other_value"],"open":false}}},"urlIsAjaxTrusted":{"\/directory\/iphone-application-developers":true},"lazyloader":{"throttle":50,"offset":250,"debounce":true,"unload":false,"icon":"\/sites\/all\/modules\/contrib\/lazyloader\/loader\/loader-7.gif","offsetX":12,"offsetY":12},"sl_extlink":{"extTarget":0,"extClass":"sl-ext","extLabel":"(link is external)","extImgClass":true,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)","extRedirect":true,"extRedirectBase":"http:\/\/clutch.co\/hlr\/l.php"},"bootstrap":{"anchorsFix":0,"anchorsSmoothScrolling":0,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"clutch2","theme_token":"ZLfqb4kJAO-zr36afJgcXG1uujq2_s-Pgf6_cuT2jBc","jquery_version":"1.10","js":{"public:\/\/google_tag\/google_tag.script.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/custom\/clutch_graph\/js\/clutch_graph.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.7\/js\/bootstrap.min.js":1,"sites\/all\/modules\/custom\/sl_extlink\/sl_extlink.js":1,"0":1,"https:\/\/www.google.com\/jsapi":1,"sites\/all\/modules\/location\/location_autocomplete.js":1,"sites\/all\/modules\/better_exposed_filters\/better_exposed_filters.js":1,"misc\/autocomplete.js":1,"sites\/all\/modules\/ctools\/js\/dependent.js":1,"sites\/all\/modules\/fivestar\/js\/fivestar.js":1,"sites\/all\/modules\/contrib\/lazyloader\/lazyloader.js":1,"sites\/all\/libraries\/echo\/dist\/echo.min.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/_progress.js":1,"sites\/all\/themes\/clutch2\/js\/jquery.scrollTo.min.js":1,"sites\/all\/themes\/clutch2\/js\/sticky.js":1,"sites\/all\/themes\/clutch2\/js\/chosen\/chosen.jquery.js":1,"sites\/all\/themes\/clutch2\/js\/jquery.matchHeight-min.js":1,"sites\/all\/themes\/clutch2\/js\/jquery.mCustomScrollbar.min.js":1,"sites\/all\/themes\/clutch2\/js\/script.js":1,"sites\/all\/themes\/clutch2\/js\/ui.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/autocomplete.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/ajax.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/lazyloader\/lazyloader.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/fivestar\/css\/fivestar.css":1,"sites\/all\/themes\/clutch2\/css\/view-directory.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.7\/css\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.7\/overrides.min.css":1,"sites\/all\/themes\/clutch2\/css\/main.css":1,"sites\/all\/themes\/clutch2\/css\/print.css":1,"https:\/\/fonts.googleapis.com\/css?family=Lato:700,700italic,italic,regular|Roboto:regular\u0026subset=latin":1}},"better_exposed_filters":{"datepicker":false,"slider":false,"settings":[],"autosubmit":false,"views":{"lm_mobile_app_iphone_2":{"displays":{"directory":{"filters":{"field_pp_size_people_value":{"required":false},"country":{"required":false},"state":{"required":false},"distance":{"required":false},"field_pp_hrly_rate_range_value":{"required":false},"field_pp_cs_small_biz_value":{"required":false},"field_pp_cs_midmarket_value":{"required":false},"field_pp_cs_enterprise_value":{"required":false},"field_pp_if_advertising_value":{"required":false},"field_pp_if_automotive_value":{"required":false},"field_pp_if_arts_value":{"required":false},"field_pp_if_bizservices_value":{"required":false},"field_pp_if_conproducts_value":{"required":false},"field_pp_if_education_value":{"required":false},"field_pp_if_natural_resources_value":{"required":false},"field_pp_if_finservices_value":{"required":false},"field_pp_if_gambling_value":{"required":false},"field_pp_if_gaming_value":{"required":false},"field_pp_if_government_value":{"required":false},"field_pp_if_healthcare_value":{"required":false},"field_pp_if_hospitality_value":{"required":false},"field_pp_if_it_value":{"required":false},"field_pp_if_legal_value":{"required":false},"field_pp_if_manufacturing_value":{"required":false},"field_pp_if_media_value":{"required":false},"field_pp_if_nonprofit_value":{"required":false},"field_pp_if_realestate_value":{"required":false},"field_pp_if_retail_value":{"required":false},"field_pp_if_telecom_value":{"required":false},"field_pp_if_transportation_value":{"required":false},"field_pp_if_utilities_value":{"required":false},"field_pp_if_other_value":{"required":false},"field_pp_min_project_size_value":{"required":false}}}}},"leaders_matrix_analyst":{"displays":{"block":{"filters":[]}}}}},"CTools":{"dependent":{"edit-distance-postal-code":{"values":[],"num":1,"type":"hide"},"edit-distance-country":{"values":[],"num":1,"type":"hide"}}},"clutchExposedGroup":{"views-exposed-form-lm-mobile-app-iphone-2-directory":{"client_focus":{"label":"Client focus","class":"exposed-group-client-focus","field_value":30,"fields":["filter-field_pp_cs_small_biz_value","filter-field_pp_cs_midmarket_value","filter-field_pp_cs_enterprise_value"],"open":false},"industry_focus":{"label":"Industry focus","class":"exposed-group-industry-focus","field_value":10,"fields":["filter-field_pp_if_advertising_value","filter-field_pp_if_automotive_value","filter-field_pp_if_arts_value","filter-field_pp_if_bizservices_value","filter-field_pp_if_conproducts_value","filter-field_pp_if_education_value","filter-field_pp_if_natural_resources_value","filter-field_pp_if_finservices_value","filter-field_pp_if_gambling_value","filter-field_pp_if_gaming_value","filter-field_pp_if_government_value","filter-field_pp_if_healthcare_value","filter-field_pp_if_hospitality_value","filter-field_pp_if_it_value","filter-field_pp_if_legal_value","filter-field_pp_if_manufacturing_value","filter-field_pp_if_media_value","filter-field_pp_if_nonprofit_value","filter-field_pp_if_realestate_value","filter-field_pp_if_retail_value","filter-field_pp_if_telecom_value","filter-field_pp_if_transportation_value","filter-field_pp_if_utilities_value","filter-field_pp_if_other_value"],"open":false}}},"urlIsAjaxTrusted":{"\/directory\/iphone-application-developers":true},"lazyloader":{"throttle":50,"offset":250,"debounce":true,"unload":false,"icon":"\/sites\/all\/modules\/contrib\/lazyloader\/loader\/loader-7.gif","offsetX":12,"offsetY":12},"sl_extlink":{"extTarget":0,"extClass":"sl-ext","extLabel":"(link is external)","extImgClass":true,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)","extRedirect":true,"extRedirectBase":"http:\/\/clutch.co\/hlr\/l.php"},"bootstrap":{"anchorsFix":0,"anchorsSmoothScrolling":0,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </body>
 </html>

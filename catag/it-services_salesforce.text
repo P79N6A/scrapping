@@ -191,7 +191,7 @@
 <div class="view-content-bordered">
 <div class="row module-filtre__content">
 <div class="col-xs-12 col-md-6 main-tabs-wrapper bordered-right">
-<div class="tabs-info"><span class="count-service-reviews">107 Firms</span></div>
+<div class="tabs-info"><span class="count-service-reviews">108 Firms</span></div>
 <ul class="main-tabs nav nav-tabs tabs nav-justified" role="tablist"><li class="active"><a href="/it-services/salesforce" class="default active"><span class="icon-check-c"></span><span class="text">Reviews</span></a></li><li class=""><a href="/it-services/salesforce/leaders-matrix"><span class="icon-leaders-matrix"></span><span class="text">Leaders Matrix</a></li></ul> </div>
 <div class="exposed-filters">
 <form action="/it-services/salesforce" method="get" id="views-exposed-form-lm-crm-salesforce2-directory" accept-charset="UTF-8"><div><div class="col-xs-7 col-md-4 col-lg-3 sortby">
@@ -456,7 +456,7 @@ Locations
 <div class="main-tab-content tab-content">
 <div class="tab-pane active" id="">
 <a id="main-content"></a>
-<div class="view view-lm-crm-salesforce2 view-id-lm_crm_salesforce2 view-display-id-directory top-companies directory view-dom-id-385c2a8d5b51a94d8675f72afb25c5a7">
+<div class="view view-lm-crm-salesforce2 view-id-lm_crm_salesforce2 view-display-id-directory top-companies directory view-dom-id-3071120fd5ba5a46c720291a4ebffb51">
 <div class="list-header">
 <div class="row">
 <div class="col-xs-12">
@@ -571,10 +571,10 @@ Locations
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='TnAHvuKUD' rel='nofollow'></a><script>var TnAHvuKUD = 'com##sales@algoworks.';
-var TnAHvuKUD = TnAHvuKUD.split('#');
-document.getElementById('TnAHvuKUD').innerHTML = TnAHvuKUD[2]+TnAHvuKUD[0]+TnAHvuKUD[1];
-document.getElementById('TnAHvuKUD').href = 'mailto:'+TnAHvuKUD[2]+TnAHvuKUD[0]+TnAHvuKUD[1];
+<i class="icon icon-mail visible-xs-inline"></i><a id='vZQSjtKXN' rel='nofollow'></a><script>var vZQSjtKXN = 'sales@algoworks.c#om#';
+var vZQSjtKXN = vZQSjtKXN.split('#');
+document.getElementById('vZQSjtKXN').innerHTML = vZQSjtKXN[0]+vZQSjtKXN[1]+vZQSjtKXN[2];
+document.getElementById('vZQSjtKXN').href = 'mailto:'+vZQSjtKXN[0]+vZQSjtKXN[1]+vZQSjtKXN[2];
 </script>
 </div>
 <div class="line"></div>
@@ -688,10 +688,10 @@ document.getElementById('TnAHvuKUD').href = 'mailto:'+TnAHvuKUD[2]+TnAHvuKUD[0]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='kyoDMHpRF' rel='nofollow'></a><script>var kyoDMHpRF = 'BD@ravei##om#nfosys.c';
-var kyoDMHpRF = kyoDMHpRF.split('#');
-document.getElementById('kyoDMHpRF').innerHTML = kyoDMHpRF[0]+kyoDMHpRF[3]+kyoDMHpRF[2]+kyoDMHpRF[1];
-document.getElementById('kyoDMHpRF').href = 'mailto:'+kyoDMHpRF[0]+kyoDMHpRF[3]+kyoDMHpRF[2]+kyoDMHpRF[1];
+<i class="icon icon-mail visible-xs-inline"></i><a id='StQUOXCrw' rel='nofollow'></a><script>var StQUOXCrw = '#om#nfosys.c#BD@ravei';
+var StQUOXCrw = StQUOXCrw.split('#');
+document.getElementById('StQUOXCrw').innerHTML = StQUOXCrw[3]+StQUOXCrw[2]+StQUOXCrw[1]+StQUOXCrw[0];
+document.getElementById('StQUOXCrw').href = 'mailto:'+StQUOXCrw[3]+StQUOXCrw[2]+StQUOXCrw[1]+StQUOXCrw[0];
 </script>
 </div>
 <div class="line"></div>
@@ -805,10 +805,10 @@ document.getElementById('kyoDMHpRF').href = 'mailto:'+kyoDMHpRF[0]+kyoDMHpRF[3]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='uKGtoeRbr' rel='nofollow'></a><script>var uKGtoeRbr = 'iba#m#.co#ert#inf##o@v';
-var uKGtoeRbr = uKGtoeRbr.split('#');
-document.getElementById('uKGtoeRbr').innerHTML = uKGtoeRbr[4]+uKGtoeRbr[6]+uKGtoeRbr[3]+uKGtoeRbr[0]+uKGtoeRbr[2]+uKGtoeRbr[1]+uKGtoeRbr[5];
-document.getElementById('uKGtoeRbr').href = 'mailto:'+uKGtoeRbr[4]+uKGtoeRbr[6]+uKGtoeRbr[3]+uKGtoeRbr[0]+uKGtoeRbr[2]+uKGtoeRbr[1]+uKGtoeRbr[5];
+<i class="icon icon-mail visible-xs-inline"></i><a id='TxqRCsgwQ' rel='nofollow'></a><script>var TxqRCsgwQ = 'ba.co#m#verti##info@';
+var TxqRCsgwQ = TxqRCsgwQ.split('#');
+document.getElementById('TxqRCsgwQ').innerHTML = TxqRCsgwQ[4]+TxqRCsgwQ[2]+TxqRCsgwQ[0]+TxqRCsgwQ[1]+TxqRCsgwQ[3];
+document.getElementById('TxqRCsgwQ').href = 'mailto:'+TxqRCsgwQ[4]+TxqRCsgwQ[2]+TxqRCsgwQ[0]+TxqRCsgwQ[1]+TxqRCsgwQ[3];
 </script>
 </div>
 <div class="line"></div>
@@ -845,7 +845,7 @@ document.getElementById('uKGtoeRbr').href = 'mailto:'+uKGtoeRbr[4]+uKGtoeRbr[6]+
 </ul> </div>
 <div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
 <div class="module-list">
-<div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $50,000+ </div>
+ <div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $50,000+ </div>
 <div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$150 - $199</span> / hr
 </div>
 <div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">1,000 - 9,999</span></div>
@@ -885,7 +885,7 @@ document.getElementById('uKGtoeRbr').href = 'mailto:'+uKGtoeRbr[4]+uKGtoeRbr[6]+
 <div class="carousel-inner"></div>
 <a class="left carousel-control" href="#chart-label-carousel-178172" role="button" data-slide="prev" data-toggle="sliderprev">
 <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-<span class="sr-only">Previous</span>
+ <span class="sr-only">Previous</span>
 </a>
 <a class="right carousel-control" href="#chart-label-carousel-178172" role="button" data-slide="next" data-toggle="slidernext">
 <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
@@ -922,10 +922,10 @@ document.getElementById('uKGtoeRbr').href = 'mailto:'+uKGtoeRbr[4]+uKGtoeRbr[6]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='jBJAvZpLN' rel='nofollow'></a><script>var jBJAvZpLN = 'marketing@bluew#olf.com#';
-var jBJAvZpLN = jBJAvZpLN.split('#');
-document.getElementById('jBJAvZpLN').innerHTML = jBJAvZpLN[0]+jBJAvZpLN[1]+jBJAvZpLN[2];
-document.getElementById('jBJAvZpLN').href = 'mailto:'+jBJAvZpLN[0]+jBJAvZpLN[1]+jBJAvZpLN[2];
+<i class="icon icon-mail visible-xs-inline"></i><a id='MSrUDfbFz' rel='nofollow'></a><script>var MSrUDfbFz = '.com#uewolf#ing@bl#market#';
+var MSrUDfbFz = MSrUDfbFz.split('#');
+document.getElementById('MSrUDfbFz').innerHTML = MSrUDfbFz[3]+MSrUDfbFz[2]+MSrUDfbFz[1]+MSrUDfbFz[0]+MSrUDfbFz[4];
+document.getElementById('MSrUDfbFz').href = 'mailto:'+MSrUDfbFz[3]+MSrUDfbFz[2]+MSrUDfbFz[1]+MSrUDfbFz[0]+MSrUDfbFz[4];
 </script>
 </div>
 <div class="line"></div>
@@ -1039,10 +1039,10 @@ document.getElementById('jBJAvZpLN').href = 'mailto:'+jBJAvZpLN[0]+jBJAvZpLN[1]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='TgMnRGPvS' rel='nofollow'></a><script>var TgMnRGPvS = '#techinfo@#eidebaill#y.com';
-var TgMnRGPvS = TgMnRGPvS.split('#');
-document.getElementById('TgMnRGPvS').innerHTML = TgMnRGPvS[1]+TgMnRGPvS[2]+TgMnRGPvS[3]+TgMnRGPvS[0];
-document.getElementById('TgMnRGPvS').href = 'mailto:'+TgMnRGPvS[1]+TgMnRGPvS[2]+TgMnRGPvS[3]+TgMnRGPvS[0];
+<i class="icon icon-mail visible-xs-inline"></i><a id='OgzUFQMKE' rel='nofollow'></a><script>var OgzUFQMKE = '#techinfo@eidebailly.c#om';
+var OgzUFQMKE = OgzUFQMKE.split('#');
+document.getElementById('OgzUFQMKE').innerHTML = OgzUFQMKE[1]+OgzUFQMKE[2]+OgzUFQMKE[0];
+document.getElementById('OgzUFQMKE').href = 'mailto:'+OgzUFQMKE[1]+OgzUFQMKE[2]+OgzUFQMKE[0];
 </script>
 </div>
 <div class="line"></div>
@@ -1147,7 +1147,7 @@ document.getElementById('TgMnRGPvS').href = 'mailto:'+TgMnRGPvS[1]+TgMnRGPvS[2]+
 </li>
 <li>
 <a href="" class="contact">
-<span class="hidden-xs">Contact</span>
+ <span class="hidden-xs">Contact</span>
 <i class="icon icon-contact"></i>
 </a>
 <div class="contact-dropdown hide">
@@ -1156,10 +1156,10 @@ document.getElementById('TgMnRGPvS').href = 'mailto:'+TgMnRGPvS[1]+TgMnRGPvS[2]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='mFZYWHpxK' rel='nofollow'></a><script>var mFZYWHpxK = 'oft.#cont##act@#scns#com';
-var mFZYWHpxK = mFZYWHpxK.split('#');
-document.getElementById('mFZYWHpxK').innerHTML = mFZYWHpxK[1]+mFZYWHpxK[3]+mFZYWHpxK[4]+mFZYWHpxK[0]+mFZYWHpxK[5]+mFZYWHpxK[2];
-document.getElementById('mFZYWHpxK').href = 'mailto:'+mFZYWHpxK[1]+mFZYWHpxK[3]+mFZYWHpxK[4]+mFZYWHpxK[0]+mFZYWHpxK[5]+mFZYWHpxK[2];
+<i class="icon icon-mail visible-xs-inline"></i><a id='mJcopldkZ' rel='nofollow'></a><script>var mJcopldkZ = 'soft.com#contact@scn#';
+var mJcopldkZ = mJcopldkZ.split('#');
+document.getElementById('mJcopldkZ').innerHTML = mJcopldkZ[1]+mJcopldkZ[0]+mJcopldkZ[2];
+document.getElementById('mJcopldkZ').href = 'mailto:'+mJcopldkZ[1]+mJcopldkZ[0]+mJcopldkZ[2];
 </script>
 </div>
 <div class="line"></div>
@@ -1197,7 +1197,7 @@ document.getElementById('mFZYWHpxK').href = 'mailto:'+mFZYWHpxK[1]+mFZYWHpxK[3]+
 <div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
 <div class="module-list">
 <div class="list-item undisclosed"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> Undisclosed</div>
-<div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$150 - $199</span> / hr
+ <div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$150 - $199</span> / hr
 </div>
 <div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">10 - 49</span></div>
 <div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
@@ -1273,10 +1273,10 @@ document.getElementById('mFZYWHpxK').href = 'mailto:'+mFZYWHpxK[1]+mFZYWHpxK[3]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='MWRBfOZKa' rel='nofollow'></a><script>var MWRBfOZKa = 'n.com#experts@forcebydesig#';
-var MWRBfOZKa = MWRBfOZKa.split('#');
-document.getElementById('MWRBfOZKa').innerHTML = MWRBfOZKa[1]+MWRBfOZKa[0]+MWRBfOZKa[2];
-document.getElementById('MWRBfOZKa').href = 'mailto:'+MWRBfOZKa[1]+MWRBfOZKa[0]+MWRBfOZKa[2];
+<i class="icon icon-mail visible-xs-inline"></i><a id='fUvqIRoHd' rel='nofollow'></a><script>var fUvqIRoHd = '#m#experts@forcebydesign.co';
+var fUvqIRoHd = fUvqIRoHd.split('#');
+document.getElementById('fUvqIRoHd').innerHTML = fUvqIRoHd[2]+fUvqIRoHd[1]+fUvqIRoHd[0];
+document.getElementById('fUvqIRoHd').href = 'mailto:'+fUvqIRoHd[2]+fUvqIRoHd[1]+fUvqIRoHd[0];
 </script>
 </div>
 <div class="line"></div>
@@ -1390,10 +1390,10 @@ document.getElementById('MWRBfOZKa').href = 'mailto:'+MWRBfOZKa[1]+MWRBfOZKa[0]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='HMmaVwTUz' rel='nofollow'></a><script>var HMmaVwTUz = 'erhouses#tudio.co#info@tow#m#';
-var HMmaVwTUz = HMmaVwTUz.split('#');
-document.getElementById('HMmaVwTUz').innerHTML = HMmaVwTUz[2]+HMmaVwTUz[0]+HMmaVwTUz[1]+HMmaVwTUz[3]+HMmaVwTUz[4];
-document.getElementById('HMmaVwTUz').href = 'mailto:'+HMmaVwTUz[2]+HMmaVwTUz[0]+HMmaVwTUz[1]+HMmaVwTUz[3]+HMmaVwTUz[4];
+<i class="icon icon-mail visible-xs-inline"></i><a id='AKTjrFLJh' rel='nofollow'></a><script>var AKTjrFLJh = 'info@towerhousestudi#o.com#';
+var AKTjrFLJh = AKTjrFLJh.split('#');
+document.getElementById('AKTjrFLJh').innerHTML = AKTjrFLJh[0]+AKTjrFLJh[1]+AKTjrFLJh[2];
+document.getElementById('AKTjrFLJh').href = 'mailto:'+AKTjrFLJh[0]+AKTjrFLJh[1]+AKTjrFLJh[2];
 </script>
 </div>
 <div class="line"></div>
@@ -1453,7 +1453,7 @@ document.getElementById('HMmaVwTUz').href = 'mailto:'+HMmaVwTUz[2]+HMmaVwTUz[0]+
 <a class="left carousel-control" href="#chart-label-carousel-16310" role="button" data-slide="prev" data-toggle="sliderprev">
 <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
 <span class="sr-only">Previous</span>
- </a>
+</a>
 <a class="right carousel-control" href="#chart-label-carousel-16310" role="button" data-slide="next" data-toggle="slidernext">
 <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
 <span class="sr-only">Next</span>
@@ -1507,10 +1507,10 @@ document.getElementById('HMmaVwTUz').href = 'mailto:'+HMmaVwTUz[2]+HMmaVwTUz[0]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='vMFTmdNEn' rel='nofollow'></a><script>var vMFTmdNEn = 'info#@con#om##fige#ro.c';
-var vMFTmdNEn = vMFTmdNEn.split('#');
-document.getElementById('vMFTmdNEn').innerHTML = vMFTmdNEn[0]+vMFTmdNEn[1]+vMFTmdNEn[4]+vMFTmdNEn[5]+vMFTmdNEn[2]+vMFTmdNEn[3];
-document.getElementById('vMFTmdNEn').href = 'mailto:'+vMFTmdNEn[0]+vMFTmdNEn[1]+vMFTmdNEn[4]+vMFTmdNEn[5]+vMFTmdNEn[2]+vMFTmdNEn[3];
+<i class="icon icon-mail visible-xs-inline"></i><a id='fGzVkrQwF' rel='nofollow'></a><script>var fGzVkrQwF = 'gero.com#info@confi#';
+var fGzVkrQwF = fGzVkrQwF.split('#');
+document.getElementById('fGzVkrQwF').innerHTML = fGzVkrQwF[1]+fGzVkrQwF[0]+fGzVkrQwF[2];
+document.getElementById('fGzVkrQwF').href = 'mailto:'+fGzVkrQwF[1]+fGzVkrQwF[0]+fGzVkrQwF[2];
 </script>
 </div>
 <div class="line"></div>
@@ -1568,7 +1568,7 @@ document.getElementById('vMFTmdNEn').href = 'mailto:'+vMFTmdNEn[0]+vMFTmdNEn[1]+
 <div id="chart-label-carousel-5317" class="carousel slide" data-ride="carousel">
 <div class="carousel-inner"></div>
 <a class="left carousel-control" href="#chart-label-carousel-5317" role="button" data-slide="prev" data-toggle="sliderprev">
-<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+ <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
 <span class="sr-only">Previous</span>
 </a>
 <a class="right carousel-control" href="#chart-label-carousel-5317" role="button" data-slide="next" data-toggle="slidernext">
@@ -1624,14 +1624,14 @@ document.getElementById('vMFTmdNEn').href = 'mailto:'+vMFTmdNEn[0]+vMFTmdNEn[1]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='tMQqCymnB' rel='nofollow'></a><script>var tMQqCymnB = 'com#info@q#burst.#';
-var tMQqCymnB = tMQqCymnB.split('#');
-document.getElementById('tMQqCymnB').innerHTML = tMQqCymnB[1]+tMQqCymnB[2]+tMQqCymnB[0]+tMQqCymnB[3];
-document.getElementById('tMQqCymnB').href = 'mailto:'+tMQqCymnB[1]+tMQqCymnB[2]+tMQqCymnB[0]+tMQqCymnB[3];
+<i class="icon icon-mail visible-xs-inline"></i><a id='vfDqZWUnb' rel='nofollow'></a><script>var vfDqZWUnb = 'info@qbur##st.com';
+var vfDqZWUnb = vfDqZWUnb.split('#');
+document.getElementById('vfDqZWUnb').innerHTML = vfDqZWUnb[0]+vfDqZWUnb[2]+vfDqZWUnb[1];
+document.getElementById('vfDqZWUnb').href = 'mailto:'+vfDqZWUnb[0]+vfDqZWUnb[2]+vfDqZWUnb[1];
 </script>
 </div>
 <div class="line"></div>
-<div class="item __color6a">
+ <div class="item __color6a">
 <i class="icon icon-phone visible-xs-inline"></i>91.47.1653.7510 </div>
 </div>
 </li>
@@ -1702,7 +1702,7 @@ document.getElementById('tMQqCymnB').href = 'mailto:'+tMQqCymnB[1]+tMQqCymnB[2]+
 <div id="chart-label-carousel-1662732" class="carousel slide" data-ride="carousel">
 <div class="carousel-inner"></div>
 <a class="left carousel-control" href="#chart-label-carousel-1662732" role="button" data-slide="prev" data-toggle="sliderprev">
- <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
 <span class="sr-only">Previous</span>
 </a>
 <a class="right carousel-control" href="#chart-label-carousel-1662732" role="button" data-slide="next" data-toggle="slidernext">
@@ -1722,7 +1722,7 @@ document.getElementById('tMQqCymnB').href = 'mailto:'+tMQqCymnB[1]+tMQqCymnB[2]+
 <a href="http://www.corevalue.net" rel="nofollow" target="_blank">
 <i class="icon icon-visit-site"></i><span class="">Visit Website</span>
 </a>
-</li>
+ </li>
 <li>
 <a href="/profile/corevalue-services" target="_blank">
 <span class="hidden-xs">View Profile</span>
@@ -1740,10 +1740,10 @@ document.getElementById('tMQqCymnB').href = 'mailto:'+tMQqCymnB[1]+tMQqCymnB[2]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='pavBlEbPk' rel='nofollow'></a><script>var pavBlEbPk = 'info@corevalue.net#';
-var pavBlEbPk = pavBlEbPk.split('#');
-document.getElementById('pavBlEbPk').innerHTML = pavBlEbPk[0]+pavBlEbPk[1];
-document.getElementById('pavBlEbPk').href = 'mailto:'+pavBlEbPk[0]+pavBlEbPk[1];
+<i class="icon icon-mail visible-xs-inline"></i><a id='esOJcCUqH' rel='nofollow'></a><script>var esOJcCUqH = 'info@corevalue.#net#';
+var esOJcCUqH = esOJcCUqH.split('#');
+document.getElementById('esOJcCUqH').innerHTML = esOJcCUqH[0]+esOJcCUqH[1]+esOJcCUqH[2];
+document.getElementById('esOJcCUqH').href = 'mailto:'+esOJcCUqH[0]+esOJcCUqH[1]+esOJcCUqH[2];
 </script>
 </div>
 <div class="line"></div>
@@ -1818,7 +1818,7 @@ document.getElementById('pavBlEbPk').href = 'mailto:'+pavBlEbPk[0]+pavBlEbPk[1];
 <div class="chart-label-carousel visible-xs">
 <div id="chart-label-carousel-701022" class="carousel slide" data-ride="carousel">
 <div class="carousel-inner"></div>
-<a class="left carousel-control" href="#chart-label-carousel-701022" role="button" data-slide="prev" data-toggle="sliderprev">
+ <a class="left carousel-control" href="#chart-label-carousel-701022" role="button" data-slide="prev" data-toggle="sliderprev">
 <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
 <span class="sr-only">Previous</span>
 </a>
@@ -1857,10 +1857,10 @@ document.getElementById('pavBlEbPk').href = 'mailto:'+pavBlEbPk[0]+pavBlEbPk[1];
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='tIDKMeWuv' rel='nofollow'></a><script>var tIDKMeWuv = 'm##tions.co#riussolu#info@cir';
-var tIDKMeWuv = tIDKMeWuv.split('#');
-document.getElementById('tIDKMeWuv').innerHTML = tIDKMeWuv[4]+tIDKMeWuv[3]+tIDKMeWuv[2]+tIDKMeWuv[0]+tIDKMeWuv[1];
-document.getElementById('tIDKMeWuv').href = 'mailto:'+tIDKMeWuv[4]+tIDKMeWuv[3]+tIDKMeWuv[2]+tIDKMeWuv[0]+tIDKMeWuv[1];
+<i class="icon icon-mail visible-xs-inline"></i><a id='YZfwvklWK' rel='nofollow'></a><script>var YZfwvklWK = '#ons.com#info@cirriussoluti';
+var YZfwvklWK = YZfwvklWK.split('#');
+document.getElementById('YZfwvklWK').innerHTML = YZfwvklWK[2]+YZfwvklWK[1]+YZfwvklWK[0];
+document.getElementById('YZfwvklWK').href = 'mailto:'+YZfwvklWK[2]+YZfwvklWK[1]+YZfwvklWK[0];
 </script>
 </div>
 <div class="line"></div>
@@ -1907,7 +1907,7 @@ document.getElementById('tIDKMeWuv').href = 'mailto:'+tIDKMeWuv[4]+tIDKMeWuv[3]+
 <span class="country-name">India</span>
 </span></div>
 </div>
- </div>
+</div>
 <div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
 <div class="row">
 <div class="directory-graph directory-main-bar">
@@ -1961,7 +1961,7 @@ document.getElementById('tIDKMeWuv').href = 'mailto:'+tIDKMeWuv[4]+tIDKMeWuv[3]+
 <a href="/profile/absyz" target="_blank">
 <span class="hidden-xs">View Profile</span>
 <i class="icon icon-profile"></i>
- </a>
+</a>
 </li>
 <li>
 <a href="" class="contact">
@@ -1974,10 +1974,10 @@ document.getElementById('tIDKMeWuv').href = 'mailto:'+tIDKMeWuv[4]+tIDKMeWuv[3]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='BolzEWujU' rel='nofollow'></a><script>var BolzEWujU = 'bsyz.com#teamabsyz@a#';
-var BolzEWujU = BolzEWujU.split('#');
-document.getElementById('BolzEWujU').innerHTML = BolzEWujU[1]+BolzEWujU[0]+BolzEWujU[2];
-document.getElementById('BolzEWujU').href = 'mailto:'+BolzEWujU[1]+BolzEWujU[0]+BolzEWujU[2];
+<i class="icon icon-mail visible-xs-inline"></i><a id='ryDAZFajp' rel='nofollow'></a><script>var ryDAZFajp = 'z.com#teamabsyz@absy#';
+var ryDAZFajp = ryDAZFajp.split('#');
+document.getElementById('ryDAZFajp').innerHTML = ryDAZFajp[1]+ryDAZFajp[0]+ryDAZFajp[2];
+document.getElementById('ryDAZFajp').href = 'mailto:'+ryDAZFajp[1]+ryDAZFajp[0]+ryDAZFajp[2];
 </script>
 </div>
 <div class="line"></div>
@@ -2021,7 +2021,7 @@ document.getElementById('BolzEWujU').href = 'mailto:'+BolzEWujU[1]+BolzEWujU[0]+
 <div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
 <span class="locality">Bellevue,</span>
 <span class="region">WA</span>
-</span><span class="location-country">
+ </span><span class="location-country">
 </span></div>
 </div>
 </div>
@@ -2075,7 +2075,7 @@ document.getElementById('BolzEWujU').href = 'mailto:'+BolzEWujU[1]+BolzEWujU[0]+
 </a>
 </li>
 <li>
-<a href="/profile/affirma-consulting" target="_blank">
+ <a href="/profile/affirma-consulting" target="_blank">
 <span class="hidden-xs">View Profile</span>
 <i class="icon icon-profile"></i>
 </a>
@@ -2091,10 +2091,10 @@ document.getElementById('BolzEWujU').href = 'mailto:'+BolzEWujU[1]+BolzEWujU[0]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='LNCozSbOu' rel='nofollow'></a><script>var LNCozSbOu = 'ng.com#bizdev@affi#rmaconsulti#';
-var LNCozSbOu = LNCozSbOu.split('#');
-document.getElementById('LNCozSbOu').innerHTML = LNCozSbOu[1]+LNCozSbOu[2]+LNCozSbOu[0]+LNCozSbOu[3];
-document.getElementById('LNCozSbOu').href = 'mailto:'+LNCozSbOu[1]+LNCozSbOu[2]+LNCozSbOu[0]+LNCozSbOu[3];
+<i class="icon icon-mail visible-xs-inline"></i><a id='ZNUbQneXh' rel='nofollow'></a><script>var ZNUbQneXh = '#bizdev@affirmaconsul#ting.com';
+var ZNUbQneXh = ZNUbQneXh.split('#');
+document.getElementById('ZNUbQneXh').innerHTML = ZNUbQneXh[1]+ZNUbQneXh[2]+ZNUbQneXh[0];
+document.getElementById('ZNUbQneXh').href = 'mailto:'+ZNUbQneXh[1]+ZNUbQneXh[2]+ZNUbQneXh[0];
 </script>
 </div>
 <div class="line"></div>
@@ -2129,7 +2129,7 @@ document.getElementById('LNCozSbOu').href = 'mailto:'+LNCozSbOu[1]+LNCozSbOu[2]+
 </blockquote>
 <ul class="module-list small-list"><li>Senior Vice President of Technology, Consulting Firm <i class="icon-founder"></i></li>
 </ul> </div>
-<div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
+ <div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
 <div class="module-list">
 <div class="list-item undisclosed"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> Undisclosed</div>
 <div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$150 - $199</span> / hr
@@ -2170,7 +2170,7 @@ document.getElementById('LNCozSbOu').href = 'mailto:'+LNCozSbOu[1]+LNCozSbOu[2]+
 <div id="chart-label-carousel-78212" class="carousel slide" data-ride="carousel">
 <div class="carousel-inner"></div>
 <a class="left carousel-control" href="#chart-label-carousel-78212" role="button" data-slide="prev" data-toggle="sliderprev">
-<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+ <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
 <span class="sr-only">Previous</span>
 </a>
 <a class="right carousel-control" href="#chart-label-carousel-78212" role="button" data-slide="next" data-toggle="slidernext">
@@ -2208,10 +2208,10 @@ document.getElementById('LNCozSbOu').href = 'mailto:'+LNCozSbOu[1]+LNCozSbOu[2]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='jgktFwxpy' rel='nofollow'></a><script>var jgktFwxpy = 'sight.com#support@c5in#';
-var jgktFwxpy = jgktFwxpy.split('#');
-document.getElementById('jgktFwxpy').innerHTML = jgktFwxpy[1]+jgktFwxpy[0]+jgktFwxpy[2];
-document.getElementById('jgktFwxpy').href = 'mailto:'+jgktFwxpy[1]+jgktFwxpy[0]+jgktFwxpy[2];
+<i class="icon icon-mail visible-xs-inline"></i><a id='FiGyBjWTl' rel='nofollow'></a><script>var FiGyBjWTl = 't.com##support@c5insigh';
+var FiGyBjWTl = FiGyBjWTl.split('#');
+document.getElementById('FiGyBjWTl').innerHTML = FiGyBjWTl[2]+FiGyBjWTl[0]+FiGyBjWTl[1];
+document.getElementById('FiGyBjWTl').href = 'mailto:'+FiGyBjWTl[2]+FiGyBjWTl[0]+FiGyBjWTl[1];
 </script>
 </div>
 <div class="line"></div>
@@ -2316,7 +2316,7 @@ document.getElementById('jgktFwxpy').href = 'mailto:'+jgktFwxpy[1]+jgktFwxpy[0]+
 </li>
 <li>
 <a href="" class="contact">
- <span class="hidden-xs">Contact</span>
+<span class="hidden-xs">Contact</span>
 <i class="icon icon-contact"></i>
 </a>
 <div class="contact-dropdown hide">
@@ -2325,10 +2325,10 @@ document.getElementById('jgktFwxpy').href = 'mailto:'+jgktFwxpy[1]+jgktFwxpy[0]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='kidepoTuF' rel='nofollow'></a><script>var kidepoTuF = 'tbi#@je#ket#m#.co#mar##ing';
-var kidepoTuF = kidepoTuF.split('#');
-document.getElementById('kidepoTuF').innerHTML = kidepoTuF[5]+kidepoTuF[2]+kidepoTuF[7]+kidepoTuF[1]+kidepoTuF[0]+kidepoTuF[4]+kidepoTuF[3]+kidepoTuF[6];
-document.getElementById('kidepoTuF').href = 'mailto:'+kidepoTuF[5]+kidepoTuF[2]+kidepoTuF[7]+kidepoTuF[1]+kidepoTuF[0]+kidepoTuF[4]+kidepoTuF[3]+kidepoTuF[6];
+<i class="icon icon-mail visible-xs-inline"></i><a id='uYQwPaNMT' rel='nofollow'></a><script>var uYQwPaNMT = 'marketing#m#@jetbi.co#';
+var uYQwPaNMT = uYQwPaNMT.split('#');
+document.getElementById('uYQwPaNMT').innerHTML = uYQwPaNMT[0]+uYQwPaNMT[2]+uYQwPaNMT[1]+uYQwPaNMT[3];
+document.getElementById('uYQwPaNMT').href = 'mailto:'+uYQwPaNMT[0]+uYQwPaNMT[2]+uYQwPaNMT[1]+uYQwPaNMT[3];
 </script>
 </div>
 <div class="line"></div>
@@ -2405,7 +2405,7 @@ document.getElementById('kidepoTuF').href = 'mailto:'+kidepoTuF[5]+kidepoTuF[2]+
 <div class="carousel-inner"></div>
 <a class="left carousel-control" href="#chart-label-carousel-1659432" role="button" data-slide="prev" data-toggle="sliderprev">
 <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
- <span class="sr-only">Previous</span>
+<span class="sr-only">Previous</span>
 </a>
 <a class="right carousel-control" href="#chart-label-carousel-1659432" role="button" data-slide="next" data-toggle="slidernext">
 <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
@@ -2442,10 +2442,10 @@ document.getElementById('kidepoTuF').href = 'mailto:'+kidepoTuF[5]+kidepoTuF[2]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='fgwLDmYuB' rel='nofollow'></a><script>var fgwLDmYuB = 'sales@##.com#waveoc';
-var fgwLDmYuB = fgwLDmYuB.split('#');
-document.getElementById('fgwLDmYuB').innerHTML = fgwLDmYuB[0]+fgwLDmYuB[3]+fgwLDmYuB[2]+fgwLDmYuB[1];
-document.getElementById('fgwLDmYuB').href = 'mailto:'+fgwLDmYuB[0]+fgwLDmYuB[3]+fgwLDmYuB[2]+fgwLDmYuB[1];
+<i class="icon icon-mail visible-xs-inline"></i><a id='GnjgrxwbT' rel='nofollow'></a><script>var GnjgrxwbT = 'waveoc#sales@#.com#';
+var GnjgrxwbT = GnjgrxwbT.split('#');
+document.getElementById('GnjgrxwbT').innerHTML = GnjgrxwbT[1]+GnjgrxwbT[0]+GnjgrxwbT[2]+GnjgrxwbT[3];
+document.getElementById('GnjgrxwbT').href = 'mailto:'+GnjgrxwbT[1]+GnjgrxwbT[0]+GnjgrxwbT[2]+GnjgrxwbT[3];
 </script>
 </div>
 <div class="line"></div>
@@ -2521,7 +2521,7 @@ document.getElementById('fgwLDmYuB').href = 'mailto:'+fgwLDmYuB[0]+fgwLDmYuB[3]+
 <div class="carousel-inner"></div>
 <a class="left carousel-control" href="#chart-label-carousel-376052" role="button" data-slide="prev" data-toggle="sliderprev">
 <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-<span class="sr-only">Previous</span>
+ <span class="sr-only">Previous</span>
 </a>
 <a class="right carousel-control" href="#chart-label-carousel-376052" role="button" data-slide="next" data-toggle="slidernext">
 <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
@@ -2558,10 +2558,10 @@ document.getElementById('fgwLDmYuB').href = 'mailto:'+fgwLDmYuB[0]+fgwLDmYuB[3]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='vpUhOnCut' rel='nofollow'></a><script>var vpUhOnCut = 'c.com#ting@#vrpin#marke#';
-var vpUhOnCut = vpUhOnCut.split('#');
-document.getElementById('vpUhOnCut').innerHTML = vpUhOnCut[3]+vpUhOnCut[1]+vpUhOnCut[2]+vpUhOnCut[0]+vpUhOnCut[4];
-document.getElementById('vpUhOnCut').href = 'mailto:'+vpUhOnCut[3]+vpUhOnCut[1]+vpUhOnCut[2]+vpUhOnCut[0]+vpUhOnCut[4];
+<i class="icon icon-mail visible-xs-inline"></i><a id='oLsclEbXA' rel='nofollow'></a><script>var oLsclEbXA = '#nc.com#marketing@vrpi';
+var oLsclEbXA = oLsclEbXA.split('#');
+document.getElementById('oLsclEbXA').innerHTML = oLsclEbXA[2]+oLsclEbXA[1]+oLsclEbXA[0];
+document.getElementById('oLsclEbXA').href = 'mailto:'+oLsclEbXA[2]+oLsclEbXA[1]+oLsclEbXA[0];
 </script>
 </div>
 <div class="line"></div>
@@ -2674,10 +2674,10 @@ document.getElementById('vpUhOnCut').href = 'mailto:'+vpUhOnCut[3]+vpUhOnCut[1]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='sqzvbAuxj' rel='nofollow'></a><script>var sqzvbAuxj = 'info@mansasys.c#om#';
-var sqzvbAuxj = sqzvbAuxj.split('#');
-document.getElementById('sqzvbAuxj').innerHTML = sqzvbAuxj[0]+sqzvbAuxj[1]+sqzvbAuxj[2];
-document.getElementById('sqzvbAuxj').href = 'mailto:'+sqzvbAuxj[0]+sqzvbAuxj[1]+sqzvbAuxj[2];
+<i class="icon icon-mail visible-xs-inline"></i><a id='EdtKFoNLW' rel='nofollow'></a><script>var EdtKFoNLW = '.com#info@mansasys#';
+var EdtKFoNLW = EdtKFoNLW.split('#');
+document.getElementById('EdtKFoNLW').innerHTML = EdtKFoNLW[1]+EdtKFoNLW[0]+EdtKFoNLW[2];
+document.getElementById('EdtKFoNLW').href = 'mailto:'+EdtKFoNLW[1]+EdtKFoNLW[0]+EdtKFoNLW[2];
 </script>
 </div>
 <div class="line"></div>
@@ -2714,7 +2714,7 @@ document.getElementById('sqzvbAuxj').href = 'mailto:'+sqzvbAuxj[0]+sqzvbAuxj[1]+
 </ul> </div>
 <div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
 <div class="module-list">
- <div class="list-item undisclosed"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> Undisclosed</div>
+<div class="list-item undisclosed"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> Undisclosed</div>
 <div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$150 - $199</span> / hr
 </div>
 <div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">10 - 49</span></div>
@@ -2754,7 +2754,7 @@ document.getElementById('sqzvbAuxj').href = 'mailto:'+sqzvbAuxj[0]+sqzvbAuxj[1]+
 <div class="carousel-inner"></div>
 <a class="left carousel-control" href="#chart-label-carousel-165492" role="button" data-slide="prev" data-toggle="sliderprev">
 <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
- <span class="sr-only">Previous</span>
+<span class="sr-only">Previous</span>
 </a>
 <a class="right carousel-control" href="#chart-label-carousel-165492" role="button" data-slide="next" data-toggle="slidernext">
 <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
@@ -2781,7 +2781,7 @@ document.getElementById('sqzvbAuxj').href = 'mailto:'+sqzvbAuxj[0]+sqzvbAuxj[1]+
 </a>
 </li>
 <li>
-<a href="" class="contact">
+ <a href="" class="contact">
 <span class="hidden-xs">Contact</span>
 <i class="icon icon-contact"></i>
 </a>
@@ -2791,10 +2791,10 @@ document.getElementById('sqzvbAuxj').href = 'mailto:'+sqzvbAuxj[0]+sqzvbAuxj[1]+
 <div class="dropdown-title">CONTACT</div>
 </div>
 <div class="item">
-<i class="icon icon-mail visible-xs-inline"></i><a id='XrxnsMhZP' rel='nofollow'></a><script>var XrxnsMhZP = 'info@interlinxassociates.c#om#';
-var XrxnsMhZP = XrxnsMhZP.split('#');
-document.getElementById('XrxnsMhZP').innerHTML = XrxnsMhZP[0]+XrxnsMhZP[1]+XrxnsMhZP[2];
-document.getElementById('XrxnsMhZP').href = 'mailto:'+XrxnsMhZP[0]+XrxnsMhZP[1]+XrxnsMhZP[2];
+<i class="icon icon-mail visible-xs-inline"></i><a id='biugWExGA' rel='nofollow'></a><script>var biugWExGA = 'rlinxasso#m##ciates.co#info@inte';
+var biugWExGA = biugWExGA.split('#');
+document.getElementById('biugWExGA').innerHTML = biugWExGA[4]+biugWExGA[0]+biugWExGA[3]+biugWExGA[1]+biugWExGA[2];
+document.getElementById('biugWExGA').href = 'mailto:'+biugWExGA[4]+biugWExGA[0]+biugWExGA[3]+biugWExGA[1]+biugWExGA[2];
 </script>
 </div>
 <div class="line"></div>
@@ -2915,6 +2915,6 @@ Washington, DC 20036</p>
 <script src="//static2.clutch.co/sites/default/files/js/js_Wz8fbhmNr50zpeh6wIxn7dZ7xbzLRAWUv0YTreS9lss.js"></script>
 <script src="//static2.clutch.co/sites/default/files/js/js_RfrKaXT2lqSHmOsoTqt4baHadkKI6ZQUuj_dafpEEpU.js"></script>
 <script src="//static1.clutch.co/sites/default/files/js/js_1X9jbnqD3Z81Rq203pbo16KH3yu2htAt2r5Fg1Qr75I.js"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"clutch2","theme_token":"DoB9x79_L01VRe1eGuqJC8dx1e_uuAwg5ecewUG57xU","jquery_version":"1.10","js":{"public:\/\/google_tag\/google_tag.script.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/custom\/clutch_graph\/js\/clutch_graph.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.7\/js\/bootstrap.min.js":1,"sites\/all\/modules\/custom\/sl_extlink\/sl_extlink.js":1,"0":1,"https:\/\/www.google.com\/jsapi":1,"sites\/all\/modules\/location\/location_autocomplete.js":1,"sites\/all\/modules\/better_exposed_filters\/better_exposed_filters.js":1,"misc\/autocomplete.js":1,"sites\/all\/modules\/ctools\/js\/dependent.js":1,"sites\/all\/modules\/fivestar\/js\/fivestar.js":1,"sites\/all\/modules\/contrib\/lazyloader\/lazyloader.js":1,"sites\/all\/libraries\/echo\/dist\/echo.min.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/_progress.js":1,"sites\/all\/themes\/clutch2\/js\/jquery.scrollTo.min.js":1,"sites\/all\/themes\/clutch2\/js\/sticky.js":1,"sites\/all\/themes\/clutch2\/js\/chosen\/chosen.jquery.js":1,"sites\/all\/themes\/clutch2\/js\/jquery.matchHeight-min.js":1,"sites\/all\/themes\/clutch2\/js\/jquery.mCustomScrollbar.min.js":1,"sites\/all\/themes\/clutch2\/js\/script.js":1,"sites\/all\/themes\/clutch2\/js\/ui.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/autocomplete.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/ajax.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/lazyloader\/lazyloader.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/fivestar\/css\/fivestar.css":1,"sites\/all\/themes\/clutch2\/css\/view-directory.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.7\/css\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.7\/overrides.min.css":1,"sites\/all\/themes\/clutch2\/css\/main.css":1,"sites\/all\/themes\/clutch2\/css\/print.css":1,"https:\/\/fonts.googleapis.com\/css?family=Lato:700,700italic,italic,regular|Roboto:regular\u0026subset=latin":1}},"better_exposed_filters":{"datepicker":false,"slider":false,"settings":[],"autosubmit":false,"views":{"lm_crm_salesforce2":{"displays":{"directory":{"filters":{"field_pp_size_people_value":{"required":false},"country":{"required":false},"state":{"required":false},"distance":{"required":false},"field_pp_hrly_rate_range_value":{"required":false},"field_pp_cs_small_biz_value":{"required":false},"field_pp_cs_midmarket_value":{"required":false},"field_pp_cs_enterprise_value":{"required":false},"field_pp_if_advertising_value":{"required":false},"field_pp_if_automotive_value":{"required":false},"field_pp_if_arts_value":{"required":false},"field_pp_if_bizservices_value":{"required":false},"field_pp_if_conproducts_value":{"required":false},"field_pp_if_education_value":{"required":false},"field_pp_if_natural_resources_value":{"required":false},"field_pp_if_finservices_value":{"required":false},"field_pp_if_gambling_value":{"required":false},"field_pp_if_gaming_value":{"required":false},"field_pp_if_government_value":{"required":false},"field_pp_if_healthcare_value":{"required":false},"field_pp_if_hospitality_value":{"required":false},"field_pp_if_it_value":{"required":false},"field_pp_if_legal_value":{"required":false},"field_pp_if_manufacturing_value":{"required":false},"field_pp_if_media_value":{"required":false},"field_pp_if_nonprofit_value":{"required":false},"field_pp_if_realestate_value":{"required":false},"field_pp_if_retail_value":{"required":false},"field_pp_if_telecom_value":{"required":false},"field_pp_if_transportation_value":{"required":false},"field_pp_if_utilities_value":{"required":false},"field_pp_if_other_value":{"required":false},"field_pp_min_project_size_value":{"required":false}}}}},"leaders_matrix_analyst":{"displays":{"block":{"filters":[]}}}}},"CTools":{"dependent":{"edit-distance-postal-code":{"values":[],"num":1,"type":"hide"},"edit-distance-country":{"values":[],"num":1,"type":"hide"}}},"clutchExposedGroup":{"views-exposed-form-lm-crm-salesforce2-directory":{"client_focus":{"label":"Client focus","class":"exposed-group-client-focus","field_value":30,"fields":["filter-field_pp_cs_small_biz_value","filter-field_pp_cs_midmarket_value","filter-field_pp_cs_enterprise_value"],"open":false},"industry_focus":{"label":"Industry focus","class":"exposed-group-industry-focus","field_value":10,"fields":["filter-field_pp_if_advertising_value","filter-field_pp_if_automotive_value","filter-field_pp_if_arts_value","filter-field_pp_if_bizservices_value","filter-field_pp_if_conproducts_value","filter-field_pp_if_education_value","filter-field_pp_if_natural_resources_value","filter-field_pp_if_finservices_value","filter-field_pp_if_gambling_value","filter-field_pp_if_gaming_value","filter-field_pp_if_government_value","filter-field_pp_if_healthcare_value","filter-field_pp_if_hospitality_value","filter-field_pp_if_it_value","filter-field_pp_if_legal_value","filter-field_pp_if_manufacturing_value","filter-field_pp_if_media_value","filter-field_pp_if_nonprofit_value","filter-field_pp_if_realestate_value","filter-field_pp_if_retail_value","filter-field_pp_if_telecom_value","filter-field_pp_if_transportation_value","filter-field_pp_if_utilities_value","filter-field_pp_if_other_value"],"open":false}}},"urlIsAjaxTrusted":{"\/it-services\/salesforce":true},"lazyloader":{"throttle":50,"offset":250,"debounce":true,"unload":false,"icon":"\/sites\/all\/modules\/contrib\/lazyloader\/loader\/loader-7.gif","offsetX":12,"offsetY":12},"sl_extlink":{"extTarget":0,"extClass":"sl-ext","extLabel":"(link is external)","extImgClass":true,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)","extRedirect":true,"extRedirectBase":"http:\/\/clutch.co\/hlr\/l.php"},"bootstrap":{"anchorsFix":0,"anchorsSmoothScrolling":0,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"clutch2","theme_token":"44WBTABjqNENX5RRhN9GXo6MWFCGVm-5OK97I32PU40","jquery_version":"1.10","js":{"public:\/\/google_tag\/google_tag.script.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/custom\/clutch_graph\/js\/clutch_graph.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.7\/js\/bootstrap.min.js":1,"sites\/all\/modules\/custom\/sl_extlink\/sl_extlink.js":1,"0":1,"https:\/\/www.google.com\/jsapi":1,"sites\/all\/modules\/location\/location_autocomplete.js":1,"sites\/all\/modules\/better_exposed_filters\/better_exposed_filters.js":1,"misc\/autocomplete.js":1,"sites\/all\/modules\/ctools\/js\/dependent.js":1,"sites\/all\/modules\/fivestar\/js\/fivestar.js":1,"sites\/all\/modules\/contrib\/lazyloader\/lazyloader.js":1,"sites\/all\/libraries\/echo\/dist\/echo.min.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/_progress.js":1,"sites\/all\/themes\/clutch2\/js\/jquery.scrollTo.min.js":1,"sites\/all\/themes\/clutch2\/js\/sticky.js":1,"sites\/all\/themes\/clutch2\/js\/chosen\/chosen.jquery.js":1,"sites\/all\/themes\/clutch2\/js\/jquery.matchHeight-min.js":1,"sites\/all\/themes\/clutch2\/js\/jquery.mCustomScrollbar.min.js":1,"sites\/all\/themes\/clutch2\/js\/script.js":1,"sites\/all\/themes\/clutch2\/js\/ui.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/autocomplete.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/ajax.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/lazyloader\/lazyloader.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/fivestar\/css\/fivestar.css":1,"sites\/all\/themes\/clutch2\/css\/view-directory.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.7\/css\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.7\/overrides.min.css":1,"sites\/all\/themes\/clutch2\/css\/main.css":1,"sites\/all\/themes\/clutch2\/css\/print.css":1,"https:\/\/fonts.googleapis.com\/css?family=Lato:700,700italic,italic,regular|Roboto:regular\u0026subset=latin":1}},"better_exposed_filters":{"datepicker":false,"slider":false,"settings":[],"autosubmit":false,"views":{"lm_crm_salesforce2":{"displays":{"directory":{"filters":{"field_pp_size_people_value":{"required":false},"country":{"required":false},"state":{"required":false},"distance":{"required":false},"field_pp_hrly_rate_range_value":{"required":false},"field_pp_cs_small_biz_value":{"required":false},"field_pp_cs_midmarket_value":{"required":false},"field_pp_cs_enterprise_value":{"required":false},"field_pp_if_advertising_value":{"required":false},"field_pp_if_automotive_value":{"required":false},"field_pp_if_arts_value":{"required":false},"field_pp_if_bizservices_value":{"required":false},"field_pp_if_conproducts_value":{"required":false},"field_pp_if_education_value":{"required":false},"field_pp_if_natural_resources_value":{"required":false},"field_pp_if_finservices_value":{"required":false},"field_pp_if_gambling_value":{"required":false},"field_pp_if_gaming_value":{"required":false},"field_pp_if_government_value":{"required":false},"field_pp_if_healthcare_value":{"required":false},"field_pp_if_hospitality_value":{"required":false},"field_pp_if_it_value":{"required":false},"field_pp_if_legal_value":{"required":false},"field_pp_if_manufacturing_value":{"required":false},"field_pp_if_media_value":{"required":false},"field_pp_if_nonprofit_value":{"required":false},"field_pp_if_realestate_value":{"required":false},"field_pp_if_retail_value":{"required":false},"field_pp_if_telecom_value":{"required":false},"field_pp_if_transportation_value":{"required":false},"field_pp_if_utilities_value":{"required":false},"field_pp_if_other_value":{"required":false},"field_pp_min_project_size_value":{"required":false}}}}},"leaders_matrix_analyst":{"displays":{"block":{"filters":[]}}}}},"CTools":{"dependent":{"edit-distance-postal-code":{"values":[],"num":1,"type":"hide"},"edit-distance-country":{"values":[],"num":1,"type":"hide"}}},"clutchExposedGroup":{"views-exposed-form-lm-crm-salesforce2-directory":{"client_focus":{"label":"Client focus","class":"exposed-group-client-focus","field_value":30,"fields":["filter-field_pp_cs_small_biz_value","filter-field_pp_cs_midmarket_value","filter-field_pp_cs_enterprise_value"],"open":false},"industry_focus":{"label":"Industry focus","class":"exposed-group-industry-focus","field_value":10,"fields":["filter-field_pp_if_advertising_value","filter-field_pp_if_automotive_value","filter-field_pp_if_arts_value","filter-field_pp_if_bizservices_value","filter-field_pp_if_conproducts_value","filter-field_pp_if_education_value","filter-field_pp_if_natural_resources_value","filter-field_pp_if_finservices_value","filter-field_pp_if_gambling_value","filter-field_pp_if_gaming_value","filter-field_pp_if_government_value","filter-field_pp_if_healthcare_value","filter-field_pp_if_hospitality_value","filter-field_pp_if_it_value","filter-field_pp_if_legal_value","filter-field_pp_if_manufacturing_value","filter-field_pp_if_media_value","filter-field_pp_if_nonprofit_value","filter-field_pp_if_realestate_value","filter-field_pp_if_retail_value","filter-field_pp_if_telecom_value","filter-field_pp_if_transportation_value","filter-field_pp_if_utilities_value","filter-field_pp_if_other_value"],"open":false}}},"urlIsAjaxTrusted":{"\/it-services\/salesforce":true},"lazyloader":{"throttle":50,"offset":250,"debounce":true,"unload":false,"icon":"\/sites\/all\/modules\/contrib\/lazyloader\/loader\/loader-7.gif","offsetX":12,"offsetY":12},"sl_extlink":{"extTarget":0,"extClass":"sl-ext","extLabel":"(link is external)","extImgClass":true,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)","extRedirect":true,"extRedirectBase":"http:\/\/clutch.co\/hlr\/l.php"},"bootstrap":{"anchorsFix":0,"anchorsSmoothScrolling":0,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </body>
 </html>

@@ -1,0 +1,2840 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="x-dns-prefetch-control" content="on" />
+<link rel="dns-prefetch" href="//static1.clutch.co" />
+<link rel="dns-prefetch" href="//static2.clutch.co" />
+<!--[if IE 9]>
+<link rel="prefetch" href="//static1.clutch.co" />
+<link rel="prefetch" href="//static2.clutch.co" />
+<![endif]-->
+<link rel="dns-prefetch" href="//hub.loginradius.com" />
+<link rel="dns-prefetch" href="//cdn.jsdeliver.net" />
+<link rel="dns-prefetch" href="//cdnjs.cloudflare.com" />
+<link rel="dns-prefetch" href="//clients1.google.com" />
+<link rel="dns-prefetch" href="//cse.google.com" />
+<link rel="prefetch" href="//cdn.jsdelivr.net/bootstrap/3.3.7/css/bootstrap.min.css" />
+<link rel="prefetch" href="//cdn.jsdelivr.net/bootstrap/3.3.7/js/bootstrap.min.js" />
+<link rel="shortcut icon" href="//static2.clutch.co/sites/all/themes/clutch2/favicon.png" type="image/png" />
+<meta http-equiv="x-dns-prefetch-control" content="on" />
+<link rel="prefetch" href="//static1.clutch.co/sites/all/themes/clutch2/fonts/clutch-icons.woff2?v=1.1" />
+<meta name="description" content="Reviews of leading Java development companies." />
+<link rel="canonical" href="https://clutch.co/developers/java" />
+<link rel="shortlink" href="/developers/java" />
+<title>Top Java Developers - 2018 Reviews | Clutch.co</title>
+<link type="text/css" rel="stylesheet" href="//static2.clutch.co/sites/default/files/cdn/css/https/css_ind0qTtQHElBv3cIRdHYx6AX4PYpv0O_sHwxayvX2fQ.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//static2.clutch.co/sites/default/files/cdn/css/https/css_2_jdKVexoD7AF6H0BPbq5F573R2NO7OoVdQ092srGKQ.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//static1.clutch.co/sites/default/files/cdn/css/https/css_rl5UYhR5RxlBMU0kwi_ijy8xkVMAD7ZETKfqVAuTARg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.7/css/bootstrap.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//static2.clutch.co/sites/default/files/cdn/css/https/css_z0f669LhdHHyb4yNs1OPc0nfFygUQuWpbdF85wgQgow.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//static2.clutch.co/sites/default/files/cdn/css/https/css_oaa2Rf-LPoaVqJPAdgginceC7zVXGqvxmrsNRr4HpbI.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:700,700italic,italic,regular|Roboto:regular&amp;subset=latin" media="all" />
+
+<!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-developers page-developers-java __smallertitle">
+<div id="skip-link">
+<a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+</div>
+<div class="region region-page-top">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TR2NHS" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> </div>
+<div class="top-bar">
+<div class="container">
+<div class="region region-top-bar">
+<section id="block-menu-secondary-menu" class="block block-menu clearfix">
+<ul class="secondary-menu"><li class="first leaf"><a href="/" title="" class="search-toggle">Search<i class="icon icon-search"></i></a></li>
+<li class="leaf"><a href="/user/login" title="">Sign in<i class="icon icon-person"></i></a></li>
+<li class="last leaf"><a href="/review" title="">Leave a Review<i class="icon icon-pencil"></i></a></li>
+</ul>
+</section> 
+<section id="block-block-58" class="block block-block clearfix">
+<script>
+  (function() {
+    var cx = '011786980380644709364:cbksknuea08';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<div id="search-box-wrapper" class="collapse">
+<gcse:searchbox-only resultsUrl="//clutch.co/search/cse/" queryParameterName="query"></gcse:searchbox-only>
+</div>
+</section> 
+</div>
+</div>
+</div>
+<header id="navbar" class="navbar-wrapper  clutchmenu">
+<div class="container">
+<div class="row">
+<div class="col-md-2 col-sm-2 col-lg-3">
+<div class="navbar-logo-wrapper">
+<div class="logo"><a href="/" title="Home"><img src="//static1.clutch.co/sites/all/themes/clutch2/images/logo_white.svg" alt="Home" width="150" height="43" /></a></div>
+
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div class="site-slogan hidden-xs hidden-sm">Firms that deliver</div>
+</div>
+</div>
+<div class="col-md-10 col-sm-10 col-lg-9 navbar">
+<nav class="navbar-clutch  navbar-collapse collapse">
+<ul id="clutchmenu-toplevel-menu-main" class="clutchmenu-toplevel-menu"><li id="clutchmenu-mlid-69229" class="clutchmenu-parent menu-69229"><span class="clutchmenu-parent-title">More in Custom Software Development<span class="icon-dropdown-arrow"></span></span><div class="clutchmenu-inner-wrapper"><div class="clutchmenu-inner-wrapper2"><ul><li id="clutchmenu-mlid-68421"><a href="/developers" title="">All Software Developers</a></li>
+<li id="clutchmenu-mlid-68424"><a href="/nolink" title="" class="clutchmenu-haschildren">By Focus</a><ul><li id="clutchmenu-mlid-73816"><span class="clutchmenu-placeholder">Most Popular</span><ul><li id="clutchmenu-mlid-70012"><a href="/developers/virtual-reality">Augmented &amp; Virtual Reality</a></li>
+<li id="clutchmenu-mlid-68439"><a href="/developers/internet-of-things">Internet of Things (IoT)</a></li>
+<li id="clutchmenu-mlid-73940"><a href="/developers/blockchain">Blockchain</a></li>
+<li id="clutchmenu-mlid-73941"><a href="/developers/java" class="active">Java</a></li>
+<li id="clutchmenu-mlid-73942"><a href="/developers/artificial-intelligence">Artificial Intelligence</a></li>
+</ul></li>
+<li id="clutchmenu-mlid-73817"><a href="/sitemap#collapse=software-dev-all-focus-collapse" id="software-dev-all-focus">All Focus Areas</a></li>
+</ul></li>
+<li id="clutchmenu-mlid-68400"><a href="/nolink" title="" class="clutchmenu-haschildren">By US Location</a><ul><li id="clutchmenu-mlid-73288"><span class="clutchmenu-placeholder">Most Popular</span><ul><li id="clutchmenu-mlid-73415"><a href="/developers/new-york" title="">New York</a></li>
+<li id="clutchmenu-mlid-73416"><a href="/developers/san-francisco" title="">San Francisco</a></li>
+<li id="clutchmenu-mlid-73417"><a href="/developers/chicago" title="">Chicago</a></li>
+<li id="clutchmenu-mlid-73418"><a href="/developers/los-angeles" title="">Los Angeles</a></li>
+<li id="clutchmenu-mlid-73419"><a href="/developers/boston" title="">Boston</a></li>
+<li id="clutchmenu-mlid-73420"><a href="/developers/philadelphia" title="">Philadelphia</a></li>
+<li id="clutchmenu-mlid-73421"><a href="/developers/atlanta" title="">Atlanta</a></li>
+<li id="clutchmenu-mlid-73422"><a href="/developers/denver" title="">Denver</a></li>
+</ul></li>
+<li id="clutchmenu-mlid-69877"><a href="/sitemap#collapse=software-dev-all-us-collapse" id="software-dev-all-us">All US Locations</a></li>
+</ul></li>
+<li id="clutchmenu-mlid-69250"><a href="/nolink" title="" class="clutchmenu-haschildren">By Global Location</a><ul><li id="clutchmenu-mlid-73289"><span class="clutchmenu-placeholder">Most Popular</span><ul><li id="clutchmenu-mlid-73423"><a href="/uk/developers" title="">UK</a></li>
+<li id="clutchmenu-mlid-73424"><a href="/developers/ukraine" title="">Ukraine</a></li>
+<li id="clutchmenu-mlid-73425"><a href="/developers/poland" title="">Poland</a></li>
+<li id="clutchmenu-mlid-73426"><a href="/developers/belarus" title="">Belarus</a></li>
+<li id="clutchmenu-mlid-73427"><a href="/ca/developers" title="">Canada</a></li>
+<li id="clutchmenu-mlid-73428"><a href="/in/developers" title="">India</a></li>
+<li id="clutchmenu-mlid-73429"><a href="/developers/latin-america" title="">Latin America</a></li>
+</ul></li>
+<li id="clutchmenu-mlid-73270"><a href="/sitemap#collapse=software-dev-all-global-collapse" id="software-dev-all-global">All Global Locations</a></li>
+</ul></li>
+</ul></div></div></li>
+<li id="clutchmenu-mlid-all" class="clutchmenu-item-wrp"><span class="clutchmenu-parent-title">Other Categories<span class="icon-dropdown-arrow"></span></span><div class="clutchmenu-inner-wrapper"><div class="clutchmenu-inner-wrapper2"><ul><li id="clutchmenu-mlid-67977"><a href="/nolink" class="clutchmenu-haschildren">Advertising &amp; Marketing</a><ul><li id="clutchmenu-mlid-67983"><a href="/agencies" title="">Advertising</a></li>
+<li id="clutchmenu-mlid-68824"><a href="/agencies/digital-marketing" title="">Digital Marketing</a></li>
+<li id="clutchmenu-mlid-70397"><a href="/agencies/social-media-marketing" title="">Social Media Marketing</a></li>
+<li id="clutchmenu-mlid-70853"><a href="/agencies/app-marketing" title="">Mobile App Marketing</a></li>
+<li id="clutchmenu-mlid-70841"><a href="/agencies/content-marketing" title="">Content Marketing</a></li>
+<li id="clutchmenu-mlid-68818"><a href="/agencies/digital" title="">Full Service Digital</a></li>
+<li id="clutchmenu-mlid-70707"><a href="/agencies/creative" title="">Creative Agencies</a></li>
+<li id="clutchmenu-mlid-68812"><a href="/agencies/branding" title="">Branding</a></li>
+<li id="clutchmenu-mlid-71070"><a href="/agencies/naming" title="">Naming</a></li>
+<li id="clutchmenu-mlid-70736"><a href="/agencies/video-production">Video Production</a></li>
+<li id="clutchmenu-mlid-68830"><a href="/pr-firms">Public Relations</a></li>
+<li id="clutchmenu-mlid-70772"><a href="/agencies/media-buying">Media Planning &amp; Buying</a></li>
+<li id="clutchmenu-mlid-72381"><a href="/agencies/digital-strategy">Digital Strategy</a></li>
+<li id="clutchmenu-mlid-72351"><a href="/agencies/email">Email Marketing</a></li>
+<li id="clutchmenu-mlid-71049"><a href="/agencies/inbound-marketing">Inbound Marketing</a></li>
+<li id="clutchmenu-mlid-71670"><a href="/agencies/market-research">Market Research</a></li>
+<li id="clutchmenu-mlid-68836"><a href="/marketing">Marketing Software</a></li>
+<li id="clutchmenu-mlid-73243"><a href="/sitemap">More in Advertising &amp; Marketing</a></li>
+</ul></li>
+<li id="clutchmenu-mlid-67980"><a href="/nolink" title="" class="clutchmenu-haschildren">Search Engine Optimization (SEO)</a><ul><li id="clutchmenu-mlid-73247"><a href="/seo-firms" title="">SEO</a></li>
+<li id="clutchmenu-mlid-70030"><a href="/agencies/ppc" title="">Pay Per Click</a></li>
+</ul></li>
+<li id="clutchmenu-mlid-68451"><a href="/nolink" title="" class="clutchmenu-haschildren">Mobile App Development</a><ul><li id="clutchmenu-mlid-68457"><a href="/directory/mobile-application-developers">Mobile App Developers</a></li>
+<li id="clutchmenu-mlid-69970"><a href="/directory/android-application-developers">Android App Developers</a></li>
+<li id="clutchmenu-mlid-69976"><a href="/directory/iphone-application-developers">iPhone App Developers</a></li>
+<li id="clutchmenu-mlid-68454"><a href="/app-development" title="">App Development Software</a></li>
+</ul></li>
+<li id="clutchmenu-mlid-68223"><a href="/nolink" title="" class="clutchmenu-haschildren">Web Design</a><ul><li id="clutchmenu-mlid-68226"><a href="/web-designers">Web Designers</a></li>
+<li id="clutchmenu-mlid-72375"><a href="/agencies/digital-design">Digital Design</a></li>
+<li id="clutchmenu-mlid-72315"><a href="/agencies/graphic-designers">Graphic Design</a></li>
+<li id="clutchmenu-mlid-72321"><a href="/agencies/logo-designers">Logo Design</a></li>
+<li id="clutchmenu-mlid-72447"><a href="/agencies/product-design" title="">Product Design</a></li>
+<li id="clutchmenu-mlid-70461"><a href="/agencies/ui-ux">User Experience</a></li>
+</ul></li>
+<li id="clutchmenu-mlid-68655"><a href="/nolink" title="" class="clutchmenu-haschildren">IT Services &amp; Solutions</a><ul><li id="clutchmenu-mlid-70917"><a href="/it-services/msp">Managed Service Providers</a></li>
+<li id="clutchmenu-mlid-68658"><a href="/it-services">IT Services</a></li>
+<li id="clutchmenu-mlid-68751"><a href="/it-services/cloud">Cloud Consultants</a></li>
+<li id="clutchmenu-mlid-68688"><a href="/cloud">Cloud Solutions</a></li>
+<li id="clutchmenu-mlid-68700"><a href="/it-services/analytics">BI &amp; Big Data</a></li>
+<li id="clutchmenu-mlid-70722"><a href="/it-services/cybersecurity" title="">Cybersecurity</a></li>
+<li id="clutchmenu-mlid-73897"><a href="/it-services/staff-augmentation">Staff Augmentation</a></li>
+</ul></li>
+<li id="clutchmenu-mlid-69994"><a href="/nolink" title="" class="clutchmenu-haschildren">Business Services</a><ul><li id="clutchmenu-mlid-70662"><a href="/bpo">BPO</a></li>
+<li id="clutchmenu-mlid-70596"><a href="/call-centers">Voice/Call Center Services</a></li>
+<li id="clutchmenu-mlid-70893"><a href="/accounting">Accounting</a></li>
+<li id="clutchmenu-mlid-73022"><a href="/hr">Human Resources</a></li>
+<li id="clutchmenu-mlid-73302"><a href="/sitemap#collapse=business-services-more-categories-collapse" id="business-services-more-categories">More in Business Services</a></li>
+</ul></li>
+</ul></div></div></li>
+</ul> </nav>
+</div>
+</div>
+</div>
+</header>
+<div class="header-bottom with-sticker">
+<div class="container">
+<div class="header-sticker">
+<span>2018 Reviews</span>
+</div>
+<h1 class="page-title">Top Java Developers<span class="visible-xs-inline"> - 2018 Reviews</span></h1>
+</div>
+<div class="header-update">Last updated Oct 3, 2017</div>
+</div>
+<section class="main-content-wrapper">
+<div class="container">
+</div>
+<div class="region region-content">
+<section id="block-system-main" class="block block-system clearfix">
+<div class="block-content">
+<section id="header" class="header-wrapper">
+<div class="container">
+<div class="page-heading-tabs module-filter" id="module-sticky">
+<div class="view-content-bordered">
+<div class="row module-filtre__content">
+<div class="col-xs-12 col-md-6 main-tabs-wrapper bordered-right">
+<div class="tabs-info"><span class="count-service-reviews">236 Firms</span></div>
+<ul class="main-tabs nav nav-tabs tabs nav-justified" role="tablist"><li class="active"><a href="/developers/java" class="default active"><span class="icon-check-c"></span><span class="text">Reviews</span></a></li><li class=""><a href="/developers/java/research"><span class="icon-leaders-matrix"></span><span class="text">Leaders Matrix</a></li></ul> </div>
+<div class="exposed-filters">
+<form action="/developers/java" method="get" id="views-exposed-form-lm-web-dev-java-directory" accept-charset="UTF-8"><div><div class="col-xs-7 col-md-4 col-lg-3 sortby">
+<div class="clutchreview_rfe"><div class="form-type-select form-item-sort-bef-combine form-item form-group">
+<label class="element-invisible" for="edit-sort-bef-combine">Sort by </label>
+<div class="input-group"><span class="input-group-addon">Sort by</span><select class="chosen-select-width form-control form-control form-select" data-placeholder="Sort by" id="edit-sort-bef-combine" name="sort_bef_combine"><option value="field_pp_page_sponsor_sponsorship DESC" selected="selected">Sponsored</option><option value="field_pp_rank_java3_value DESC">Clutch rank</option><option value="field_pp_reviews_count_value DESC">Number of Reviews</option><option value="field_pp_total_reviews_value DESC">Review Rating</option><option value="title ASC">Company Name</option></select></div>
+</div>
+</div></div>
+<div class="col-xs-5 col-md-2 col-lg-3 filter-result">
+<div class="form-group">
+<a class="btn btn-collapse collapsed" role="button" data-toggle="collapse" href="#collapseFilterForm" aria-expanded="false" aria-controls="collapseFilterForm">
+Filter <span class="hidden-xs">Results</span> </a>
+</div>
+</div>
+<div class="col-xs-12 filters-container">
+<div class="collapse" id="collapseFilterForm">
+<div class="filters-area">
+<div class="form-inline">
+<div class="chosen-dropdown-select-wrapper">
+<label class="element-invisible">Min. project size</label>
+<div class="form-type-select form-item-field-pp-min-project-size-value form-item form-group">
+<select class="form-control chosen-select-deselect form-select" data-placeholder="Min. project size" id="edit-field-pp-min-project-size-value" name="field_pp_min_project_size_value"><option value="All" selected="selected"></option><option value="1000">$1,000+</option><option value="5000">$5,000+</option><option value="10000">$10,000+</option><option value="25000">$25,000+</option><option value="50000">$50,000+</option><option value="75000">$75,000+</option><option value="100000">$100,000+</option><option value="250000">$250,000+</option></select>
+</div>
+</div>
+<div class="chosen-dropdown-select-wrapper">
+<label class="element-invisible">Ave. hrly rate</label>
+<div class="form-type-select form-item-field-pp-hrly-rate-range-value form-item form-group">
+<select class="form-control chosen-select-deselect form-select" data-placeholder="Ave. hrly rate" id="edit-field-pp-hrly-rate-range-value" name="field_pp_hrly_rate_range_value"><option value="All" selected="selected"></option><option value="&lt; $25">&lt; $25</option><option value="$25 - $49">$25 - $49</option><option value="$50 - $99">$50 - $99</option><option value="$100 - $149">$100 - $149</option><option value="$150 - $199">$150 - $199</option><option value="$200 - $300">$200 - $300</option><option value="$300+">$300+</option></select>
+</div>
+</div>
+<div class="chosen-dropdown-select-wrapper">
+<label class="element-invisible">Employees</label>
+<div class="form-type-select form-item-field-pp-size-people-value form-item form-group">
+<select class="form-control chosen-select-deselect form-select" data-placeholder="Employees" id="edit-field-pp-size-people-value" name="field_pp_size_people_value"><option value="All" selected="selected"></option><option value="Freelancer">Freelancer</option><option value="2 - 9">2 - 9</option><option value="10 - 49">10 - 49</option><option value="50 - 249">50 - 249</option><option value="250 - 999">250 - 999</option><option value="1,000 - 9,999">1,000 - 9,999</option><option value="10,000+">10,000+</option></select>
+</div>
+</div>
+<div class="exposed-group-client-focus chosen-dropdown-select-wrapper">
+<div class="exposed-widget clearfix">
+<label class="element-invisible">Small business</label>
+<div class="form-type-textfield form-item-field-pp-cs-small-biz-value form-item form-group">
+<input class="form-control form-text" type="text" id="edit-field-pp-cs-small-biz-value" name="field_pp_cs_small_biz_value" value="" size="30" maxlength="128" />
+</div>
+</div>
+<div class="exposed-widget clearfix">
+<label class="element-invisible">Midmarket</label>
+<div class="form-type-textfield form-item-field-pp-cs-midmarket-value form-item form-group">
+<input class="form-control form-text" type="text" id="edit-field-pp-cs-midmarket-value" name="field_pp_cs_midmarket_value" value="" size="30" maxlength="128" />
+</div>
+</div>
+<div class="exposed-widget clearfix">
+<label class="element-invisible">Enterprise</label>
+<div class="form-type-textfield form-item-field-pp-cs-enterprise-value form-item form-group">
+<input class="form-control form-text" type="text" id="edit-field-pp-cs-enterprise-value" name="field_pp_cs_enterprise_value" value="" size="30" maxlength="128" />
+</div>
+</div>
+</div>
+<div class="exposed-group-industry-focus chosen-dropdown-select-wrapper">
+<div class="exposed-widget clearfix">
+<label class="element-invisible">Advertising &amp; marketing</label>
+<div class="form-type-textfield form-item-field-pp-if-advertising-value form-item form-group">
+<input class="form-control form-text" type="text" id="edit-field-pp-if-advertising-value" name="field_pp_if_advertising_value" value="" size="30" maxlength="128" />
+</div>
+</div>
+<div class="exposed-widget clearfix">
+<label class="element-invisible">Automotive</label>
+<div class="form-type-textfield form-item-field-pp-if-automotive-value form-item form-group">
+<input class="form-control form-text" type="text" id="edit-field-pp-if-automotive-value" name="field_pp_if_automotive_value" value="" size="30" maxlength="128" />
+</div>
+</div>
+<div class="exposed-widget clearfix">
+<label class="element-invisible">Arts, entertainment &amp; music</label>
+<div class="form-type-textfield form-item-field-pp-if-arts-value form-item form-group">
+<input class="form-control form-text" type="text" id="edit-field-pp-if-arts-value" name="field_pp_if_arts_value" value="" size="30" maxlength="128" />
+</div>
+</div>
+<div class="exposed-widget clearfix">
+<label class="element-invisible">Business services</label>
+<div class="form-type-textfield form-item-field-pp-if-bizservices-value form-item form-group">
+<input class="form-control form-text" type="text" id="edit-field-pp-if-bizservices-value" name="field_pp_if_bizservices_value" value="" size="30" maxlength="128" />
+</div>
+</div>
+<div class="exposed-widget clearfix">
+<label class="element-invisible">Consumer products</label>
+<div class="form-type-textfield form-item-field-pp-if-conproducts-value form-item form-group">
+<input class="form-control form-text" type="text" id="edit-field-pp-if-conproducts-value" name="field_pp_if_conproducts_value" value="" size="30" maxlength="128" />
+</div>
+</div>
+<div class="exposed-widget clearfix">
+<label class="element-invisible">Education</label>
+<div class="form-type-textfield form-item-field-pp-if-education-value form-item form-group">
+<input class="form-control form-text" type="text" id="edit-field-pp-if-education-value" name="field_pp_if_education_value" value="" size="30" maxlength="128" />
+</div>
+</div>
+<div class="exposed-widget clearfix">
+<label class="element-invisible">Natural resources</label>
+<div class="form-type-textfield form-item-field-pp-if-natural-resources-value form-item form-group">
+<input class="form-control form-text" type="text" id="edit-field-pp-if-natural-resources-value" name="field_pp_if_natural_resources_value" value="" size="30" maxlength="128" />
+</div>
+</div>
+<div class="exposed-widget clearfix">
+<label class="element-invisible">Financial services</label>
+<div class="form-type-textfield form-item-field-pp-if-finservices-value form-item form-group">
+<input class="form-control form-text" type="text" id="edit-field-pp-if-finservices-value" name="field_pp_if_finservices_value" value="" size="30" maxlength="128" />
+</div>
+</div>
+<div class="exposed-widget clearfix">
+<label class="element-invisible">Gambling</label>
+<div class="form-type-textfield form-item-field-pp-if-gambling-value form-item form-group">
+<input class="form-control form-text" type="text" id="edit-field-pp-if-gambling-value" name="field_pp_if_gambling_value" value="" size="30" maxlength="128" />
+</div>
+</div>
+<div class="exposed-widget clearfix">
+<label class="element-invisible">Gaming</label>
+<div class="form-type-textfield form-item-field-pp-if-gaming-value form-item form-group">
+<input class="form-control form-text" type="text" id="edit-field-pp-if-gaming-value" name="field_pp_if_gaming_value" value="" size="30" maxlength="128" />
+</div>
+</div>
+<div class="exposed-widget clearfix">
+<label class="element-invisible">Government</label>
+<div class="form-type-textfield form-item-field-pp-if-government-value form-item form-group">
+<input class="form-control form-text" type="text" id="edit-field-pp-if-government-value" name="field_pp_if_government_value" value="" size="30" maxlength="128" />
+</div>
+</div>
+<div class="exposed-widget clearfix">
+<label class="element-invisible">Health care &amp; life sciences</label>
+<div class="form-type-textfield form-item-field-pp-if-healthcare-value form-item form-group">
+<input class="form-control form-text" type="text" id="edit-field-pp-if-healthcare-value" name="field_pp_if_healthcare_value" value="" size="30" maxlength="128" />
+</div>
+</div>
+<div class="exposed-widget clearfix">
+<label class="element-invisible">Hospitality &amp; leisure</label>
+<div class="form-type-textfield form-item-field-pp-if-hospitality-value form-item form-group">
+<input class="form-control form-text" type="text" id="edit-field-pp-if-hospitality-value" name="field_pp_if_hospitality_value" value="" size="30" maxlength="128" />
+</div>
+</div>
+<div class="exposed-widget clearfix">
+<label class="element-invisible">Information technology</label>
+<div class="form-type-textfield form-item-field-pp-if-it-value form-item form-group">
+<input class="form-control form-text" type="text" id="edit-field-pp-if-it-value" name="field_pp_if_it_value" value="" size="30" maxlength="128" />
+</div>
+</div>
+<div class="exposed-widget clearfix">
+<label class="element-invisible">Legal</label>
+<div class="form-type-textfield form-item-field-pp-if-legal-value form-item form-group">
+<input class="form-control form-text" type="text" id="edit-field-pp-if-legal-value" name="field_pp_if_legal_value" value="" size="30" maxlength="128" />
+</div>
+</div>
+<div class="exposed-widget clearfix">
+<label class="element-invisible">Manufacturing</label>
+<div class="form-type-textfield form-item-field-pp-if-manufacturing-value form-item form-group">
+<input class="form-control form-text" type="text" id="edit-field-pp-if-manufacturing-value" name="field_pp_if_manufacturing_value" value="" size="30" maxlength="128" />
+</div>
+</div>
+<div class="exposed-widget clearfix">
+<label class="element-invisible">Media</label>
+<div class="form-type-textfield form-item-field-pp-if-media-value form-item form-group">
+<input class="form-control form-text" type="text" id="edit-field-pp-if-media-value" name="field_pp_if_media_value" value="" size="30" maxlength="128" />
+</div>
+</div>
+<div class="exposed-widget clearfix">
+<label class="element-invisible">Non-profit</label>
+<div class="form-type-textfield form-item-field-pp-if-nonprofit-value form-item form-group">
+<input class="form-control form-text" type="text" id="edit-field-pp-if-nonprofit-value" name="field_pp_if_nonprofit_value" value="" size="30" maxlength="128" />
+</div>
+</div>
+<div class="exposed-widget clearfix">
+<label class="element-invisible">Real estate</label>
+<div class="form-type-textfield form-item-field-pp-if-realestate-value form-item form-group">
+<input class="form-control form-text" type="text" id="edit-field-pp-if-realestate-value" name="field_pp_if_realestate_value" value="" size="30" maxlength="128" />
+</div>
+</div>
+<div class="exposed-widget clearfix">
+<label class="element-invisible">Retail</label>
+<div class="form-type-textfield form-item-field-pp-if-retail-value form-item form-group">
+<input class="form-control form-text" type="text" id="edit-field-pp-if-retail-value" name="field_pp_if_retail_value" value="" size="30" maxlength="128" />
+</div>
+</div>
+<div class="exposed-widget clearfix">
+<label class="element-invisible">Telecommunications</label>
+<div class="form-type-textfield form-item-field-pp-if-telecom-value form-item form-group">
+<input class="form-control form-text" type="text" id="edit-field-pp-if-telecom-value" name="field_pp_if_telecom_value" value="" size="30" maxlength="128" />
+</div>
+</div>
+<div class="exposed-widget clearfix">
+<label class="element-invisible">Transportation</label>
+<div class="form-type-textfield form-item-field-pp-if-transportation-value form-item form-group">
+<input class="form-control form-text" type="text" id="edit-field-pp-if-transportation-value" name="field_pp_if_transportation_value" value="" size="30" maxlength="128" />
+</div>
+</div>
+<div class="exposed-widget clearfix">
+<label class="element-invisible">Utilities</label>
+<div class="form-type-textfield form-item-field-pp-if-utilities-value form-item form-group">
+<input class="form-control form-text" type="text" id="edit-field-pp-if-utilities-value" name="field_pp_if_utilities_value" value="" size="30" maxlength="128" />
+</div>
+</div>
+<div class="exposed-widget clearfix">
+<label class="element-invisible">Other industries</label>
+<div class="form-type-textfield form-item-field-pp-if-other-value form-item form-group">
+<input class="form-control form-text" type="text" id="edit-field-pp-if-other-value" name="field_pp_if_other_value" value="" size="30" maxlength="128" />
+</div>
+</div>
+</div>
+<div class="dropdown-filter">
+<button class="btn dropdown-toggle dropdown-location" style="min-width: 160px" type="button" aria-haspopup="true" aria-expanded="false">
+Locations
+<div>
+<b></b>
+</div>
+</button>
+<div class="dropdown-menu">
+<div class="row">
+<div class="form-elements col-xs-12">
+<div class="element-wrapper">
+<label>Country</label>
+<div class="clutchreview_rfe"><div class="form-type-select form-item-country form-item form-group">
+<select class="location_auto_country location_auto_join_country chosen-select-width form-control form-select" data-placeholder="Country" id="edit-country" name="country"><option value="All" selected="selected"></option><option value="us">United States</option><option value="af">Afghanistan</option><option value="ax">Aland Islands</option><option value="al">Albania</option><option value="dz">Algeria</option><option value="as">American Samoa</option><option value="ad">Andorra</option><option value="ao">Angola</option><option value="ai">Anguilla</option><option value="aq">Antarctica</option><option value="ag">Antigua and Barbuda</option><option value="ar">Argentina</option><option value="am">Armenia</option><option value="aw">Aruba</option><option value="au">Australia</option><option value="at">Austria</option><option value="az">Azerbaijan</option><option value="bs">Bahamas</option><option value="bh">Bahrain</option><option value="bd">Bangladesh</option><option value="bb">Barbados</option><option value="by">Belarus</option><option value="be">Belgium</option><option value="bz">Belize</option><option value="bj">Benin</option><option value="bm">Bermuda</option><option value="bt">Bhutan</option><option value="bo">Bolivia</option><option value="ba">Bosnia and Herzegovina</option><option value="bw">Botswana</option><option value="bv">Bouvet Island</option><option value="br">Brazil</option><option value="io">British Indian Ocean Territory</option><option value="vg">British Virgin Islands</option><option value="bn">Brunei</option><option value="bg">Bulgaria</option><option value="bf">Burkina Faso</option><option value="bi">Burundi</option><option value="kh">Cambodia</option><option value="cm">Cameroon</option><option value="ca">Canada</option><option value="cv">Cape Verde</option><option value="bq">Caribbean Netherlands</option><option value="ky">Cayman Islands</option><option value="cf">Central African Republic</option><option value="td">Chad</option><option value="cl">Chile</option><option value="cn">China</option><option value="cx">Christmas Island</option><option value="cc">Cocos (Keeling) Islands</option><option value="co">Colombia</option><option value="km">Comoros</option><option value="cg">Congo (Brazzaville)</option><option value="cd">Congo (Kinshasa)</option><option value="ck">Cook Islands</option><option value="cr">Costa Rica</option><option value="hr">Croatia</option><option value="cu">Cuba</option><option value="cw">Curaçao</option><option value="cy">Cyprus</option><option value="cz">Czech Republic</option><option value="dk">Denmark</option><option value="dj">Djibouti</option><option value="dm">Dominica</option><option value="do">Dominican Republic</option><option value="ec">Ecuador</option><option value="eg">Egypt</option><option value="sv">El Salvador</option><option value="gq">Equatorial Guinea</option><option value="er">Eritrea</option><option value="ee">Estonia</option><option value="et">Ethiopia</option><option value="fk">Falkland Islands</option><option value="fo">Faroe Islands</option><option value="fj">Fiji</option><option value="fi">Finland</option><option value="fr">France</option><option value="gf">French Guiana</option><option value="pf">French Polynesia</option><option value="tf">French Southern Territories</option><option value="ga">Gabon</option><option value="gm">Gambia</option><option value="ge">Georgia</option><option value="de">Germany</option><option value="gh">Ghana</option><option value="gi">Gibraltar</option><option value="gr">Greece</option><option value="gl">Greenland</option><option value="gd">Grenada</option><option value="gp">Guadeloupe</option><option value="gu">Guam</option><option value="gt">Guatemala</option><option value="gg">Guernsey</option><option value="gn">Guinea</option><option value="gw">Guinea-Bissau</option><option value="gy">Guyana</option><option value="ht">Haiti</option><option value="hm">Heard Island and McDonald Islands</option><option value="hn">Honduras</option><option value="hk">Hong Kong S.A.R., China</option><option value="hu">Hungary</option><option value="is">Iceland</option><option value="in">India</option><option value="id">Indonesia</option><option value="ir">Iran</option><option value="iq">Iraq</option><option value="ie">Ireland</option><option value="im">Isle of Man</option><option value="il">Israel</option><option value="it">Italy</option><option value="ci">Ivory Coast</option><option value="jm">Jamaica</option><option value="jp">Japan</option><option value="je">Jersey</option><option value="jo">Jordan</option><option value="kz">Kazakhstan</option><option value="ke">Kenya</option><option value="ki">Kiribati</option><option value="kw">Kuwait</option><option value="kg">Kyrgyzstan</option><option value="la">Laos</option><option value="lv">Latvia</option><option value="lb">Lebanon</option><option value="ls">Lesotho</option><option value="lr">Liberia</option><option value="ly">Libya</option><option value="li">Liechtenstein</option><option value="lt">Lithuania</option><option value="lu">Luxembourg</option><option value="mo">Macao S.A.R., China</option><option value="mk">Macedonia</option><option value="mg">Madagascar</option><option value="mw">Malawi</option><option value="my">Malaysia</option><option value="mv">Maldives</option><option value="ml">Mali</option><option value="mt">Malta</option><option value="mh">Marshall Islands</option><option value="mq">Martinique</option><option value="mr">Mauritania</option><option value="mu">Mauritius</option><option value="yt">Mayotte</option><option value="mx">Mexico</option><option value="fm">Micronesia</option><option value="md">Moldova</option><option value="mc">Monaco</option><option value="mn">Mongolia</option><option value="me">Montenegro</option><option value="ms">Montserrat</option><option value="ma">Morocco</option><option value="mz">Mozambique</option><option value="mm">Myanmar</option><option value="na">Namibia</option><option value="nr">Nauru</option><option value="np">Nepal</option><option value="nl">Netherlands</option><option value="an">Netherlands Antilles</option><option value="nc">New Caledonia</option><option value="nz">New Zealand</option><option value="ni">Nicaragua</option><option value="ne">Niger</option><option value="ng">Nigeria</option><option value="nu">Niue</option><option value="nf">Norfolk Island</option><option value="mp">Northern Mariana Islands</option><option value="kp">North Korea</option><option value="no">Norway</option><option value="om">Oman</option><option value="pk">Pakistan</option><option value="pw">Palau</option><option value="ps">Palestinian Territory</option><option value="pa">Panama</option><option value="pg">Papua New Guinea</option><option value="py">Paraguay</option><option value="pe">Peru</option><option value="ph">Philippines</option><option value="pn">Pitcairn</option><option value="pl">Poland</option><option value="pt">Portugal</option><option value="pr">Puerto Rico</option><option value="qa">Qatar</option><option value="re">Reunion</option><option value="ro">Romania</option><option value="ru">Russia</option><option value="rw">Rwanda</option><option value="bl">Saint Barthélemy</option><option value="sh">Saint Helena</option><option value="kn">Saint Kitts and Nevis</option><option value="lc">Saint Lucia</option><option value="mf">Saint Martin (French part)</option><option value="pm">Saint Pierre and Miquelon</option><option value="vc">Saint Vincent and the Grenadines</option><option value="ws">Samoa</option><option value="sm">San Marino</option><option value="st">Sao Tome and Principe</option><option value="sa">Saudi Arabia</option><option value="sn">Senegal</option><option value="rs">Serbia</option><option value="sc">Seychelles</option><option value="sl">Sierra Leone</option><option value="sg">Singapore</option><option value="sx">Sint Maarten</option><option value="sk">Slovakia</option><option value="si">Slovenia</option><option value="sb">Solomon Islands</option><option value="so">Somalia</option><option value="za">South Africa</option><option value="gs">South Georgia and the South Sandwich Islands</option><option value="kr">South Korea</option><option value="ss">South Sudan</option><option value="es">Spain</option><option value="lk">Sri Lanka</option><option value="sd">Sudan</option><option value="sr">Suriname</option><option value="sj">Svalbard and Jan Mayen</option><option value="sz">Swaziland</option><option value="se">Sweden</option><option value="ch">Switzerland</option><option value="sy">Syria</option><option value="tw">Taiwan</option><option value="tj">Tajikistan</option><option value="tz">Tanzania</option><option value="th">Thailand</option><option value="tl">Timor-Leste</option><option value="tg">Togo</option><option value="tk">Tokelau</option><option value="to">Tonga</option><option value="tt">Trinidad and Tobago</option><option value="tn">Tunisia</option><option value="tr">Turkey</option><option value="tm">Turkmenistan</option><option value="tc">Turks and Caicos Islands</option><option value="tv">Tuvalu</option><option value="vi">U.S. Virgin Islands</option><option value="ug">Uganda</option><option value="ua">Ukraine</option><option value="ae">United Arab Emirates</option><option value="gb">United Kingdom</option><option value="um">United States Minor Outlying Islands</option><option value="uy">Uruguay</option><option value="uz">Uzbekistan</option><option value="vu">Vanuatu</option><option value="va">Vatican</option><option value="ve">Venezuela</option><option value="vn">Vietnam</option><option value="wf">Wallis and Futuna</option><option value="eh">Western Sahara</option><option value="ye">Yemen</option><option value="zm">Zambia</option><option value="zw">Zimbabwe</option></select>
+</div>
+</div> </div>
+<div class="element-wrapper">
+<label>State</label>
+<div class="clutchreview_rfe"><div class="form-type-textfield form-item-state form-autocomplete form-item form-group">
+<div class="input-group"><input class="location_auto_province location_auto_join_distance form-control form-text" type="text" id="edit-state" name="state" value="" maxlength="64" /><input class="autocomplete" disabled="disabled" id="edit-state-autocomplete" type="hidden" value="https://clutch.co/index.php?q=location/autocomplete/us" />
+<span class="input-group-addon"><span class="icon glyphicon glyphicon-refresh" aria-hidden="true"></span></span></div>
+</div>
+</div> </div>
+<div class="element-wrapper">
+<div class="title">Proximity (US)</div>
+<div class="clutchreview_rfe"><div class="form-type-textfield form-item-distance-postal-code form-item form-group">
+<label for="edit-distance-postal-code">Zip code </label>
+<input class="form-control form-text" type="text" id="edit-distance-postal-code" name="distance[postal_code]" value="" size="60" maxlength="16" />
+</div>
+</div><div class="clutchreview_rfe"><div class="form-type-select form-item-distance-country form-item form-group">
+<label for="edit-distance-country">Country </label>
+<select class="location_auto_country form-control form-select" id="edit-distance-country" name="distance[country]"><option value=""></option><option value="af">Afghanistan</option><option value="ax">Aland Islands</option><option value="al">Albania</option><option value="dz">Algeria</option><option value="as">American Samoa</option><option value="ad">Andorra</option><option value="ao">Angola</option><option value="ai">Anguilla</option><option value="aq">Antarctica</option><option value="ag">Antigua and Barbuda</option><option value="ar">Argentina</option><option value="am">Armenia</option><option value="aw">Aruba</option><option value="au">Australia</option><option value="at">Austria</option><option value="az">Azerbaijan</option><option value="bs">Bahamas</option><option value="bh">Bahrain</option><option value="bd">Bangladesh</option><option value="bb">Barbados</option><option value="by">Belarus</option><option value="be">Belgium</option><option value="bz">Belize</option><option value="bj">Benin</option><option value="bm">Bermuda</option><option value="bt">Bhutan</option><option value="bo">Bolivia</option><option value="ba">Bosnia and Herzegovina</option><option value="bw">Botswana</option><option value="bv">Bouvet Island</option><option value="br">Brazil</option><option value="io">British Indian Ocean Territory</option><option value="vg">British Virgin Islands</option><option value="bn">Brunei</option><option value="bg">Bulgaria</option><option value="bf">Burkina Faso</option><option value="bi">Burundi</option><option value="kh">Cambodia</option><option value="cm">Cameroon</option><option value="ca">Canada</option><option value="cv">Cape Verde</option><option value="bq">Caribbean Netherlands</option><option value="ky">Cayman Islands</option><option value="cf">Central African Republic</option><option value="td">Chad</option><option value="cl">Chile</option><option value="cn">China</option><option value="cx">Christmas Island</option><option value="cc">Cocos (Keeling) Islands</option><option value="co">Colombia</option><option value="km">Comoros</option><option value="cg">Congo (Brazzaville)</option><option value="cd">Congo (Kinshasa)</option><option value="ck">Cook Islands</option><option value="cr">Costa Rica</option><option value="hr">Croatia</option><option value="cu">Cuba</option><option value="cw">Curaçao</option><option value="cy">Cyprus</option><option value="cz">Czech Republic</option><option value="dk">Denmark</option><option value="dj">Djibouti</option><option value="dm">Dominica</option><option value="do">Dominican Republic</option><option value="ec">Ecuador</option><option value="eg">Egypt</option><option value="sv">El Salvador</option><option value="gq">Equatorial Guinea</option><option value="er">Eritrea</option><option value="ee">Estonia</option><option value="et">Ethiopia</option><option value="fk">Falkland Islands</option><option value="fo">Faroe Islands</option><option value="fj">Fiji</option><option value="fi">Finland</option><option value="fr">France</option><option value="gf">French Guiana</option><option value="pf">French Polynesia</option><option value="tf">French Southern Territories</option><option value="ga">Gabon</option><option value="gm">Gambia</option><option value="ge">Georgia</option><option value="de">Germany</option><option value="gh">Ghana</option><option value="gi">Gibraltar</option><option value="gr">Greece</option><option value="gl">Greenland</option><option value="gd">Grenada</option><option value="gp">Guadeloupe</option><option value="gu">Guam</option><option value="gt">Guatemala</option><option value="gg">Guernsey</option><option value="gn">Guinea</option><option value="gw">Guinea-Bissau</option><option value="gy">Guyana</option><option value="ht">Haiti</option><option value="hm">Heard Island and McDonald Islands</option><option value="hn">Honduras</option><option value="hk">Hong Kong S.A.R., China</option><option value="hu">Hungary</option><option value="is">Iceland</option><option value="in">India</option><option value="id">Indonesia</option><option value="ir">Iran</option><option value="iq">Iraq</option><option value="ie">Ireland</option><option value="im">Isle of Man</option><option value="il">Israel</option><option value="it">Italy</option><option value="ci">Ivory Coast</option><option value="jm">Jamaica</option><option value="jp">Japan</option><option value="je">Jersey</option><option value="jo">Jordan</option><option value="kz">Kazakhstan</option><option value="ke">Kenya</option><option value="ki">Kiribati</option><option value="kw">Kuwait</option><option value="kg">Kyrgyzstan</option><option value="la">Laos</option><option value="lv">Latvia</option><option value="lb">Lebanon</option><option value="ls">Lesotho</option><option value="lr">Liberia</option><option value="ly">Libya</option><option value="li">Liechtenstein</option><option value="lt">Lithuania</option><option value="lu">Luxembourg</option><option value="mo">Macao S.A.R., China</option><option value="mk">Macedonia</option><option value="mg">Madagascar</option><option value="mw">Malawi</option><option value="my">Malaysia</option><option value="mv">Maldives</option><option value="ml">Mali</option><option value="mt">Malta</option><option value="mh">Marshall Islands</option><option value="mq">Martinique</option><option value="mr">Mauritania</option><option value="mu">Mauritius</option><option value="yt">Mayotte</option><option value="mx">Mexico</option><option value="fm">Micronesia</option><option value="md">Moldova</option><option value="mc">Monaco</option><option value="mn">Mongolia</option><option value="me">Montenegro</option><option value="ms">Montserrat</option><option value="ma">Morocco</option><option value="mz">Mozambique</option><option value="mm">Myanmar</option><option value="na">Namibia</option><option value="nr">Nauru</option><option value="np">Nepal</option><option value="nl">Netherlands</option><option value="an">Netherlands Antilles</option><option value="nc">New Caledonia</option><option value="nz">New Zealand</option><option value="ni">Nicaragua</option><option value="ne">Niger</option><option value="ng">Nigeria</option><option value="nu">Niue</option><option value="nf">Norfolk Island</option><option value="mp">Northern Mariana Islands</option><option value="kp">North Korea</option><option value="no">Norway</option><option value="om">Oman</option><option value="pk">Pakistan</option><option value="pw">Palau</option><option value="ps">Palestinian Territory</option><option value="pa">Panama</option><option value="pg">Papua New Guinea</option><option value="py">Paraguay</option><option value="pe">Peru</option><option value="ph">Philippines</option><option value="pn">Pitcairn</option><option value="pl">Poland</option><option value="pt">Portugal</option><option value="pr">Puerto Rico</option><option value="qa">Qatar</option><option value="re">Reunion</option><option value="ro">Romania</option><option value="ru">Russia</option><option value="rw">Rwanda</option><option value="bl">Saint Barthélemy</option><option value="sh">Saint Helena</option><option value="kn">Saint Kitts and Nevis</option><option value="lc">Saint Lucia</option><option value="mf">Saint Martin (French part)</option><option value="pm">Saint Pierre and Miquelon</option><option value="vc">Saint Vincent and the Grenadines</option><option value="ws">Samoa</option><option value="sm">San Marino</option><option value="st">Sao Tome and Principe</option><option value="sa">Saudi Arabia</option><option value="sn">Senegal</option><option value="rs">Serbia</option><option value="sc">Seychelles</option><option value="sl">Sierra Leone</option><option value="sg">Singapore</option><option value="sx">Sint Maarten</option><option value="sk">Slovakia</option><option value="si">Slovenia</option><option value="sb">Solomon Islands</option><option value="so">Somalia</option><option value="za">South Africa</option><option value="gs">South Georgia and the South Sandwich Islands</option><option value="kr">South Korea</option><option value="ss">South Sudan</option><option value="es">Spain</option><option value="lk">Sri Lanka</option><option value="sd">Sudan</option><option value="sr">Suriname</option><option value="sj">Svalbard and Jan Mayen</option><option value="sz">Swaziland</option><option value="se">Sweden</option><option value="ch">Switzerland</option><option value="sy">Syria</option><option value="tw">Taiwan</option><option value="tj">Tajikistan</option><option value="tz">Tanzania</option><option value="th">Thailand</option><option value="tl">Timor-Leste</option><option value="tg">Togo</option><option value="tk">Tokelau</option><option value="to">Tonga</option><option value="tt">Trinidad and Tobago</option><option value="tn">Tunisia</option><option value="tr">Turkey</option><option value="tm">Turkmenistan</option><option value="tc">Turks and Caicos Islands</option><option value="tv">Tuvalu</option><option value="vi">U.S. Virgin Islands</option><option value="ug">Uganda</option><option value="ua">Ukraine</option><option value="ae">United Arab Emirates</option><option value="gb">United Kingdom</option><option value="us" selected="selected">United States</option><option value="um">United States Minor Outlying Islands</option><option value="uy">Uruguay</option><option value="uz">Uzbekistan</option><option value="vu">Vanuatu</option><option value="va">Vatican</option><option value="ve">Venezuela</option><option value="vn">Vietnam</option><option value="wf">Wallis and Futuna</option><option value="eh">Western Sahara</option><option value="ye">Yemen</option><option value="zm">Zambia</option><option value="zw">Zimbabwe</option></select>
+</div>
+</div><div class="clutchreview_rfe"><div class="form-type-textfield form-item-distance-search-distance form-item form-group">
+<label for="edit-distance-search-distance">Distance </label>
+<input class="form-control form-text" type="text" id="edit-distance-search-distance" name="distance[search_distance]" value="100" size="60" maxlength="128" />
+</div>
+</div><div class="clutchreview_rfe"><div class="form-type-select form-item-distance-search-units form-item form-group">
+<select class="form-control form-select" id="edit-distance-search-units" name="distance[search_units]"><option value="mile" selected="selected">Miles</option><option value="km">Kilometers</option></select>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+<button class="btn-apply btn btn-info form-submit form-submit" type="submit" id="edit-submit-lm-web-dev-java" name="" value="Apply">Apply</button>
+<button class="btn-link btn-clear btn form-submit form-submit" type="submit" id="edit-reset" name="op" value="&lt;i class=&quot;glyphicon glyphicon-remove-circle&quot;&gt;&lt;/i&gt; Clear all"><i class="glyphicon glyphicon-remove-circle"></i> Clear all</button>
+</div>
+</div>
+</div>
+</div></div></form> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="main-container container">
+<div class="row">
+<section class="col-xs-12">
+<div class="main-tab-content tab-content">
+<div class="tab-pane active" id="">
+<a id="main-content"></a>
+<div class="view view-lm-web-dev-java view-id-lm_web_dev_java view-display-id-directory top-companies directory view-dom-id-45362764561fd85b8eb32d75c9552d4e">
+<div class="list-header">
+<div class="row">
+<div class="col-xs-12">
+<div class="list-header-col list-title">
+<h2>Top Java Development Companies</h2>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12">
+<div class="view-rows" data-clutch-graph-name="lm_web_dev_java">
+<div class="directory-list"> <ul> <li class="provider-row"><div class="row" data-clutch-nid="118426">
+<div class="col-xs-12 col-md-10 bordered-right provider-base-info">
+<div class="row provider-row-header">
+<div class="col-xs-12">
+<div class="company-logo">
+<a href="https://clutch.co/profile/itsilesia" target="_blank">
+<img property="image" class="img-responsive" data-echo="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/logoitsilesia_0.png?itok=q8e_BBR1" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="65" alt="Virtual Reality Augmented Reality VR AR Solutions" /><noscript><img property="image" class="img-responsive" src="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/logoitsilesia_0.png?itok=q8e_BBR1" width="65" height="65" alt="Virtual Reality Augmented Reality VR AR Solutions" /></noscript> </a>
+</div>
+<h3 class="company-name">
+<a href="/profile/itsilesia" target="_blank">itSilesia</a> </h3>
+<p class="tagline">Virtual Reality Augmented Reality</p>
+<div class="rating-reviews"></div>
+</div>
+</div>
+<div class="row provider-info no-margin">
+<div class="col-xs-12 col-sm-6 col-md-3 provider-info__description">
+<blockquote class="blockquote-in-module"><p>"Quote." — Job Title, Company Name</p>
+</blockquote>
+</div>
+<div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
+<div class="module-list">
+<div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $10,000+ </div>
+<div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$25 - $49</span> / hr
+</div>
+<div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">10 - 49</span></div>
+<div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
+<span class="locality">Gliwice,</span>
+</span><span class="location-country">
+<span class="country-name">Poland</span>
+</span></div>
+</div>
+</div>
+<div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
+<div class="row">
+<div class="directory-graph directory-main-bar">
+<div class="graph-title">Service focus</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-118426" data-clutch-toggle="graph" data-clutch-graph-nid="118426"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-118426" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-118426" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-118426" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+<div class="directory-graph directory-secondary-bar">
+<div class="graph-title second_bar_name">&nbsp;</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-118426-2" data-clutch-toggle="graph" data-clutch-graph-nid="118426" data-clutch-graph-type="sec"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-1184262" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-1184262" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-1184262" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-md-2 provider-link-details">
+<ul class="nav nav-pills nav-stacked nav-right-profile">
+<li class="website-link website-link-a">
+<a href="http://itsilesia.com" rel="nofollow" target="_blank">
+<i class="icon icon-visit-site"></i><span class="">Visit Website</span>
+</a>
+</li>
+<li>
+<a href="/profile/itsilesia" target="_blank">
+<span class="hidden-xs">View Profile</span>
+<i class="icon icon-profile"></i>
+</a>
+</li>
+<li>
+<a href="" class="contact">
+<span class="hidden-xs">Contact</span>
+<i class="icon icon-contact"></i>
+</a>
+<div class="contact-dropdown hide">
+<div class="contact-dropdown-header">
+<a href="#!" class="btn-close-contact pull-right"><i class="icon icon-close"></i></a>
+<div class="dropdown-title">CONTACT</div>
+</div>
+<div class="item">
+<i class="icon icon-mail visible-xs-inline"></i><a id='CwHQcgvjY' rel='nofollow'></a><script>var CwHQcgvjY = '#m#info@itsilesia.co';
+var CwHQcgvjY = CwHQcgvjY.split('#');
+document.getElementById('CwHQcgvjY').innerHTML = CwHQcgvjY[2]+CwHQcgvjY[1]+CwHQcgvjY[0];
+document.getElementById('CwHQcgvjY').href = 'mailto:'+CwHQcgvjY[2]+CwHQcgvjY[1]+CwHQcgvjY[0];
+</script>
+</div>
+<div class="line"></div>
+<div class="item __color6a">
+<i class="icon icon-phone visible-xs-inline"></i>+48608384069 </div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="provider-row"><div class="row" data-clutch-nid="126478">
+<div class="col-xs-12 col-md-10 bordered-right provider-base-info">
+<div class="row provider-row-header">
+<div class="col-xs-12">
+<div class="company-logo">
+<a href="https://clutch.co/profile/gsix" target="_blank">
+<img property="image" class="img-responsive" data-echo="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/gsixlogo200x200.png?itok=COwbtJ3g" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="65" alt="GSIX Logo" /><noscript><img property="image" class="img-responsive" src="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/gsixlogo200x200.png?itok=COwbtJ3g" width="65" height="65" alt="GSIX Logo" /></noscript> </a>
+</div>
+<h3 class="company-name">
+<a href="/profile/gsix" target="_blank">GSIX</a> </h3>
+<p class="tagline">Smart software solutions built from the heart</p>
+<div class="rating-reviews"></div>
+</div>
+</div>
+<div class="row provider-info no-margin">
+<div class="col-xs-12 col-sm-6 col-md-3 provider-info__description">
+<blockquote class="blockquote-in-module"><p>"Our blend of entrepreneurial skills and technical expertise allow us to easily understand client business needs and provide fast and reliable solutions." </p>
+</blockquote>
+</div>
+<div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
+<div class="module-list">
+<div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $10,000+ </div>
+<div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$50 - $99</span> / hr
+</div>
+<div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">10 - 49</span></div>
+<div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
+<span class="locality">Denver,</span>
+<span class="region">CO</span>
+</span><span class="location-country">
+</span></div>
+</div>
+</div>
+<div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
+<div class="row">
+<div class="directory-graph directory-main-bar">
+<div class="graph-title">Service focus</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-126478" data-clutch-toggle="graph" data-clutch-graph-nid="126478"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-126478" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-126478" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-126478" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+<div class="directory-graph directory-secondary-bar">
+<div class="graph-title second_bar_name">&nbsp;</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-126478-2" data-clutch-toggle="graph" data-clutch-graph-nid="126478" data-clutch-graph-type="sec"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-1264782" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-1264782" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-1264782" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-md-2 provider-link-details">
+<ul class="nav nav-pills nav-stacked nav-right-profile">
+<li class="website-link website-link-a">
+<a href="http://gsix.me" rel="nofollow" target="_blank">
+<i class="icon icon-visit-site"></i><span class="">Visit Website</span>
+</a>
+</li>
+<li>
+<a href="/profile/gsix" target="_blank">
+<span class="hidden-xs">View Profile</span>
+<i class="icon icon-profile"></i>
+</a>
+</li>
+<li>
+<a href="" class="contact">
+<span class="hidden-xs">Contact</span>
+<i class="icon icon-contact"></i>
+</a>
+<div class="contact-dropdown hide">
+<div class="contact-dropdown-header">
+<a href="#!" class="btn-close-contact pull-right"><i class="icon icon-close"></i></a>
+<div class="dropdown-title">CONTACT</div>
+</div>
+<div class="item">
+<i class="icon icon-mail visible-xs-inline"></i><a id='OfvDMVwKW' rel='nofollow'></a><script>var OfvDMVwKW = 'x.me##teddy@gsi';
+var OfvDMVwKW = OfvDMVwKW.split('#');
+document.getElementById('OfvDMVwKW').innerHTML = OfvDMVwKW[2]+OfvDMVwKW[0]+OfvDMVwKW[1];
+document.getElementById('OfvDMVwKW').href = 'mailto:'+OfvDMVwKW[2]+OfvDMVwKW[0]+OfvDMVwKW[1];
+</script>
+</div>
+<div class="line"></div>
+<div class="item __color6a">
+<i class="icon icon-phone visible-xs-inline"></i> </div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="provider-row"><div class="row" data-clutch-nid="210435">
+<div class="col-xs-12 col-md-10 bordered-right provider-base-info">
+<div class="row provider-row-header">
+<div class="col-xs-12">
+<div class="company-logo">
+<a href="https://clutch.co/profile/logikamente" target="_blank">
+<img property="image" class="img-responsive" data-echo="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/logikamente-clutch_3.jpg?itok=BhjC0AlT" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="64" height="65" alt="Logikamente web and app mobile development" /><noscript><img property="image" class="img-responsive" src="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/logikamente-clutch_3.jpg?itok=BhjC0AlT" width="64" height="65" alt="Logikamente web and app mobile development" /></noscript> </a>
+</div>
+<h3 class="company-name">
+<a href="/profile/logikamente" target="_blank">Logikamente</a> </h3>
+<p class="tagline">We believe in software culture!</p>
+<div class="rating-reviews"></div>
+</div>
+</div>
+ <div class="row provider-info no-margin">
+<div class="col-xs-12 col-sm-6 col-md-3 provider-info__description">
+<blockquote class="blockquote-in-module"><p>Logikamente is a full servic software and design firm deliving mobile apps and large scale web applications. </p>
+</blockquote>
+</div>
+<div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
+<div class="module-list">
+<div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $10,000+ </div>
+<div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$25 - $49</span> / hr
+</div>
+<div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">2 - 9</span></div>
+<div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
+<span class="locality">Ferrara,</span>
+</span><span class="location-country">
+<span class="country-name">Italy</span>
+</span></div>
+</div>
+</div>
+<div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
+<div class="row">
+<div class="directory-graph directory-main-bar">
+<div class="graph-title">Service focus</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-210435" data-clutch-toggle="graph" data-clutch-graph-nid="210435"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-210435" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-210435" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-210435" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+<div class="directory-graph directory-secondary-bar">
+<div class="graph-title second_bar_name">&nbsp;</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-210435-2" data-clutch-toggle="graph" data-clutch-graph-nid="210435" data-clutch-graph-type="sec"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-2104352" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-2104352" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-2104352" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-md-2 provider-link-details">
+<ul class="nav nav-pills nav-stacked nav-right-profile">
+<li class="website-link website-link-a">
+<a href="http://www.logikamente.com" rel="nofollow" target="_blank">
+<i class="icon icon-visit-site"></i><span class="">Visit Website</span>
+</a>
+</li>
+<li>
+<a href="/profile/logikamente" target="_blank">
+<span class="hidden-xs">View Profile</span>
+<i class="icon icon-profile"></i>
+</a>
+</li>
+<li>
+<a href="" class="contact">
+<span class="hidden-xs">Contact</span>
+<i class="icon icon-contact"></i>
+</a>
+<div class="contact-dropdown hide">
+<div class="contact-dropdown-header">
+<a href="#!" class="btn-close-contact pull-right"><i class="icon icon-close"></i></a>
+<div class="dropdown-title">CONTACT</div>
+</div>
+<div class="item">
+<i class="icon icon-mail visible-xs-inline"></i><a id='dyQJKUvbi' rel='nofollow'></a><script>var dyQJKUvbi = '#t#info@logikamente.i';
+var dyQJKUvbi = dyQJKUvbi.split('#');
+document.getElementById('dyQJKUvbi').innerHTML = dyQJKUvbi[2]+dyQJKUvbi[1]+dyQJKUvbi[0];
+document.getElementById('dyQJKUvbi').href = 'mailto:'+dyQJKUvbi[2]+dyQJKUvbi[1]+dyQJKUvbi[0];
+</script>
+</div>
+<div class="line"></div>
+<div class="item __color6a">
+<i class="icon icon-phone visible-xs-inline"></i>+39 0532 206288 </div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="provider-row"><div class="row" data-clutch-nid="69384">
+<div class="col-xs-12 col-md-10 bordered-right provider-base-info">
+<div class="row provider-row-header">
+<div class="col-xs-12">
+<div class="company-logo">
+<a href="https://clutch.co/profile/apzumi" target="_blank">
+<img property="image" class="img-responsive" data-echo="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/apzumi_logo.png?itok=Ylyle9I5" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="24" alt="" /><noscript><img property="image" class="img-responsive" src="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/apzumi_logo.png?itok=Ylyle9I5" width="65" height="24" alt="" /></noscript> </a>
+</div>
+<h3 class="company-name">
+<a href="/profile/apzumi" target="_blank">Apzumi</a> </h3>
+<p class="tagline">Custom Software Develoment, MVP, Startup Advisory</p>
+<div class="rating-reviews"></div>
+</div>
+</div>
+<div class="row provider-info no-margin">
+<div class="col-xs-12 col-sm-6 col-md-3 provider-info__description">
+<blockquote class="blockquote-in-module"><p>Apzumi is a Computer Software company that specializes in Software and App Development...</p>
+</blockquote>
+</div>
+<div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
+<div class="module-list">
+<div class="list-item undisclosed"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> Undisclosed</div>
+<div class="list-item undisclosed"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> Undisclosed</div>
+<div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">10 - 49</span></div>
+<div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
+</span><span class="location-country">
+</span></div>
+</div>
+</div>
+<div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
+<div class="row">
+<div class="directory-graph directory-main-bar">
+<div class="graph-title">Service focus</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-69384" data-clutch-toggle="graph" data-clutch-graph-nid="69384"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-69384" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-69384" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-69384" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+<div class="directory-graph directory-secondary-bar">
+<div class="graph-title second_bar_name">&nbsp;</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-69384-2" data-clutch-toggle="graph" data-clutch-graph-nid="69384" data-clutch-graph-type="sec"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-693842" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-693842" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-693842" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-md-2 provider-link-details">
+<ul class="nav nav-pills nav-stacked nav-right-profile">
+<li class="website-link website-link-a">
+<a href="http://apzumi.com" rel="nofollow" target="_blank">
+<i class="icon icon-visit-site"></i><span class="">Visit Website</span>
+</a>
+</li>
+<li>
+<a href="/profile/apzumi" target="_blank">
+<span class="hidden-xs">View Profile</span>
+<i class="icon icon-profile"></i>
+</a>
+</li>
+<li>
+<a href="" class="contact">
+<span class="hidden-xs">Contact</span>
+<i class="icon icon-contact"></i>
+</a>
+<div class="contact-dropdown hide">
+<div class="contact-dropdown-header">
+<a href="#!" class="btn-close-contact pull-right"><i class="icon icon-close"></i></a>
+<div class="dropdown-title">CONTACT</div>
+</div>
+<div class="item">
+<i class="icon icon-mail visible-xs-inline"></i><a id='vBShKmpJW' rel='nofollow'></a><script>var vBShKmpJW = 'act@#om#cont##apzu#mi.c';
+var vBShKmpJW = vBShKmpJW.split('#');
+document.getElementById('vBShKmpJW').innerHTML = vBShKmpJW[2]+vBShKmpJW[0]+vBShKmpJW[4]+vBShKmpJW[5]+vBShKmpJW[1]+vBShKmpJW[3];
+document.getElementById('vBShKmpJW').href = 'mailto:'+vBShKmpJW[2]+vBShKmpJW[0]+vBShKmpJW[4]+vBShKmpJW[5]+vBShKmpJW[1]+vBShKmpJW[3];
+</script>
+</div>
+<div class="line"></div>
+<div class="item __color6a">
+<i class="icon icon-phone visible-xs-inline"></i> </div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="provider-row"><div class="row" data-clutch-nid="234888">
+<div class="col-xs-12 col-md-10 bordered-right provider-base-info">
+<div class="row provider-row-header">
+<div class="col-xs-12">
+<div class="company-logo">
+<a href="https://clutch.co/profile/codex-software" target="_blank">
+<img property="image" class="img-responsive" data-echo="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/codex-logo-jpg2.jpg?itok=vl7VUHfi" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="65" alt="Codex Software logo" /><noscript><img property="image" class="img-responsive" src="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/codex-logo-jpg2.jpg?itok=vl7VUHfi" width="65" height="65" alt="Codex Software logo" /></noscript> </a>
+</div>
+<h3 class="company-name">
+<a href="/profile/codex-software" target="_blank">Codex Software</a> </h3>
+<p class="tagline">Web | Mobile | Big Data | Cloud | Printing</p>
+<div class="rating-reviews"></div>
+</div>
+</div>
+<div class="row provider-info no-margin">
+<div class="col-xs-12 col-sm-6 col-md-3 provider-info__description">
+<blockquote class="blockquote-in-module"><p>Located in Belarus, Codex Software provides big data, data mining, scalable web apps, e-commerce and mobile applications. </p>
+</blockquote>
+</div>
+<div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
+<div class="module-list">
+<div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $1,000+ </div>
+<div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$25 - $49</span> / hr
+</div>
+<div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">10 - 49</span></div>
+<div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
+<span class="locality">Minsk,</span>
+</span><span class="location-country">
+<span class="country-name">Belarus</span>
+</span></div>
+</div>
+</div>
+<div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
+<div class="row">
+<div class="directory-graph directory-main-bar">
+<div class="graph-title">Service focus</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-234888" data-clutch-toggle="graph" data-clutch-graph-nid="234888"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-234888" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-234888" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-234888" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+ </a>
+</div>
+</div>
+</div>
+<div class="directory-graph directory-secondary-bar">
+<div class="graph-title second_bar_name">&nbsp;</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-234888-2" data-clutch-toggle="graph" data-clutch-graph-nid="234888" data-clutch-graph-type="sec"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-2348882" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-2348882" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-2348882" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-md-2 provider-link-details">
+<ul class="nav nav-pills nav-stacked nav-right-profile">
+<li class="website-link website-link-a">
+<a href="http://codex-soft.com" rel="nofollow" target="_blank">
+<i class="icon icon-visit-site"></i><span class="">Visit Website</span>
+</a>
+</li>
+<li>
+<a href="/profile/codex-software" target="_blank">
+<span class="hidden-xs">View Profile</span>
+<i class="icon icon-profile"></i>
+</a>
+</li>
+<li>
+<a href="" class="contact">
+<span class="hidden-xs">Contact</span>
+<i class="icon icon-contact"></i>
+</a>
+<div class="contact-dropdown hide">
+<div class="contact-dropdown-header">
+<a href="#!" class="btn-close-contact pull-right"><i class="icon icon-close"></i></a>
+<div class="dropdown-title">CONTACT</div>
+</div>
+<div class="item">
+<i class="icon icon-mail visible-xs-inline"></i><a id='ZFGKbERuf' rel='nofollow'></a><script>var ZFGKbERuf = '#m#contact@codex-soft.co';
+var ZFGKbERuf = ZFGKbERuf.split('#');
+document.getElementById('ZFGKbERuf').innerHTML = ZFGKbERuf[2]+ZFGKbERuf[1]+ZFGKbERuf[0];
+document.getElementById('ZFGKbERuf').href = 'mailto:'+ZFGKbERuf[2]+ZFGKbERuf[1]+ZFGKbERuf[0];
+</script>
+</div>
+<div class="line"></div>
+<div class="item __color6a">
+<i class="icon icon-phone visible-xs-inline"></i> </div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="provider-row"><div class="row" data-clutch-nid="233802">
+<div class="col-xs-12 col-md-10 bordered-right provider-base-info">
+<div class="row provider-row-header">
+<div class="col-xs-12">
+<div class="company-logo">
+<a href="https://clutch.co/profile/sciforce-solutions" target="_blank">
+<img property="image" class="img-responsive" data-echo="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/sciforce.png?itok=XINfQT7B" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="65" alt="sciforce logo" /><noscript><img property="image" class="img-responsive" src="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/sciforce.png?itok=XINfQT7B" width="65" height="65" alt="sciforce logo" /></noscript> </a>
+</div>
+<h3 class="company-name">
+<a href="/profile/sciforce-solutions" target="_blank">Sciforce Solutions</a> </h3>
+<p class="tagline">knowledge is power</p>
+<div class="rating-reviews"></div>
+</div>
+</div>
+<div class="row provider-info no-margin">
+<div class="col-xs-12 col-sm-6 col-md-3 provider-info__description">
+<blockquote class="blockquote-in-module"><p>Located in Ukraine, Sciforce Solutions provides UI/UX, quality assurance, web and software development. </p>
+</blockquote>
+</div>
+<div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
+<div class="module-list">
+<div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $50,000+ </div>
+<div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$25 - $49</span> / hr
+</div>
+<div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">10 - 49</span></div>
+<div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
+<span class="locality">Kharkiv,</span>
+</span><span class="location-country">
+<span class="country-name">Ukraine</span>
+</span></div>
+</div>
+</div>
+<div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
+<div class="row">
+<div class="directory-graph directory-main-bar">
+<div class="graph-title">Service focus</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-233802" data-clutch-toggle="graph" data-clutch-graph-nid="233802"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-233802" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-233802" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-233802" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+<div class="directory-graph directory-secondary-bar">
+<div class="graph-title second_bar_name">&nbsp;</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-233802-2" data-clutch-toggle="graph" data-clutch-graph-nid="233802" data-clutch-graph-type="sec"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-2338022" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-2338022" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-2338022" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-md-2 provider-link-details">
+<ul class="nav nav-pills nav-stacked nav-right-profile">
+<li class="website-link website-link-a">
+<a href="https://sciforce.solutions" rel="nofollow" target="_blank">
+<i class="icon icon-visit-site"></i><span class="">Visit Website</span>
+</a>
+</li>
+<li>
+<a href="/profile/sciforce-solutions" target="_blank">
+<span class="hidden-xs">View Profile</span>
+<i class="icon icon-profile"></i>
+</a>
+</li>
+<li>
+<a href="" class="contact">
+<span class="hidden-xs">Contact</span>
+<i class="icon icon-contact"></i>
+</a>
+<div class="contact-dropdown hide">
+<div class="contact-dropdown-header">
+<a href="#!" class="btn-close-contact pull-right"><i class="icon icon-close"></i></a>
+<div class="dropdown-title">CONTACT</div>
+</div>
+<div class="item">
+<i class="icon icon-mail visible-xs-inline"></i> </div>
+<div class="line"></div>
+<div class="item __color6a">
+<i class="icon icon-phone visible-xs-inline"></i>+380 50 55 21 448 </div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="provider-row"><div class="row" data-clutch-nid="206862">
+<div class="col-xs-12 col-md-10 bordered-right provider-base-info">
+<div class="row provider-row-header">
+<div class="col-xs-12">
+<div class="company-logo">
+ <a href="https://clutch.co/profile/antares-code-studio" target="_blank">
+<img property="image" class="img-responsive" data-echo="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/logo-black-bg-color-center-200x200.jpg?itok=BY1u0-Qw" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="65" alt="Antares Code Studio" /><noscript><img property="image" class="img-responsive" src="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/logo-black-bg-color-center-200x200.jpg?itok=BY1u0-Qw" width="65" height="65" alt="Antares Code Studio" /></noscript> </a>
+</div>
+<h3 class="company-name">
+<a href="/profile/antares-code-studio" target="_blank">Antares Code Studio</a> </h3>
+<p class="tagline">Turn Your IDEA Into VALUE</p>
+<div class="rating-reviews"></div>
+</div>
+</div>
+<div class="row provider-info no-margin">
+<div class="col-xs-12 col-sm-6 col-md-3 provider-info__description">
+<blockquote class="blockquote-in-module"><p>Antares Code Studio is a German development company focusing on web, mobile, and custom software development and design. </p>
+</blockquote>
+</div>
+<div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
+<div class="module-list">
+<div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $5,000+ </div>
+<div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$25 - $49</span> / hr
+</div>
+<div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">10 - 49</span></div>
+<div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
+<span class="locality">London,</span>
+</span><span class="location-country">
+<span class="country-name">United Kingdom</span>
+</span></div>
+</div>
+</div>
+<div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
+<div class="row">
+<div class="directory-graph directory-main-bar">
+<div class="graph-title">Service focus</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-206862" data-clutch-toggle="graph" data-clutch-graph-nid="206862"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-206862" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-206862" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-206862" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+<div class="directory-graph directory-secondary-bar">
+<div class="graph-title second_bar_name">&nbsp;</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-206862-2" data-clutch-toggle="graph" data-clutch-graph-nid="206862" data-clutch-graph-type="sec"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-2068622" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-2068622" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-2068622" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-md-2 provider-link-details">
+<ul class="nav nav-pills nav-stacked nav-right-profile">
+<li class="website-link website-link-a">
+<a href="http://www.antarescodestudio.com" rel="nofollow" target="_blank">
+<i class="icon icon-visit-site"></i><span class="">Visit Website</span>
+</a>
+</li>
+<li>
+<a href="/profile/antares-code-studio" target="_blank">
+<span class="hidden-xs">View Profile</span>
+<i class="icon icon-profile"></i>
+</a>
+</li>
+<li>
+<a href="" class="contact">
+<span class="hidden-xs">Contact</span>
+<i class="icon icon-contact"></i>
+</a>
+<div class="contact-dropdown hide">
+<div class="contact-dropdown-header">
+<a href="#!" class="btn-close-contact pull-right"><i class="icon icon-close"></i></a>
+<div class="dropdown-title">CONTACT</div>
+</div>
+<div class="item">
+<i class="icon icon-mail visible-xs-inline"></i><a id='jXRsOyiWP' rel='nofollow'></a><script>var jXRsOyiWP = 'tudio.com#arescodes##hello@ant';
+var jXRsOyiWP = jXRsOyiWP.split('#');
+document.getElementById('jXRsOyiWP').innerHTML = jXRsOyiWP[3]+jXRsOyiWP[1]+jXRsOyiWP[0]+jXRsOyiWP[2];
+document.getElementById('jXRsOyiWP').href = 'mailto:'+jXRsOyiWP[3]+jXRsOyiWP[1]+jXRsOyiWP[0]+jXRsOyiWP[2];
+</script>
+</div>
+<div class="line"></div>
+<div class="item __color6a">
+<i class="icon icon-phone visible-xs-inline"></i>+44 7888 896 869 </div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="provider-row"><div class="row" data-clutch-nid="245709">
+<div class="col-xs-12 col-md-10 bordered-right provider-base-info">
+<div class="row provider-row-header">
+<div class="col-xs-12">
+<div class="company-logo">
+<a href="https://clutch.co/profile/radian-soft" target="_blank">
+<img property="image" class="img-responsive" data-echo="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/compass_kopiya.png?itok=HezasEed" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="55" height="65" alt="Radian Soft Logo" /><noscript><img property="image" class="img-responsive" src="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/compass_kopiya.png?itok=HezasEed" width="55" height="65" alt="Radian Soft Logo" /></noscript> </a>
+</div>
+<h3 class="company-name">
+<a href="/profile/radian-soft" target="_blank">Radian Soft</a> </h3>
+<p class="tagline">IT solutions for your business</p>
+<div class="rating-reviews"></div>
+</div>
+</div>
+<div class="row provider-info no-margin">
+<div class="col-xs-12 col-sm-6 col-md-3 provider-info__description">
+<blockquote class="blockquote-in-module"><p>Radian Soft offers clients with IT solutions that include machine learning and artificial intelligence. </p>
+</blockquote>
+</div>
+<div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
+<div class="module-list">
+<div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $5,000+ </div>
+<div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$25 - $49</span> / hr
+</div>
+<div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">10 - 49</span></div>
+<div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
+<span class="locality">Sheridan,</span>
+<span class="region">WY</span>
+</span><span class="location-country">
+</span></div>
+</div>
+</div>
+<div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
+<div class="row">
+<div class="directory-graph directory-main-bar">
+<div class="graph-title">Service focus</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-245709" data-clutch-toggle="graph" data-clutch-graph-nid="245709"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-245709" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-245709" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-245709" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+<div class="directory-graph directory-secondary-bar">
+<div class="graph-title second_bar_name">&nbsp;</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-245709-2" data-clutch-toggle="graph" data-clutch-graph-nid="245709" data-clutch-graph-type="sec"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-2457092" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-2457092" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-2457092" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-md-2 provider-link-details">
+<ul class="nav nav-pills nav-stacked nav-right-profile">
+<li class="website-link website-link-a">
+<a href="http://radiansoft.com" rel="nofollow" target="_blank">
+<i class="icon icon-visit-site"></i><span class="">Visit Website</span>
+</a>
+</li>
+<li>
+<a href="/profile/radian-soft" target="_blank">
+<span class="hidden-xs">View Profile</span>
+<i class="icon icon-profile"></i>
+</a>
+</li>
+<li>
+<a href="" class="contact">
+<span class="hidden-xs">Contact</span>
+<i class="icon icon-contact"></i>
+</a>
+<div class="contact-dropdown hide">
+<div class="contact-dropdown-header">
+<a href="#!" class="btn-close-contact pull-right"><i class="icon icon-close"></i></a>
+<div class="dropdown-title">CONTACT</div>
+</div>
+<div class="item">
+<i class="icon icon-mail visible-xs-inline"></i><a id='pCVOhbBjM' rel='nofollow'></a><script>var pCVOhbBjM = '#radianso#a.safta@#ft.com';
+var pCVOhbBjM = pCVOhbBjM.split('#');
+document.getElementById('pCVOhbBjM').innerHTML = pCVOhbBjM[2]+pCVOhbBjM[1]+pCVOhbBjM[3]+pCVOhbBjM[0];
+document.getElementById('pCVOhbBjM').href = 'mailto:'+pCVOhbBjM[2]+pCVOhbBjM[1]+pCVOhbBjM[3]+pCVOhbBjM[0];
+</script>
+</div>
+<div class="line"></div>
+<div class="item __color6a">
+<i class="icon icon-phone visible-xs-inline"></i>+1 929 214 1154 </div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="provider-row"><div class="row" data-clutch-nid="286840">
+<div class="col-xs-12 col-md-10 bordered-right provider-base-info">
+<div class="row provider-row-header">
+<div class="col-xs-12">
+<div class="company-logo">
+<a href="https://clutch.co/profile/big-city-apps" target="_blank">
+<img property="image" class="img-responsive" data-echo="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/02_img_de_profil.jpg?itok=MFQSWxqc" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="65" alt="Big City Apps" /><noscript><img property="image" class="img-responsive" src="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/02_img_de_profil.jpg?itok=MFQSWxqc" width="65" height="65" alt="Big City Apps" /></noscript> </a>
+</div>
+<h3 class="company-name">
+<a href="/profile/big-city-apps" target="_blank">Big City Apps</a> </h3>
+<p class="tagline">App, Web & Software Dev. Company, based in Europe</p>
+<div class="rating-reviews"></div>
+</div>
+</div>
+<div class="row provider-info no-margin">
+<div class="col-xs-12 col-sm-6 col-md-3 provider-info__description">
+<blockquote class="blockquote-in-module"><p>"Quote." — Job Title, Company Name</p>
+</blockquote>
+</div>
+<div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
+<div class="module-list">
+<div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $5,000+ </div>
+<div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">&lt; $25</span> / hr
+</div>
+<div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">10 - 49</span></div>
+<div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
+<span class="locality">Oradea,</span>
+</span><span class="location-country">
+<span class="country-name">Romania</span>
+</span></div>
+</div>
+</div>
+<div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
+<div class="row">
+<div class="directory-graph directory-main-bar">
+<div class="graph-title">Service focus</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-286840" data-clutch-toggle="graph" data-clutch-graph-nid="286840"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-286840" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-286840" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-286840" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+<div class="directory-graph directory-secondary-bar">
+<div class="graph-title second_bar_name">&nbsp;</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-286840-2" data-clutch-toggle="graph" data-clutch-graph-nid="286840" data-clutch-graph-type="sec"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-2868402" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-2868402" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-2868402" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-md-2 provider-link-details">
+<ul class="nav nav-pills nav-stacked nav-right-profile">
+<li class="website-link website-link-a">
+<a href="https://bigcityapps.ro/en/" rel="nofollow" target="_blank">
+<i class="icon icon-visit-site"></i><span class="">Visit Website</span>
+</a>
+</li>
+<li>
+<a href="/profile/big-city-apps" target="_blank">
+<span class="hidden-xs">View Profile</span>
+<i class="icon icon-profile"></i>
+</a>
+</li>
+<li>
+<a href="" class="contact">
+<span class="hidden-xs">Contact</span>
+<i class="icon icon-contact"></i>
+</a>
+<div class="contact-dropdown hide">
+<div class="contact-dropdown-header">
+<a href="#!" class="btn-close-contact pull-right"><i class="icon icon-close"></i></a>
+<div class="dropdown-title">CONTACT</div>
+</div>
+<div class="item">
+<i class="icon icon-mail visible-xs-inline"></i><a id='QMNjFiKhk' rel='nofollow'></a><script>var QMNjFiKhk = 'cont##pps.#ro#bigc#act@#itya';
+var QMNjFiKhk = QMNjFiKhk.split('#');
+document.getElementById('QMNjFiKhk').innerHTML = QMNjFiKhk[0]+QMNjFiKhk[5]+QMNjFiKhk[4]+QMNjFiKhk[6]+QMNjFiKhk[2]+QMNjFiKhk[3]+QMNjFiKhk[1];
+document.getElementById('QMNjFiKhk').href = 'mailto:'+QMNjFiKhk[0]+QMNjFiKhk[5]+QMNjFiKhk[4]+QMNjFiKhk[6]+QMNjFiKhk[2]+QMNjFiKhk[3]+QMNjFiKhk[1];
+</script>
+</div>
+<div class="line"></div>
+<div class="item __color6a">
+<i class="icon icon-phone visible-xs-inline"></i>+40751 606 265 </div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="provider-row"><div class="row" data-clutch-nid="334393">
+<div class="col-xs-12 col-md-10 bordered-right provider-base-info">
+<div class="row provider-row-header">
+<div class="col-xs-12">
+<div class="company-logo">
+<a href="https://clutch.co/profile/mageplaza" target="_blank">
+<img property="image" class="img-responsive" data-echo="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/mm_avatar.jpg?itok=4lEkVaFP" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="65" alt="Magento Development Company India" /><noscript><img property="image" class="img-responsive" src="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/mm_avatar.jpg?itok=4lEkVaFP" width="65" height="65" alt="Magento Development Company India" /></noscript> </a>
+</div>
+<h3 class="company-name">
+<a href="/profile/mageplaza" target="_blank">Mageplaza</a> </h3>
+<p class="tagline">Web design, web development and support.</p>
+<div class="rating-reviews"></div>
+</div>
+</div>
+<div class="row provider-info no-margin">
+<div class="col-xs-12 col-sm-6 col-md-3 provider-info__description">
+<blockquote class="blockquote-in-module"><p>Magento Development Company is an India Agency that specializes in Magento eCommerce.</p>
+</blockquote>
+</div>
+<div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
+<div class="module-list">
+<div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $1,000+ </div>
+<div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$100 - $149</span> / hr
+</div>
+<div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">10 - 49</span></div>
+<div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
+<span class="locality">Noida,</span>
+</span><span class="location-country">
+ <span class="country-name">India</span>
+</span></div>
+</div>
+</div>
+<div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
+<div class="row">
+<div class="directory-graph directory-main-bar">
+<div class="graph-title">Service focus</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-334393" data-clutch-toggle="graph" data-clutch-graph-nid="334393"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-334393" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-334393" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-334393" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+<div class="directory-graph directory-secondary-bar">
+<div class="graph-title second_bar_name">&nbsp;</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-334393-2" data-clutch-toggle="graph" data-clutch-graph-nid="334393" data-clutch-graph-type="sec"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-3343932" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-3343932" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-3343932" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-md-2 provider-link-details">
+<ul class="nav nav-pills nav-stacked nav-right-profile">
+<li class="website-link website-link-a">
+<a href="https://www.mageplaza.com/" rel="nofollow" target="_blank">
+<i class="icon icon-visit-site"></i><span class="">Visit Website</span>
+</a>
+</li>
+<li>
+<a href="/profile/mageplaza" target="_blank">
+<span class="hidden-xs">View Profile</span>
+<i class="icon icon-profile"></i>
+</a>
+</li>
+<li>
+<a href="" class="contact">
+<span class="hidden-xs">Contact</span>
+<i class="icon icon-contact"></i>
+</a>
+<div class="contact-dropdown hide">
+<div class="contact-dropdown-header">
+<a href="#!" class="btn-close-contact pull-right"><i class="icon icon-close"></i></a>
+<div class="dropdown-title">CONTACT</div>
+</div>
+<div class="item">
+<i class="icon icon-mail visible-xs-inline"></i><a id='XIwaurgSj' rel='nofollow'></a><script>var XIwaurgSj = 'haonv@mage##plaza.com';
+var XIwaurgSj = XIwaurgSj.split('#');
+document.getElementById('XIwaurgSj').innerHTML = XIwaurgSj[0]+XIwaurgSj[2]+XIwaurgSj[1];
+document.getElementById('XIwaurgSj').href = 'mailto:'+XIwaurgSj[0]+XIwaurgSj[2]+XIwaurgSj[1];
+</script>
+</div>
+<div class="line"></div>
+<div class="item __color6a">
+<i class="icon icon-phone visible-xs-inline"></i> </div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="provider-row"><div class="row" data-clutch-nid="340294">
+<div class="col-xs-12 col-md-10 bordered-right provider-base-info">
+<div class="row provider-row-header">
+<div class="col-xs-12">
+<div class="company-logo">
+<a href="https://clutch.co/profile/applover-software-house" target="_blank">
+<img property="image" class="img-responsive" data-echo="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/apllover_logo_0.png?itok=MYfT0ABi" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="65" alt="Applover Software House logo" /><noscript><img property="image" class="img-responsive" src="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/apllover_logo_0.png?itok=MYfT0ABi" width="65" height="65" alt="Applover Software House logo" /></noscript> </a>
+</div>
+<h3 class="company-name">
+<a href="/profile/applover-software-house" target="_blank">Applover Software House</a> </h3>
+<p class="tagline">We develop high quality products, from scratch. </p>
+<div class="rating-reviews"></div>
+</div>
+</div>
+<div class="row provider-info no-margin">
+<div class="col-xs-12 col-sm-6 col-md-3 provider-info__description">
+<blockquote class="blockquote-in-module"><p>Founded in 2014, Applover specializes in Web, App, and Software Development.</p>
+</blockquote>
+</div>
+<div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
+<div class="module-list">
+<div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $5,000+ </div>
+<div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$25 - $49</span> / hr
+</div>
+<div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">10 - 49</span></div>
+<div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
+<span class="locality">Wrocław,</span>
+</span><span class="location-country">
+<span class="country-name">Poland</span>
+</span></div>
+</div>
+</div>
+<div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
+<div class="row">
+<div class="directory-graph directory-main-bar">
+<div class="graph-title">Service focus</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-340294" data-clutch-toggle="graph" data-clutch-graph-nid="340294"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-340294" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-340294" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-340294" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+<div class="directory-graph directory-secondary-bar">
+<div class="graph-title second_bar_name">&nbsp;</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-340294-2" data-clutch-toggle="graph" data-clutch-graph-nid="340294" data-clutch-graph-type="sec"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-3402942" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-3402942" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-3402942" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-md-2 provider-link-details">
+<ul class="nav nav-pills nav-stacked nav-right-profile">
+<li class="website-link website-link-a">
+<a href="http://www.applover.pl" rel="nofollow" target="_blank">
+<i class="icon icon-visit-site"></i><span class="">Visit Website</span>
+</a>
+</li>
+<li>
+<a href="/profile/applover-software-house" target="_blank">
+<span class="hidden-xs">View Profile</span>
+<i class="icon icon-profile"></i>
+</a>
+</li>
+<li>
+<a href="" class="contact">
+<span class="hidden-xs">Contact</span>
+<i class="icon icon-contact"></i>
+</a>
+<div class="contact-dropdown hide">
+<div class="contact-dropdown-header">
+<a href="#!" class="btn-close-contact pull-right"><i class="icon icon-close"></i></a>
+<div class="dropdown-title">CONTACT</div>
+</div>
+<div class="item">
+<i class="icon icon-mail visible-xs-inline"></i><a id='lRXPBEUHf' rel='nofollow'></a><script>var lRXPBEUHf = 'jan@applover.pl#';
+var lRXPBEUHf = lRXPBEUHf.split('#');
+document.getElementById('lRXPBEUHf').innerHTML = lRXPBEUHf[0]+lRXPBEUHf[1];
+document.getElementById('lRXPBEUHf').href = 'mailto:'+lRXPBEUHf[0]+lRXPBEUHf[1];
+</script>
+</div>
+<div class="line"></div>
+<div class="item __color6a">
+<i class="icon icon-phone visible-xs-inline"></i>0048 722226022 </div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="provider-row"><div class="row" data-clutch-nid="196783">
+<div class="col-xs-12 col-md-10 bordered-right provider-base-info">
+<div class="row provider-row-header">
+<div class="col-xs-12">
+<div class="company-logo">
+<a href="https://clutch.co/profile/vinctus-technologies" target="_blank">
+<img property="image" class="img-responsive" data-echo="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/logo_372.png?itok=65oXHEw8" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="65" alt="" /><noscript><img property="image" class="img-responsive" src="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/logo_372.png?itok=65oXHEw8" width="65" height="65" alt="" /></noscript> </a>
+</div>
+<h3 class="company-name">
+<a href="/profile/vinctus-technologies" target="_blank">Vinctus Technologies Inc.</a> </h3>
+<p class="tagline">Web and Mobile Application Development</p>
+<div class="rating-reviews"></div>
+ </div>
+</div>
+<div class="row provider-info no-margin">
+<div class="col-xs-12 col-sm-6 col-md-3 provider-info__description">
+<blockquote class="blockquote-in-module"><p>Vinctus is a development company that is based in Canada. They specialize in branding, design, and app development. </p>
+</blockquote>
+</div>
+<div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
+<div class="module-list">
+<div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $5,000+ </div>
+<div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$25 - $49</span> / hr
+</div>
+<div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">2 - 9</span></div>
+<div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
+<span class="locality">Montreal,</span>
+</span><span class="location-country">
+<span class="country-name">Canada</span>
+</span></div>
+</div>
+</div>
+<div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
+<div class="row">
+<div class="directory-graph directory-main-bar">
+<div class="graph-title">Service focus</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-196783" data-clutch-toggle="graph" data-clutch-graph-nid="196783"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-196783" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-196783" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-196783" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+<div class="directory-graph directory-secondary-bar">
+<div class="graph-title second_bar_name">&nbsp;</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-196783-2" data-clutch-toggle="graph" data-clutch-graph-nid="196783" data-clutch-graph-type="sec"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-1967832" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-1967832" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-1967832" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-md-2 provider-link-details">
+<ul class="nav nav-pills nav-stacked nav-right-profile">
+<li class="website-link website-link-a">
+<a href="http://vinctus.com" rel="nofollow" target="_blank">
+<i class="icon icon-visit-site"></i><span class="">Visit Website</span>
+</a>
+</li>
+<li>
+<a href="/profile/vinctus-technologies" target="_blank">
+<span class="hidden-xs">View Profile</span>
+<i class="icon icon-profile"></i>
+</a>
+</li>
+<li>
+<a href="" class="contact">
+<span class="hidden-xs">Contact</span>
+<i class="icon icon-contact"></i>
+</a>
+<div class="contact-dropdown hide">
+<div class="contact-dropdown-header">
+<a href="#!" class="btn-close-contact pull-right"><i class="icon icon-close"></i></a>
+<div class="dropdown-title">CONTACT</div>
+</div>
+<div class="item">
+<i class="icon icon-mail visible-xs-inline"></i><a id='dOzCJwlfj' rel='nofollow'></a><script>var dOzCJwlfj = 'nctu#m##s.co#sale#s@vi';
+var dOzCJwlfj = dOzCJwlfj.split('#');
+document.getElementById('dOzCJwlfj').innerHTML = dOzCJwlfj[4]+dOzCJwlfj[5]+dOzCJwlfj[0]+dOzCJwlfj[3]+dOzCJwlfj[1]+dOzCJwlfj[2];
+document.getElementById('dOzCJwlfj').href = 'mailto:'+dOzCJwlfj[4]+dOzCJwlfj[5]+dOzCJwlfj[0]+dOzCJwlfj[3]+dOzCJwlfj[1]+dOzCJwlfj[2];
+</script>
+</div>
+<div class="line"></div>
+<div class="item __color6a">
+<i class="icon icon-phone visible-xs-inline"></i>514-699-7622 </div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="provider-row"><div class="row" data-clutch-nid="262611">
+<div class="col-xs-12 col-md-10 bordered-right provider-base-info">
+<div class="row provider-row-header">
+<div class="col-xs-12">
+<div class="company-logo">
+<a href="https://clutch.co/profile/invental-solutions" target="_blank">
+<img property="image" class="img-responsive" data-echo="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/invental_solutions_logo_copy.png?itok=OGaB_3Ki" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="65" alt="Invental Solutions logo" /><noscript><img property="image" class="img-responsive" src="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/invental_solutions_logo_copy.png?itok=OGaB_3Ki" width="65" height="65" alt="Invental Solutions logo" /></noscript> </a>
+</div>
+<h3 class="company-name">
+<a href="/profile/invental-solutions" target="_blank">Invental Solutions</a> </h3>
+<p class="tagline">Outsource. Our people. Your success.</p>
+<div class="rating-reviews"></div>
+</div>
+</div>
+<div class="row provider-info no-margin">
+<div class="col-xs-12 col-sm-6 col-md-3 provider-info__description">
+<blockquote class="blockquote-in-module"><p>Interval Solutions provides mobile, web, and custom development services from the UK and Serbia.</p>
+</blockquote>
+</div>
+<div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
+<div class="module-list">
+<div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $10,000+ </div>
+<div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$25 - $49</span> / hr
+</div>
+<div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">2 - 9</span></div>
+<div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
+<span class="locality">Novi Sad,</span>
+</span><span class="location-country">
+<span class="country-name">Serbia</span>
+</span></div>
+</div>
+</div>
+<div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
+<div class="row">
+<div class="directory-graph directory-main-bar">
+<div class="graph-title">Service focus</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-262611" data-clutch-toggle="graph" data-clutch-graph-nid="262611"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-262611" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-262611" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-262611" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+<div class="directory-graph directory-secondary-bar">
+<div class="graph-title second_bar_name">&nbsp;</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-262611-2" data-clutch-toggle="graph" data-clutch-graph-nid="262611" data-clutch-graph-type="sec"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-2626112" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-2626112" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-2626112" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-md-2 provider-link-details">
+<ul class="nav nav-pills nav-stacked nav-right-profile">
+<li class="website-link website-link-a">
+<a href="http://www.inventals.com" rel="nofollow" target="_blank">
+<i class="icon icon-visit-site"></i><span class="">Visit Website</span>
+</a>
+</li>
+<li>
+<a href="/profile/invental-solutions" target="_blank">
+<span class="hidden-xs">View Profile</span>
+<i class="icon icon-profile"></i>
+</a>
+</li>
+<li>
+<a href="" class="contact">
+<span class="hidden-xs">Contact</span>
+<i class="icon icon-contact"></i>
+</a>
+<div class="contact-dropdown hide">
+<div class="contact-dropdown-header">
+<a href="#!" class="btn-close-contact pull-right"><i class="icon icon-close"></i></a>
+<div class="dropdown-title">CONTACT</div>
+</div>
+<div class="item">
+<i class="icon icon-mail visible-xs-inline"></i><a id='oJavstTlP' rel='nofollow'></a><script>var oJavstTlP = 'office#om##@inven#tals.c';
+var oJavstTlP = oJavstTlP.split('#');
+document.getElementById('oJavstTlP').innerHTML = oJavstTlP[0]+oJavstTlP[3]+oJavstTlP[4]+oJavstTlP[1]+oJavstTlP[2];
+document.getElementById('oJavstTlP').href = 'mailto:'+oJavstTlP[0]+oJavstTlP[3]+oJavstTlP[4]+oJavstTlP[1]+oJavstTlP[2];
+</script>
+</div>
+<div class="line"></div>
+<div class="item __color6a">
+<i class="icon icon-phone visible-xs-inline"></i>+381 64 2742091 </div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="provider-row"><div class="row" data-clutch-nid="96171">
+<div class="col-xs-12 col-md-10 bordered-right provider-base-info">
+<div class="row provider-row-header">
+<div class="col-xs-12">
+<div class="company-logo">
+<a href="https://clutch.co/profile/hashedin-technologies" target="_blank">
+<img property="image" class="img-responsive" data-echo="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/aaeaaqaaaaaaaag4aaaajdvin2qwnznklwy0zwqtngzioc1imdi5ltk5ztc3nweynwi3oq_0.png?itok=iJ9QGqUA" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="65" alt="HashedIn Logo" /><noscript><img property="image" class="img-responsive" src="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/aaeaaqaaaaaaaag4aaaajdvin2qwnznklwy0zwqtngzioc1imdi5ltk5ztc3nweynwi3oq_0.png?itok=iJ9QGqUA" width="65" height="65" alt="HashedIn Logo" /></noscript> </a>
+</div>
+<h3 class="company-name">
+<a href="/profile/hashedin-technologies" target="_blank">HashedIn Technologies</a> </h3>
+<p class="tagline">Wired for Speed</p>
+<div class="rating-reviews"></div>
+</div>
+</div>
+<div class="row provider-info no-margin">
+<div class="col-xs-12 col-sm-6 col-md-3 provider-info__description">
+<blockquote class="blockquote-in-module"><p>HashedIn develops custom web and mobile applications. We are experts in Django, AWS, ReactJS and React Native...</p>
+</blockquote>
+</div>
+<div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
+<div class="module-list">
+<div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $100,000+ </div>
+<div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$25 - $49</span> / hr
+</div>
+<div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">50 - 249</span></div>
+<div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
+<span class="locality">Bangalore,</span>
+</span><span class="location-country">
+<span class="country-name">India</span>
+</span></div>
+</div>
+</div>
+<div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
+<div class="row">
+<div class="directory-graph directory-main-bar">
+<div class="graph-title">Service focus</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-96171" data-clutch-toggle="graph" data-clutch-graph-nid="96171"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-96171" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-96171" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+ <span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-96171" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+<div class="directory-graph directory-secondary-bar">
+<div class="graph-title second_bar_name">&nbsp;</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-96171-2" data-clutch-toggle="graph" data-clutch-graph-nid="96171" data-clutch-graph-type="sec"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-961712" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-961712" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-961712" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-md-2 provider-link-details">
+<ul class="nav nav-pills nav-stacked nav-right-profile">
+<li class="website-link website-link-a">
+<a href="https://www.hashedin.com/" rel="nofollow" target="_blank">
+<i class="icon icon-visit-site"></i><span class="">Visit Website</span>
+</a>
+</li>
+<li>
+<a href="/profile/hashedin-technologies" target="_blank">
+<span class="hidden-xs">View Profile</span>
+<i class="icon icon-profile"></i>
+</a>
+</li>
+<li>
+<a href="" class="contact">
+<span class="hidden-xs">Contact</span>
+<i class="icon icon-contact"></i>
+</a>
+<div class="contact-dropdown hide">
+<div class="contact-dropdown-header">
+<a href="#!" class="btn-close-contact pull-right"><i class="icon icon-close"></i></a>
+<div class="dropdown-title">CONTACT</div>
+</div>
+<div class="item">
+<i class="icon icon-mail visible-xs-inline"></i><a id='jUPzsrdXy' rel='nofollow'></a><script>var jUPzsrdXy = 'din.com#contact@hashe#';
+var jUPzsrdXy = jUPzsrdXy.split('#');
+document.getElementById('jUPzsrdXy').innerHTML = jUPzsrdXy[1]+jUPzsrdXy[0]+jUPzsrdXy[2];
+document.getElementById('jUPzsrdXy').href = 'mailto:'+jUPzsrdXy[1]+jUPzsrdXy[0]+jUPzsrdXy[2];
+</script>
+</div>
+<div class="line"></div>
+<div class="item __color6a">
+<i class="icon icon-phone visible-xs-inline"></i>+91 80 6950 1777 </div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="provider-row"><div class="row" data-clutch-nid="96594">
+<div class="col-xs-12 col-md-10 bordered-right provider-base-info">
+<div class="row provider-row-header">
+<div class="col-xs-12">
+<div class="company-logo">
+<a href="https://clutch.co/profile/theta-technolabs" target="_blank">
+<img property="image" class="img-responsive" data-echo="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/thetatechnolabs_logo.png?itok=4f_xXfHL" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="52" alt="Theta Technolabs - Android, iOS , Yii Framework development" /><noscript><img property="image" class="img-responsive" src="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/thetatechnolabs_logo.png?itok=4f_xXfHL" width="65" height="52" alt="Theta Technolabs - Android, iOS , Yii Framework development" /></noscript> </a>
+</div>
+<h3 class="company-name">
+<a href="/profile/theta-technolabs" target="_blank">Theta Technolabs</a> </h3>
+<p class="tagline">We Make Things Which Help You To Make Things</p>
+<div class="rating-reviews"></div>
+</div>
+</div>
+<div class="row provider-info no-margin">
+<div class="col-xs-12 col-sm-6 col-md-3 provider-info__description">
+<p>Theta TechnoLabs is an Offshore Development Outsourcing IT Company that delivers IT based solutions. Their services include Web Design and Development, Mobile Apps, and ECommerce, and they specialize in Complex Web Solutions, Enterprise Solutions, and RESTful-APIs. </p>
+<blockquote class="blockquote-in-module"><p> </p>
+</blockquote>
+<p> </p>
+</div>
+<div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
+<div class="module-list">
+<div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $5,000+ </div>
+<div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">&lt; $25</span> / hr
+</div>
+<div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">10 - 49</span></div>
+<div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
+<span class="locality">Ahmedabad,</span>
+</span><span class="location-country">
+<span class="country-name">India</span>
+</span></div>
+</div>
+</div>
+<div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
+<div class="row">
+<div class="directory-graph directory-main-bar">
+<div class="graph-title">Service focus</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-96594" data-clutch-toggle="graph" data-clutch-graph-nid="96594"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-96594" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-96594" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-96594" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+<div class="directory-graph directory-secondary-bar">
+<div class="graph-title second_bar_name">&nbsp;</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-96594-2" data-clutch-toggle="graph" data-clutch-graph-nid="96594" data-clutch-graph-type="sec"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-965942" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-965942" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-965942" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-md-2 provider-link-details">
+<ul class="nav nav-pills nav-stacked nav-right-profile">
+<li class="website-link website-link-a">
+<a href="http://thetatechnolabs.com/" rel="nofollow" target="_blank">
+<i class="icon icon-visit-site"></i><span class="">Visit Website</span>
+</a>
+</li>
+<li>
+<a href="/profile/theta-technolabs" target="_blank">
+<span class="hidden-xs">View Profile</span>
+<i class="icon icon-profile"></i>
+</a>
+</li>
+<li>
+<a href="" class="contact">
+<span class="hidden-xs">Contact</span>
+<i class="icon icon-contact"></i>
+</a>
+<div class="contact-dropdown hide">
+<div class="contact-dropdown-header">
+<a href="#!" class="btn-close-contact pull-right"><i class="icon icon-close"></i></a>
+<div class="dropdown-title">CONTACT</div>
+</div>
+<div class="item">
+<i class="icon icon-mail visible-xs-inline"></i><a id='vxrywIZCh' rel='nofollow'></a><script>var vxrywIZCh = '#s.com#hello@thetatechnolab';
+var vxrywIZCh = vxrywIZCh.split('#');
+document.getElementById('vxrywIZCh').innerHTML = vxrywIZCh[2]+vxrywIZCh[1]+vxrywIZCh[0];
+document.getElementById('vxrywIZCh').href = 'mailto:'+vxrywIZCh[2]+vxrywIZCh[1]+vxrywIZCh[0];
+</script>
+</div>
+<div class="line"></div>
+<div class="item __color6a">
+<i class="icon icon-phone visible-xs-inline"></i>9601084579 </div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="provider-row"><div class="row" data-clutch-nid="89080">
+<div class="col-xs-12 col-md-10 bordered-right provider-base-info">
+<div class="row provider-row-header">
+<div class="col-xs-12">
+<div class="company-logo">
+<a href="https://clutch.co/profile/verum-visum" target="_blank">
+<img property="image" class="img-responsive" data-echo="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/verum_visum.jpg?itok=RGpU7auB" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="65" alt="Verum Visum logo" /><noscript><img property="image" class="img-responsive" src="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/verum_visum.jpg?itok=RGpU7auB" width="65" height="65" alt="Verum Visum logo" /></noscript> </a>
+</div>
+<h3 class="company-name">
+<a href="/profile/verum-visum" target="_blank">Verum Visum</a> </h3>
+<p class="tagline">Full-cycle virtual reality production company</p>
+<div class="rating-reviews"></div>
+</div>
+</div>
+<div class="row provider-info no-margin">
+<div class="col-xs-12 col-sm-6 col-md-3 provider-info__description">
+<blockquote class="blockquote-in-module"><p>Verum Visum produces 360 degree video content and creates high-quality virtual reality applications.</p>
+</blockquote>
+</div>
+<div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
+<div class="module-list">
+<div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $5,000+ </div>
+<div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$25 - $49</span> / hr
+</div>
+<div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">50 - 249</span></div>
+<div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
+<span class="locality">Kyiv,</span>
+</span><span class="location-country">
+<span class="country-name">Ukraine</span>
+</span></div>
+</div>
+</div>
+<div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
+<div class="row">
+<div class="directory-graph directory-main-bar">
+<div class="graph-title">Service focus</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-89080" data-clutch-toggle="graph" data-clutch-graph-nid="89080"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-89080" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-89080" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-89080" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+<div class="directory-graph directory-secondary-bar">
+<div class="graph-title second_bar_name">&nbsp;</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-89080-2" data-clutch-toggle="graph" data-clutch-graph-nid="89080" data-clutch-graph-type="sec"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-890802" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-890802" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-890802" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-md-2 provider-link-details">
+<ul class="nav nav-pills nav-stacked nav-right-profile">
+<li class="website-link website-link-a">
+<a href="http://verumvisum.com" rel="nofollow" target="_blank">
+<i class="icon icon-visit-site"></i><span class="">Visit Website</span>
+</a>
+</li>
+<li>
+<a href="/profile/verum-visum" target="_blank">
+<span class="hidden-xs">View Profile</span>
+<i class="icon icon-profile"></i>
+</a>
+</li>
+<li>
+<a href="" class="contact">
+<span class="hidden-xs">Contact</span>
+<i class="icon icon-contact"></i>
+</a>
+<div class="contact-dropdown hide">
+<div class="contact-dropdown-header">
+<a href="#!" class="btn-close-contact pull-right"><i class="icon icon-close"></i></a>
+<div class="dropdown-title">CONTACT</div>
+</div>
+<div class="item">
+<i class="icon icon-mail visible-xs-inline"></i><a id='mclkjUYnQ' rel='nofollow'></a><script>var mclkjUYnQ = 'isum.com#info@verumv#';
+var mclkjUYnQ = mclkjUYnQ.split('#');
+document.getElementById('mclkjUYnQ').innerHTML = mclkjUYnQ[1]+mclkjUYnQ[0]+mclkjUYnQ[2];
+document.getElementById('mclkjUYnQ').href = 'mailto:'+mclkjUYnQ[1]+mclkjUYnQ[0]+mclkjUYnQ[2];
+</script>
+</div>
+<div class="line"></div>
+<div class="item __color6a">
+<i class="icon icon-phone visible-xs-inline"></i>+380503585083 </div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="provider-row"><div class="row" data-clutch-nid="223847">
+<div class="col-xs-12 col-md-10 bordered-right provider-base-info">
+<div class="row provider-row-header">
+<div class="col-xs-12">
+<div class="company-logo">
+<a href="https://clutch.co/profile/martian-machine" target="_blank">
+<img property="image" class="img-responsive" data-echo="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/logo_72.png?itok=M4LY2eWM" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="65" alt="" /><noscript><img property="image" class="img-responsive" src="//static2.clutch.co/sites/default/files/styles/logo_small/public/logos/logo_72.png?itok=M4LY2eWM" width="65" height="65" alt="" /></noscript> </a>
+</div>
+<h3 class="company-name">
+<a href="/profile/martian-machine" target="_blank">Martian &amp; Machine</a> </h3>
+<p class="tagline">DIgital Product Agency</p>
+<div class="rating-reviews"></div>
+</div>
+</div>
+<div class="row provider-info no-margin">
+<div class="col-xs-12 col-sm-6 col-md-3 provider-info__description">
+<blockquote class="blockquote-in-module"><p>Our motto: Innovate like startups, leverage like corporates We partner with startups and corporates to help them grow their business. </p>
+</blockquote>
+</div>
+<div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
+<div class="module-list">
+<div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $10,000+ </div>
+<div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$50 - $99</span> / hr
+</div>
+<div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">10 - 49</span></div>
+<div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
+ <span class="locality">Berlin,</span>
+</span><span class="location-country">
+<span class="country-name">Germany</span>
+</span></div>
+</div>
+</div>
+<div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
+<div class="row">
+<div class="directory-graph directory-main-bar">
+<div class="graph-title">Service focus</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-223847" data-clutch-toggle="graph" data-clutch-graph-nid="223847"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-223847" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-223847" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-223847" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+<div class="directory-graph directory-secondary-bar">
+<div class="graph-title second_bar_name">&nbsp;</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-223847-2" data-clutch-toggle="graph" data-clutch-graph-nid="223847" data-clutch-graph-type="sec"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-2238472" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-2238472" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-2238472" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-md-2 provider-link-details">
+<ul class="nav nav-pills nav-stacked nav-right-profile">
+<li class="website-link website-link-a">
+<a href="http://martian.agency" rel="nofollow" target="_blank">
+<i class="icon icon-visit-site"></i><span class="">Visit Website</span>
+</a>
+</li>
+<li>
+<a href="/profile/martian-machine" target="_blank">
+<span class="hidden-xs">View Profile</span>
+<i class="icon icon-profile"></i>
+</a>
+</li>
+<li>
+<a href="" class="contact">
+<span class="hidden-xs">Contact</span>
+<i class="icon icon-contact"></i>
+</a>
+<div class="contact-dropdown hide">
+<div class="contact-dropdown-header">
+<a href="#!" class="btn-close-contact pull-right"><i class="icon icon-close"></i></a>
+<div class="dropdown-title">CONTACT</div>
+</div>
+<div class="item">
+<i class="icon icon-mail visible-xs-inline"></i><a id='gUwLouOXq' rel='nofollow'></a><script>var gUwLouOXq = 'hello@martian.age#ncy#';
+var gUwLouOXq = gUwLouOXq.split('#');
+document.getElementById('gUwLouOXq').innerHTML = gUwLouOXq[0]+gUwLouOXq[1]+gUwLouOXq[2];
+document.getElementById('gUwLouOXq').href = 'mailto:'+gUwLouOXq[0]+gUwLouOXq[1]+gUwLouOXq[2];
+</script>
+</div>
+<div class="line"></div>
+<div class="item __color6a">
+<i class="icon icon-phone visible-xs-inline"></i> </div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="provider-row"><div class="row" data-clutch-nid="92765">
+<div class="col-xs-12 col-md-10 bordered-right provider-base-info">
+<div class="row provider-row-header">
+<div class="col-xs-12">
+<div class="company-logo">
+<a href="https://clutch.co/profile/r%C3%A9gens-plc" target="_blank">
+<img property="image" class="img-responsive" data-echo="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/uj_regens_logo_hu_icon_200x200.png?itok=vPgHSha9" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="65" alt="Régens" /><noscript><img property="image" class="img-responsive" src="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/uj_regens_logo_hu_icon_200x200.png?itok=vPgHSha9" width="65" height="65" alt="Régens" /></noscript> </a>
+</div>
+<h3 class="company-name">
+<a href="/profile/r%C3%A9gens-plc" target="_blank">Régens Plc</a> </h3>
+<p class="tagline">Coded for your Success</p>
+<div class="rating-reviews"></div>
+</div>
+</div>
+<div class="row provider-info no-margin">
+<div class="col-xs-12 col-sm-6 col-md-3 provider-info__description">
+<blockquote class="blockquote-in-module"><p>A bespoke software development company. Regens specializes in software, web, and mobile development. Past work includes Avon, Siemens, and Lufthansa. </p>
+</blockquote>
+</div>
+<div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
+<div class="module-list">
+<div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $5,000+ </div>
+<div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$25 - $49</span> / hr
+</div>
+ <div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">10 - 49</span></div>
+<div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
+<span class="locality">Budapest,</span>
+</span><span class="location-country">
+<span class="country-name">Hungary</span>
+</span></div>
+</div>
+</div>
+<div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
+<div class="row">
+<div class="directory-graph directory-main-bar">
+<div class="graph-title">Service focus</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-92765" data-clutch-toggle="graph" data-clutch-graph-nid="92765"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-92765" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-92765" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-92765" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+<div class="directory-graph directory-secondary-bar">
+<div class="graph-title second_bar_name">&nbsp;</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-92765-2" data-clutch-toggle="graph" data-clutch-graph-nid="92765" data-clutch-graph-type="sec"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-927652" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-927652" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-927652" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+ </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-md-2 provider-link-details">
+<ul class="nav nav-pills nav-stacked nav-right-profile">
+<li class="website-link website-link-a">
+<a href="http://www.regenseurope.com" rel="nofollow" target="_blank">
+<i class="icon icon-visit-site"></i><span class="">Visit Website</span>
+</a>
+</li>
+<li>
+<a href="/profile/r%C3%A9gens-plc" target="_blank">
+<span class="hidden-xs">View Profile</span>
+<i class="icon icon-profile"></i>
+</a>
+</li>
+<li>
+<a href="" class="contact">
+<span class="hidden-xs">Contact</span>
+<i class="icon icon-contact"></i>
+</a>
+<div class="contact-dropdown hide">
+<div class="contact-dropdown-header">
+<a href="#!" class="btn-close-contact pull-right"><i class="icon icon-close"></i></a>
+<div class="dropdown-title">CONTACT</div>
+</div>
+<div class="item">
+<i class="icon icon-mail visible-xs-inline"></i><a id='YxblLKizE' rel='nofollow'></a><script>var YxblLKizE = '#gens.hu#szarka.andrea@re';
+var YxblLKizE = YxblLKizE.split('#');
+document.getElementById('YxblLKizE').innerHTML = YxblLKizE[2]+YxblLKizE[1]+YxblLKizE[0];
+document.getElementById('YxblLKizE').href = 'mailto:'+YxblLKizE[2]+YxblLKizE[1]+YxblLKizE[0];
+</script>
+</div>
+<div class="line"></div>
+<div class="item __color6a">
+<i class="icon icon-phone visible-xs-inline"></i>+36 1 205 3090 </div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="provider-row"><div class="row" data-clutch-nid="35382">
+<div class="col-xs-12 col-md-10 bordered-right provider-base-info">
+<div class="row provider-row-header">
+<div class="col-xs-12">
+<div class="company-logo">
+<a href="https://clutch.co/profile/glorium-technologies" target="_blank">
+<img property="image" class="img-responsive" data-echo="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/icon_3.png?itok=1uknBm1J" data-icon="/sites/all/modules/contrib/lazyloader/loader/loader-7.gif" src="//static1.clutch.co/sites/all/modules/contrib/lazyloader/image_placeholder.gif" width="65" height="65" alt="" /><noscript><img property="image" class="img-responsive" src="//static1.clutch.co/sites/default/files/styles/logo_small/public/logos/icon_3.png?itok=1uknBm1J" width="65" height="65" alt="" /></noscript> </a>
+</div>
+<h3 class="company-name">
+<a href="/profile/glorium-technologies" target="_blank">Glorium Technologies</a> </h3>
+<p class="tagline">Profitable IT - increased power and flexibility</p>
+<div class="rating-reviews"></div>
+</div>
+</div>
+<div class="row provider-info no-margin">
+<div class="col-xs-12 col-sm-6 col-md-3 provider-info__description">
+<blockquote class="blockquote-in-module"><p>Glorium Technologies IT experts will show you the way how to optimize potential of your business processes, widen you...</p>
+</blockquote>
+</div>
+<div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
+<div class="module-list">
+<div class="list-item undisclosed"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> Undisclosed</div>
+<div class="list-item undisclosed"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> Undisclosed</div>
+<div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">50 - 249</span></div>
+<div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
+<span class="locality">Manalapan,</span>
+<span class="region">NJ</span>
+</span><span class="location-country">
+</span></div>
+</div>
+</div>
+<div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
+<div class="row">
+<div class="directory-graph directory-main-bar">
+<div class="graph-title">Service focus</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-35382" data-clutch-toggle="graph" data-clutch-graph-nid="35382"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-35382" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-35382" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-35382" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+<div class="directory-graph directory-secondary-bar">
+<div class="graph-title second_bar_name">&nbsp;</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-35382-2" data-clutch-toggle="graph" data-clutch-graph-nid="35382" data-clutch-graph-type="sec"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-353822" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-353822" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-353822" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-md-2 provider-link-details">
+<ul class="nav nav-pills nav-stacked nav-right-profile">
+<li class="website-link website-link-a">
+<a href="http://gloriumtech.com/" rel="nofollow" target="_blank">
+<i class="icon icon-visit-site"></i><span class="">Visit Website</span>
+</a>
+</li>
+<li>
+<a href="/profile/glorium-technologies" target="_blank">
+<span class="hidden-xs">View Profile</span>
+<i class="icon icon-profile"></i>
+</a>
+</li>
+<li>
+<a href="" class="contact">
+<span class="hidden-xs">Contact</span>
+<i class="icon icon-contact"></i>
+</a>
+<div class="contact-dropdown hide">
+<div class="contact-dropdown-header">
+<a href="#!" class="btn-close-contact pull-right"><i class="icon icon-close"></i></a>
+<div class="dropdown-title">CONTACT</div>
+</div>
+<div class="item">
+<i class="icon icon-mail visible-xs-inline"></i><a id='jhMGuSfbn' rel='nofollow'></a><script>var jhMGuSfbn = '#ech.com#vmakarov@gloriumt';
+var jhMGuSfbn = jhMGuSfbn.split('#');
+document.getElementById('jhMGuSfbn').innerHTML = jhMGuSfbn[2]+jhMGuSfbn[1]+jhMGuSfbn[0];
+document.getElementById('jhMGuSfbn').href = 'mailto:'+jhMGuSfbn[2]+jhMGuSfbn[1]+jhMGuSfbn[0];
+</script>
+</div>
+<div class="line"></div>
+<div class="item __color6a">
+<i class="icon icon-phone visible-xs-inline"></i>888.354.0883 </div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="provider-row"><div class="row" data-clutch-nid="242583">
+<div class="col-xs-12 col-md-10 bordered-right provider-base-info">
+<div class="row provider-row-header">
+<div class="col-xs-12">
+<div class="company-logo">
+<a href="https://clutch.co/profile/mybex" target="_blank">
+</a>
+</div>
+<h3 class="company-name">
+<a href="/profile/mybex" target="_blank">Mybex</a> </h3>
+<p class="tagline">Software development company</p>
+<div class="rating-reviews"></div>
+</div>
+</div>
+<div class="row provider-info no-margin">
+<div class="col-xs-12 col-sm-6 col-md-3 provider-info__description">
+<blockquote class="blockquote-in-module"><p>Mybex performs ruby on rails development, web design, tech support, and consulting.</p>
+</blockquote>
+</div>
+<div class="col-xs-12 col-sm-6  col-md-3 provider-info__details">
+<div class="module-list">
+<div class="list-item"><i class="icon-paid" data-toggle="tooltip" data-placement="auto" title="Min. project size"></i> $10,000+ </div>
+<div class="list-item"><i class="icon-clock" data-toggle="tooltip" data-placement="auto" title="Avg. hourly rate"></i> <span class="hourly-rate">$25 - $49</span>  / hr
+</div>
+<div class="list-item"><i class="icon-person" data-toggle="tooltip" data-placement="auto" title="Employees"></i> <span class="employees">2 - 9</span></div>
+<div class="list-item"><i class="icon-directions" data-toggle="tooltip" data-placement="auto" title="Location"></i><span class="location-city">
+</span><span class="location-country">
+<span class="country-name">Estonia</span>
+</span></div>
+</div>
+</div>
+<div class="col-xs-12 col-md-6 bordered-right bordered-left provider-info__chart-data">
+<div class="row">
+<div class="directory-graph directory-main-bar">
+<div class="graph-title">Service focus</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-242583" data-clutch-toggle="graph" data-clutch-graph-nid="242583"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-242583" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-242583" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-242583" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+<div class="directory-graph directory-secondary-bar">
+<div class="graph-title second_bar_name">&nbsp;</div>
+<div class="chartAreaWrapper service-focus-graph" id="service-focus-242583-2" data-clutch-toggle="graph" data-clutch-graph-nid="242583" data-clutch-graph-type="sec"></div>
+<div class="chart-label hidden-xs"></div>
+<div class="chart-label-carousel visible-xs">
+<div id="chart-label-carousel-2425832" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner"></div>
+<a class="left carousel-control" href="#chart-label-carousel-2425832" role="button" data-slide="prev" data-toggle="sliderprev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#chart-label-carousel-2425832" role="button" data-slide="next" data-toggle="slidernext">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+ </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-md-2 provider-link-details">
+<ul class="nav nav-pills nav-stacked nav-right-profile">
+<li class="website-link website-link-a">
+<a href="http://mybex.net" rel="nofollow" target="_blank">
+<i class="icon icon-visit-site"></i><span class="">Visit Website</span>
+</a>
+</li>
+<li>
+<a href="/profile/mybex" target="_blank">
+<span class="hidden-xs">View Profile</span>
+<i class="icon icon-profile"></i>
+</a>
+</li>
+<li>
+<a href="" class="contact">
+<span class="hidden-xs">Contact</span>
+<i class="icon icon-contact"></i>
+</a>
+<div class="contact-dropdown hide">
+<div class="contact-dropdown-header">
+<a href="#!" class="btn-close-contact pull-right"><i class="icon icon-close"></i></a>
+<div class="dropdown-title">CONTACT</div>
+</div>
+<div class="item">
+<i class="icon icon-mail visible-xs-inline"></i><a id='GavqulMyZ' rel='nofollow'></a><script>var GavqulMyZ = '#net#sales@mybex.';
+var GavqulMyZ = GavqulMyZ.split('#');
+document.getElementById('GavqulMyZ').innerHTML = GavqulMyZ[2]+GavqulMyZ[1]+GavqulMyZ[0];
+document.getElementById('GavqulMyZ').href = 'mailto:'+GavqulMyZ[2]+GavqulMyZ[1]+GavqulMyZ[0];
+</script>
+</div>
+<div class="line"></div>
+<div class="item __color6a">
+<i class="icon icon-phone visible-xs-inline"></i> </div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</div> </div>
+<ul class="pager"><li class="pager-previous"><a href="/developers/java?page=9">‹‹</a></li>
+<li class="pager-current">11 of 12</li>
+<li class="pager-next"><a href="/developers/java?page=11">››</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div></div>
+</section>
+</div>
+</div>
+</div>
+</section> 
+</div>
+</section>
+<div class="footer-container">
+<footer class="footer container">
+<div class="row">
+<div class="col-xs-12 col-sm-15 mobile-hide-menu">
+<div class="region region-footer">
+<section id="block-block-54" class="block block-block footer-bottom clearfix">
+<div class="footer-bottom-logo"><img alt="Clutch.co" class="img-responsive" src="//static1.clutch.co/sites/all/themes/clutch2/images/logo_white.svg" /></div>
+<ul><li>© 2018 Clutch</li>
+<li><a href="/terms">Terms of Service</a></li>
+<li><a href="/privacy">Privacy</a></li>
+</ul>
+</section> 
+</div>
+</div>
+<div class="col-xs-12 col-sm-15 pull-right">
+<div class="region region-footer-fourth">
+<section id="block-block-70" class="block block-block footer-can-we-help clearfix">
+<div class="block-title"><a href="/contact">Contact</a></div>
+<div class="footer-can-we-help-wrapper">
+<p>800.215.2776</p>
+<p>1146 19th Street, NW<br>
+Suite 400<br>
+Washington, DC 20036</p>
+<p><a href="/contact">Contact Us</a></p>
+</div>
+<div class="brand-bg"><a class="linkedin sl-ext" href="https://www.linkedin.com/company/clutch-co"><i class="fa fa-linkedin circle-3"></i></a>&nbsp; <a class="facebook sl-ext" href="https://www.facebook.com/clutch.co"><i class="fa fa-facebook circle-3"></i></a>&nbsp; <a class="twitter sl-ext" href="https://twitter.com/clutch_co"><i class="fa fa-twitter circle-3"></i></a></div>
+</section> 
+</div>
+</div>
+<div class="col-xs-12 col-sm-15 hidden-xs">
+<div class="region region-footer-first">
+<section id="block-block-121" class="block block-block menu-name-menu-footer-links clearfix">
+<div class="block-title">Service Providers</div>
+<ul class="menu nav"><li class="first leaf menu-mlid-64354"><a href="/service-providers" title="">Why Clutch</a></li>
+<li class="leaf menu-mlid-64355"><a href="/get-listed" title="">Get Listed</a></li>
+<li class="leaf menu-mlid-64448"><a href="/widgets-logos-badges" title="">Widgets, Logos, Badges</a></li>
+<li class="last leaf menu-mlid-64356"><a href="/sponsorship" title="">Sponsorship</a></li>
+</ul>
+</section> 
+</div>
+</div>
+<div class="col-xs-12 col-sm-15 mobile-lines-show">
+<div class="region region-footer-second">
+<section id="block-block-123" class="block block-block menu-name-menu-footer-links clearfix">
+<div class="block-title">About Us</div>
+<ul class="menu nav"><li class="first leaf menu-mlid-64445"><a href="/about-us" title="">Company</a></li>
+<li class="leaf menu-mlid-65267"><a href="/methodology" title="">Methodology</a></li>
+<li class="leaf menu-mlid-64364"><a href="/sponsors" title="">Sponsors</a></li>
+<li class="last leaf menu-mlid-64453"><a href="/press-releases" title="">Press releases</a></li>
+</ul>
+</section> 
+</div>
+</div>
+<div class="col-xs-12 col-sm-15 hidden-xs">
+<div class="region region-footer-third">
+<section id="block-block-127" class="block block-block menu-name-menu-footer-links clearfix">
+<div class="block-title">Resources</div>
+<ul class="menu nav"><li class="first leaf menu-mlid-66379"><a href="/resources" title="">All Resources</a></li>
+<li class="leaf menu-mlid-66380"><a href="/app-development/resources" title="">App Development</a></li>
+<li class="last leaf menu-mlid-66381"><a href="/web-designers/resources" title="">Web Design</a></li>
+<li class="leaf menu-mlid-66382"><a href="/write-for-us" title="">Write for Us</a></li>
+</ul>
+</section> 
+</div>
+</div>
+<div class="col-xs-12 col-sm-15 visible-xs mobile-show-menu">
+<div class="region region-footer">
+<div class="region region-footer">
+<section id="block-block-54" class="block block-block footer-bottom clearfix">
+<div class="footer-bottom-logo"><img alt="Clutch.co" class="img-responsive" src="//static1.clutch.co/sites/all/themes/clutch2/images/logo_white.svg" /></div>
+<ul><li>© 2018 Clutch</li>
+<li><a href="/terms">Terms of Service</a></li>
+<li><a href="/privacy">Privacy</a></li>
+</ul>
+</section> 
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<div class="bg-contact-dropdown"></div>
+<script src="//static2.clutch.co/sites/default/files/js/js_UJ4MYo9Uj1BUFIlqZ507XTMnBNM-BebKKfPUk4amPuE.js"></script>
+<script src="//static1.clutch.co/sites/default/files/js/js_aBispxJDU7S6G4anwUZ1Cs3AnDkQg08XNzudRIj3yuI.js"></script>
+<script src="//static2.clutch.co/sites/default/files/js/js_hGVMWsY2SC4Y0hbhL_5RI_XzUUzG_ZOY8c9tPjqacPk.js"></script>
+<script src="//cdn.jsdelivr.net/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="//static1.clutch.co/sites/default/files/js/js_QJcS36rd4wtajh_XQm3WgB4NAGjfYcVRyhtmIit0-mI.js"></script>
+<script>var islrsharing = true; var islrsocialcounter = true; var hybridsharing = true;</script>
+<script src="https://www.google.com/jsapi"></script>
+<script src="//static1.clutch.co/sites/default/files/js/js_67iPZ5OzNb_fPB8qmvqL_9iCj8k8Qkpf563qxFj54Yc.js"></script>
+<script src="//static2.clutch.co/sites/default/files/js/js_RfrKaXT2lqSHmOsoTqt4baHadkKI6ZQUuj_dafpEEpU.js"></script>
+<script src="//static1.clutch.co/sites/default/files/js/js_1X9jbnqD3Z81Rq203pbo16KH3yu2htAt2r5Fg1Qr75I.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"clutch2","theme_token":"HWMo6XcDKg00RiadbLgHf2KMyzRLWzMBZM1wBLO82yY","jquery_version":"1.10","js":{"public:\/\/google_tag\/google_tag.script.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/custom\/clutch_graph\/js\/clutch_graph.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.7\/js\/bootstrap.min.js":1,"sites\/all\/modules\/custom\/sl_extlink\/sl_extlink.js":1,"0":1,"https:\/\/www.google.com\/jsapi":1,"sites\/all\/modules\/location\/location_autocomplete.js":1,"sites\/all\/modules\/better_exposed_filters\/better_exposed_filters.js":1,"misc\/autocomplete.js":1,"sites\/all\/modules\/ctools\/js\/dependent.js":1,"sites\/all\/modules\/contrib\/lazyloader\/lazyloader.js":1,"sites\/all\/libraries\/echo\/dist\/echo.min.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/_progress.js":1,"sites\/all\/themes\/clutch2\/js\/jquery.scrollTo.min.js":1,"sites\/all\/themes\/clutch2\/js\/sticky.js":1,"sites\/all\/themes\/clutch2\/js\/chosen\/chosen.jquery.js":1,"sites\/all\/themes\/clutch2\/js\/jquery.matchHeight-min.js":1,"sites\/all\/themes\/clutch2\/js\/jquery.mCustomScrollbar.min.js":1,"sites\/all\/themes\/clutch2\/js\/script.js":1,"sites\/all\/themes\/clutch2\/js\/ui.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/autocomplete.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/ajax.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/lazyloader\/lazyloader.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/clutch2\/css\/view-directory.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.7\/css\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.7\/overrides.min.css":1,"sites\/all\/themes\/clutch2\/css\/main.css":1,"sites\/all\/themes\/clutch2\/css\/print.css":1,"https:\/\/fonts.googleapis.com\/css?family=Lato:700,700italic,italic,regular|Roboto:regular\u0026subset=latin":1}},"better_exposed_filters":{"datepicker":false,"slider":false,"settings":[],"autosubmit":false,"views":{"lm_web_dev_java":{"displays":{"directory":{"filters":{"field_pp_size_people_value":{"required":false},"country":{"required":false},"state":{"required":false},"distance":{"required":false},"field_pp_hrly_rate_range_value":{"required":false},"field_pp_cs_small_biz_value":{"required":false},"field_pp_cs_midmarket_value":{"required":false},"field_pp_cs_enterprise_value":{"required":false},"field_pp_if_advertising_value":{"required":false},"field_pp_if_automotive_value":{"required":false},"field_pp_if_arts_value":{"required":false},"field_pp_if_bizservices_value":{"required":false},"field_pp_if_conproducts_value":{"required":false},"field_pp_if_education_value":{"required":false},"field_pp_if_natural_resources_value":{"required":false},"field_pp_if_finservices_value":{"required":false},"field_pp_if_gambling_value":{"required":false},"field_pp_if_gaming_value":{"required":false},"field_pp_if_government_value":{"required":false},"field_pp_if_healthcare_value":{"required":false},"field_pp_if_hospitality_value":{"required":false},"field_pp_if_it_value":{"required":false},"field_pp_if_legal_value":{"required":false},"field_pp_if_manufacturing_value":{"required":false},"field_pp_if_media_value":{"required":false},"field_pp_if_nonprofit_value":{"required":false},"field_pp_if_realestate_value":{"required":false},"field_pp_if_retail_value":{"required":false},"field_pp_if_telecom_value":{"required":false},"field_pp_if_transportation_value":{"required":false},"field_pp_if_utilities_value":{"required":false},"field_pp_if_other_value":{"required":false},"field_pp_min_project_size_value":{"required":false}}}}},"leaders_matrix_analyst":{"displays":{"block":{"filters":[]}}}}},"CTools":{"dependent":{"edit-distance-postal-code":{"values":[],"num":1,"type":"hide"},"edit-distance-country":{"values":[],"num":1,"type":"hide"}}},"clutchExposedGroup":{"views-exposed-form-lm-web-dev-java-directory":{"client_focus":{"label":"Client focus","class":"exposed-group-client-focus","field_value":30,"fields":["filter-field_pp_cs_small_biz_value","filter-field_pp_cs_midmarket_value","filter-field_pp_cs_enterprise_value"],"open":false},"industry_focus":{"label":"Industry focus","class":"exposed-group-industry-focus","field_value":10,"fields":["filter-field_pp_if_advertising_value","filter-field_pp_if_automotive_value","filter-field_pp_if_arts_value","filter-field_pp_if_bizservices_value","filter-field_pp_if_conproducts_value","filter-field_pp_if_education_value","filter-field_pp_if_natural_resources_value","filter-field_pp_if_finservices_value","filter-field_pp_if_gambling_value","filter-field_pp_if_gaming_value","filter-field_pp_if_government_value","filter-field_pp_if_healthcare_value","filter-field_pp_if_hospitality_value","filter-field_pp_if_it_value","filter-field_pp_if_legal_value","filter-field_pp_if_manufacturing_value","filter-field_pp_if_media_value","filter-field_pp_if_nonprofit_value","filter-field_pp_if_realestate_value","filter-field_pp_if_retail_value","filter-field_pp_if_telecom_value","filter-field_pp_if_transportation_value","filter-field_pp_if_utilities_value","filter-field_pp_if_other_value"],"open":false}}},"urlIsAjaxTrusted":{"\/developers\/java":true},"lazyloader":{"throttle":50,"offset":250,"debounce":true,"unload":false,"icon":"\/sites\/all\/modules\/contrib\/lazyloader\/loader\/loader-7.gif","offsetX":12,"offsetY":12},"sl_extlink":{"extTarget":0,"extClass":"sl-ext","extLabel":"(link is external)","extImgClass":true,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)","extRedirect":true,"extRedirectBase":"http:\/\/clutch.co\/hlr\/l.php"},"bootstrap":{"anchorsFix":0,"anchorsSmoothScrolling":0,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</body>
+</html>
