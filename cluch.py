@@ -26,7 +26,7 @@ cur.execute('use clutch_co')
 
 categories_Url='https://clutch.co/directories'
 
-print('connecting...........for catag.')
+print('connecting...........for initialising')
 categories_html=requests.get(categories_Url)
 
 categories_Soup=Bs(categories_html.text,'html.parser')
@@ -73,31 +73,51 @@ try:
     cur.execute(sql)
 except Exception as e:
     print(e)
-for head in header_item:
+
+count=0
+for head in header_item[:]:
     cat_link=cat_dict[head]
     link=list(cat_dict[head].keys())
 
     for links in link:
+        print('categ = ',count)
+        count+=1
         url='https://clutch.co'
 
         new_url=url+cat_link[links]
 
         print('connecting...............catag '+new_url)
-        
-        try:
-            fp=open(new_url+'.text','r')
-            new_content=fp.read()
+        file_u=cat_link[links].replace('/','_')
+        print('file_u........',file_u)
 
+        try:
+
+            fp=open('catag/'+file_u+'.text','r')
+            new_content=fp.read()
+            print()
+            print('file eXiSt...........')
+            print()
             fp.close()
+            continue
         except Exception as e:
             try:
+                
+                if(file_u[0].isalpha()):
+                    pass
+                else:
+                    file_u=file_u[1:]
+                if(file_u[-1].isalpha()):
+                    pass
+                else:
+                    file_u=file_u[:-1]
+                print('trying..... ',new_url)
                 new_content=requests.get(new_url)
                 new_content=new_content.text
-                fp=open(new_url+'.text','w+')
+                fp=open('catag/'+file_u+'.text','w+')
                 fp.write(new_content)
                 fp.close()
-            except Exception as e:
-                print(e)
+            except Exception as e1:
+                print(e1)
 
                 
                 
@@ -107,24 +127,24 @@ for head in header_item:
 
         num_of_row=page_soup.find('li',class_='pager-current').text
         num_of_row=int(num_of_row.split(' ')[-1])
-        rj='_'.join(head.split(' '))
-
-        linkable=''.join(rj.split('&')).replace('(','').replace(')','')
+        
         
         print()
-        print()
-        print('linkable '+linkable)
+        print('FOR LOOP START.........for ',file_u)
+        print('linkable ..............'+file_u)
         
         for i in range(num_of_row):
             new_url1=new_url+'?page='+str(i)
             
             print('connecting...............for page '+str(i))
-            lunk=linkable
-            lunk=lunk+'_page'+str(i)+'.text'
+            
+            lunk=file_u+'_page'+str(i)+'.text'
             try:
-                fp=open(lunk,'r')
+                fp=open('cat_page/'+lunk,'r')
+                
                 page_data=fp.read()
                 fp.close()
+                continue
             except Exception as e:
                 try:
                     print(new_url1)
@@ -133,10 +153,13 @@ for head in header_item:
                         print('page open')
                         print()
                         print()
-                        fp=open(lunk,'w+')
+                        fp=open('cat_page/'+lunk,'w+')
                         fp.write(page_data.text)
+                        page_data=page_data.text
                         print('page written')
-                    
+                        print()
+                        print()
+
                 except Exception as e1:
                     print('page error'+str(e1))
             
@@ -236,13 +259,15 @@ for head in header_item:
                     company_contact=''
                 
                 #print('company_contact='+company_contact)
-                query='insert into clutch_db values("'+company_id+'","'+linkable+'","'+company_name+'","'+company_contact+'","'+company_website+'","'+company_location_city+'","'+company_location_region+'","'+company_employee+'","'+company_rating+'","'+company_review_count+'")'
+                query='insert into clutch_db values("'+company_id+'","'+file_u+'","'+company_name+'","'+company_contact+'","'+company_website+'","'+company_location_city+'","'+company_location_region+'","'+company_employee+'","'+company_rating+'","'+company_review_count+'")'
                 print('inserted company'+ company_name)
                 try:    
                     cur.execute(query)
                     conn.commit()
                 except Exception as e:
                     print(e)
+                    
+
                    
         
 print()
